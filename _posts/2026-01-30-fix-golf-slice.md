@@ -35,7 +35,7 @@ The result is sidespin that curves the ball away from the target.
 
 1. **Weak grip** - Hands rotated too far left on the club ([learn more about grip types](/golf/swing-tips/2026/02/02/golf-grip-guide.html))
 2. **Outside-in swing path** - Coming "over the top"
-3. **Open clubface at impact** - Often from early release
+3. **Open clubface at impact** - Often from early release ([master club face control](/golf/instruction/2026/03/01/club-face-control.html))
 4. **Ball position too far forward** - Promotes an open face ([setup fundamentals](/golf/swing-tips/2026/02/13/golf-setup-stance.html))
 
 ## The 5-Minute Fix
