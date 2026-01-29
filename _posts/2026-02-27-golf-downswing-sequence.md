@@ -196,7 +196,7 @@ Key principles:
 - Hips lead, shoulders follow, arms last
 - Bump before you turn
 - Let the club lag behind
-- Maintain your angles through impact
+- Maintain your angles through [impact](/2026/02/28/golf-impact-position/)
 
 Focus on sequence, and speed follows. The opposite isn't true.
 
