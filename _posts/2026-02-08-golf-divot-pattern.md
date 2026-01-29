@@ -60,7 +60,7 @@ Club bottoming out too early. Often from improper weight shift or trying to help
 
 ### Divot starts at the ball or after:
 
-Correct contact. The club reaches its low point at or just after the ball, compressing it into the turf.
+Correct contact. The club reaches its low point at or just after the ball, [compressing it into the turf](/golf/swing-tips/2026/02/09/golf-ball-compression.html).
 
 ### Divot starts behind ball:
 
@@ -70,7 +70,7 @@ Fat contact. The club is hitting ground before ball, losing energy and distance.
 
 | Problem | Divot Pattern | Diagnosis | Fix |
 |---------|---------------|-----------|-----|
-| Slice + deep divots | Points left, deep | Over-the-top with steep angle | Work on shallowing and inside path |
+| Slice + deep divots | Points left, deep | Over-the-top with steep angle | Work on [shallowing](/golf/swing-tips/2026/02/04/shallowing-golf-club.html) and inside path |
 | Hooks + shallow divots | Points right, shallow | Extreme in-to-out | Feel more "across" the ball |
 | Thin shots | No divot | Early extension or hanging back | Get weight forward, stay in posture |
 

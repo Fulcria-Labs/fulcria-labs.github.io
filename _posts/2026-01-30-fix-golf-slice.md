@@ -33,10 +33,10 @@ The result is sidespin that curves the ball away from the target.
 
 **Common causes:**
 
-1. **Weak grip** - Hands rotated too far left on the club
+1. **Weak grip** - Hands rotated too far left on the club ([learn more about grip types](/golf/swing-tips/2026/02/02/golf-grip-guide.html))
 2. **Outside-in swing path** - Coming "over the top"
 3. **Open clubface at impact** - Often from early release
-4. **Ball position too far forward** - Promotes an open face
+4. **Ball position too far forward** - Promotes an open face ([setup fundamentals](/golf/swing-tips/2026/02/13/golf-setup-stance.html))
 
 ## The 5-Minute Fix
 
@@ -46,7 +46,7 @@ Look down at your left hand (for righties). Can you see 2-3 knuckles? If not, ro
 
 ### Step 2: Setup Square (30 seconds)
 
-Put a club on the ground pointing at your target. Now set your feet, hips, and shoulders parallel to it. Many slicers unknowingly aim left, which forces an outside-in swing.
+Put a club on the ground pointing at your target. Now set your feet, hips, and shoulders parallel to it. Many slicers unknowingly aim left, which forces an outside-in swing. For a complete breakdown of proper alignment, see our [golf setup and stance guide](/golf/swing-tips/2026/02/13/golf-setup-stance.html).
 
 ### Step 3: Feel the Inside Path (2 minutes)
 

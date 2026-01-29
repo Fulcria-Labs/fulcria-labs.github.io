@@ -54,7 +54,7 @@ The key is matching your grip to your swing tendencies.
 
 | Your Miss | Try This |
 |-----------|----------|
-| Slice | Stronger grip |
+| Slice | Stronger grip (see our [slice fix guide](/golf/swing-tips/2026/01/30/fix-golf-slice.html)) |
 | Hook | Weaker grip |
 | Inconsistent | Start neutral and adjust |
 

@@ -39,8 +39,8 @@ Attention and intention matter more than volume. Research on motor learning show
 Not two things. One. Examples:
 
 - Keep my head still through impact
-- Feel my weight shift to front foot
-- Pause at the top of my backswing
+- Feel my [weight shift to front foot](/golf/swing-tips/2026/02/12/golf-weight-transfer.html)
+- Pause at the top of my backswing ([tempo fundamentals](/golf/swing-tips/2026/02/11/golf-swing-tempo.html))
 
 ### 20 seconds: Visualize the shot
 

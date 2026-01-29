@@ -80,7 +80,7 @@ Taking lessons back-to-back without practice time is like reading textbooks but 
 
 ### After the lesson:
 
-- Practice within 48 hours while the feeling is fresh
+- Practice within 48 hours while the feeling is fresh (see our [practice routine guide](/golf/swing-tips/2026/02/03/golf-practice-routine.html))
 - Use video to verify you're doing the drills correctly
 - Track what works and what doesn't
 

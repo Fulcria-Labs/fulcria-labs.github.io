@@ -57,11 +57,11 @@ Products like SuperSpeed or Rypstick use overspeed training to increase your neu
 
 ### 2. Improve Your Sequencing
 
-The fastest swings have proper kinematic sequence: lower body leads, then hips, then torso, then arms. Poor sequencing "leaks" speed at every transition.
+The fastest swings have proper kinematic sequence: lower body leads, then hips, then torso, then arms. Poor sequencing "leaks" speed at every transition. See our guides on [hip rotation](/golf/swing-tips/2026/02/10/golf-hip-rotation.html) and [weight transfer](/golf/swing-tips/2026/02/12/golf-weight-transfer.html) for specifics.
 
 ### 3. Increase Your X-Factor
 
-The separation between your hip rotation and shoulder rotation at the top of your backswing creates stored energy. More flexibility = more potential speed.
+The separation between your hip rotation and shoulder rotation at the top of your backswing creates stored energy. More flexibility = more potential speed. Learn more in our [tempo and timing guide](/golf/swing-tips/2026/02/11/golf-swing-tempo.html).
 
 ### 4. Get Fitted for the Right Shaft
 

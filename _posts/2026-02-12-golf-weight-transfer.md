@@ -36,7 +36,7 @@ In the follow-through, you end with nearly all your weight on your front foot, a
 
 **For power:** Ground reaction force is how you tap into the biggest energy source available. Pushing off the ground generates force that travels up through your body and into the club.
 
-**For contact:** Your low point (where the club touches the ground) follows your weight. If your weight stays back, your low point moves back—leading to fat and thin shots.
+**For contact:** Your low point (where the club touches the ground) follows your weight. If your weight stays back, your low point moves back—leading to fat and thin shots. This is why weight transfer is essential for [proper ball compression](/golf/swing-tips/2026/02/09/golf-ball-compression.html).
 
 **For consistency:** A predictable weight shift creates a predictable swing path. Erratic weight means erratic contact.
 
@@ -76,7 +76,7 @@ Video doesn't lie. Record your swing from behind and watch your head position. D
 
 ## Weight Transfer and Hip Rotation
 
-These two concepts are linked. Good hip rotation naturally creates good weight transfer. If your hips rotate toward the target, your weight follows. If your hips stall or spin out, your weight gets stuck.
+These two concepts are linked. Good [hip rotation](/golf/swing-tips/2026/02/10/golf-hip-rotation.html) naturally creates good weight transfer. If your hips rotate toward the target, your weight follows. If your hips stall or spin out, your weight gets stuck.
 
 Work on both together for best results.
 

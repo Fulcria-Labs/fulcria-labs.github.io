@@ -44,7 +44,7 @@ How to spot it: If your head moves significantly toward the target in the downsw
 
 ### Mistake 2: Early Hip Rotation
 
-Some golfers spin out too early—the hips fly open before the arms can catch up. This creates an over-the-top move and pulls the club across the ball.
+Some golfers spin out too early—the hips fly open before the arms can catch up. This creates an over-the-top move and pulls the club across the ball. For more on this, see our [shallowing the club guide](/golf/swing-tips/2026/02/04/shallowing-golf-club.html).
 
 How to spot it: If you consistently hit pulls or pull-slices, your hips might be outpacing your arms.
 
@@ -70,7 +70,7 @@ Before blaming technique, check your mobility. Can you turn your hips 45 degrees
 
 ## The Connection to Ball Compression
 
-Remember that ball compression requires forward weight shift and a descending blow. Proper hip rotation is what creates that. When your hips lead the downswing and rotate through impact, your weight naturally moves forward and the club approaches from the inside on a downward path.
+Remember that [ball compression](/golf/swing-tips/2026/02/09/golf-ball-compression.html) requires forward weight shift and a descending blow. Proper hip rotation is what creates that. When your hips lead the downswing and rotate through impact, your weight naturally moves forward and the club approaches from the inside on a downward path.
 
 Without hip rotation, you're swinging with just arms—and that's a recipe for weak, inconsistent contact.
 

@@ -31,9 +31,9 @@ I spent two months testing six different AI swing apps to find out what's real a
 **What AI does well:**
 
 - Detecting body positions and angles
-- Measuring tempo and timing
+- Measuring [tempo and timing](/golf/swing-tips/2026/02/11/golf-swing-tempo.html)
 - Tracking swing path direction
-- Identifying common fault patterns
+- Identifying common fault patterns (like the [slice](/golf/swing-tips/2026/01/30/fix-golf-slice.html))
 - Providing instant feedback (vs. waiting for a lesson)
 
 **What AI struggles with:**

@@ -59,9 +59,9 @@ Keeping the stick in your peripheral vision trains your body to swing on plane.
 
 With a club but no ball, make swings at 25% speed. Focus on:
 
-- Feeling weight transfer
+- Feeling [weight transfer](/golf/swing-tips/2026/02/12/golf-weight-transfer.html)
 - Keeping head steady
-- Smooth transition from backswing to downswing
+- Smooth transition with proper [tempo](/golf/swing-tips/2026/02/11/golf-swing-tempo.html)
 
 Slow motion builds the neural pathways that fast swings can't create.
 
@@ -73,7 +73,7 @@ Hit into an impact bag (or firm pillow) focusing on:
 - Hitting with the body, not just arms
 - Proper position at impact
 
-This builds the feel of compression without needing a ball.
+This builds the feel of [compression](/golf/swing-tips/2026/02/09/golf-ball-compression.html) without needing a ball.
 
 ## Indoor Equipment Worth Owning
 
