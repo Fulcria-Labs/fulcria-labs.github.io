@@ -81,5 +81,6 @@ Between shots, watch your previous swing. Did you actually do what you intended?
 
 ---
 
+**Related:** [Why making practice fun accelerates learning](/2026/03/04/psychology-of-golf-practice/)
 
 *Ready to make every range session count? [Get instant feedback between swings with Swing Analyzer →](https://swing.fulcria.com)*
