@@ -191,7 +191,8 @@ The ball doesn't lie. Where it starts tells you where the face was.
 3. **Feel a flat wrist at the top** - Not cupped
 4. **Square earlier, not at the last second** - Use the motorcycle feel
 5. **Rotate through impact** - Body turn, not hand flip
-6. **Video yourself** - Verify what you feel matches reality
+6. **Release naturally** - Let the [release](/2026/03/02/golf-release/) happen, don't force it
+7. **Video yourself** - Verify what you feel matches reality
 
 Club face control is trainable. It's not about athleticism or talent—it's about knowing what to work on and doing the reps.
 

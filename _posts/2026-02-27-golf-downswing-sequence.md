@@ -197,6 +197,7 @@ Key principles:
 - Bump before you turn
 - Let the club lag behind
 - Maintain your angles through [impact](/2026/02/28/golf-impact-position/)
+- Let the [release](/2026/03/02/golf-release/) happen naturally at the end
 
 Focus on sequence, and speed follows. The opposite isn't true.
 

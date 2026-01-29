@@ -212,6 +212,7 @@ Impact position is the result of everything before it. You can't consciously arr
 2. **Build awareness**: Slow-motion practice and video feedback show you what's happening
 3. **Groove the feeling**: Impact bag work and preset drills create muscle memory
 4. **Trust the process**: Good impact feels different than you expect at first
+5. **Continue through**: Impact isn't the end—master the [release](/2026/03/02/golf-release/) for maximum power transfer
 
 Focus on the positions. Trust the training. Let impact happen.
 
