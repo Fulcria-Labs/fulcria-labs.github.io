@@ -173,6 +173,7 @@ Sometimes the best way to improve faster is to enjoy practice more.
 ---
 
 **Related Posts:**
+- [The Science of Feedback Timing: Why 90 Seconds Matters](/2026/01/29/golf-feedback-timing-science.html)
 - [Golf Practice Routine: How the Pros Do It](/2026/02/03/golf-practice-routine.html)
 - [How to Practice Golf at Home](/2026/02/07/golf-practice-at-home.html)
 - [Why Most Golf Apps Waste Your Time](/2026/03/03/why-golf-apps-waste-time.html)
