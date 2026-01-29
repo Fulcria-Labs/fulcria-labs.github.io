@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/golf-lesson-frequency.png
 title: How Often Should You Take Golf Lessons?
 date: '2026-02-05'
 categories:

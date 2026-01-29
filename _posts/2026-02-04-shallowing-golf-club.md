@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/shallowing-golf-club.png
 title: 'Shallowing the Golf Club: Why It Matters and How to Do It'
 date: '2026-02-04'
 categories:

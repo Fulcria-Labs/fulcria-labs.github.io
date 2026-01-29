@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/golf-divot-pattern.png
 title: What Your Divot Pattern Tells You About Your Swing
 date: '2026-02-08'
 categories:

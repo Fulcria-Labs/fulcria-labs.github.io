@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/ai-golf-swing-analyzer-review.png
 title: I Tried AI Golf Swing Analyzers - Here's What Actually Works
 date: '2026-02-01'
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/golf-practice-routine.png
 title: The 90-Second Practice Routine That Actually Improves Your Swing
 date: '2026-02-03'
 categories:

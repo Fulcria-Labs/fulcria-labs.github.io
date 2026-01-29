@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/golf-grip-guide.png
 title: What Your Golf Grip Reveals About Your Swing
 date: '2026-02-02'
 categories:

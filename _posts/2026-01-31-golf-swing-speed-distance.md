@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/golf-swing-speed-distance.png
 title: 'Golf Swing Speed vs. Distance: What Actually Matters'
 date: '2026-01-31'
 categories:

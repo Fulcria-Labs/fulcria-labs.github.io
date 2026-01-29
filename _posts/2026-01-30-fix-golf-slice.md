@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/fix-golf-slice.png
 title: How to Fix a Golf Slice in 5 Minutes (No Lesson Required)
 date: '2026-01-30'
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/video-golf-swing.png
 title: Why Video Changed My Golf Game (And Why It'll Change Yours)
 date: '2026-02-06'
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /assets/images/golf-practice-home.png
 title: 'Golf Practice at Home: 15 Minutes to a Better Swing'
 date: '2026-02-07'
 categories:
