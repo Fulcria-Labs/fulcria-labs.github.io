@@ -1,5 +1,6 @@
 ---
 layout: post
+
 image: /assets/images/golf-practice-routine.png
 title: The 90-Second Practice Routine That Actually Improves Your Swing
 date: '2026-02-03'
@@ -20,6 +21,7 @@ seo:
     more improvement than hours of mindless hitting.
 ---
 
+![The 90-Second Practice Routine That Actually Improves Your Swing](/assets/images/golf-practice-routine.png)
 Most golfers' range sessions are wasted effort. They dump a bucket of balls, aim at the 150 marker, and mindlessly hit until the bucket's empty. Zero improvement.
 
 Here's a 90-second routine that builds real skills in minimal time.
@@ -78,5 +80,6 @@ AI swing analyzers accelerate this loop:
 4. Repeat
 
 ---
+
 
 *Ready to make every range session count? [Get instant feedback between swings with Swing Analyzer →](https://swing.fulcria.com)*

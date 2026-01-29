@@ -1,5 +1,6 @@
 ---
 layout: post
+
 image: /assets/images/golf-lesson-frequency.png
 title: How Often Should You Take Golf Lessons?
 date: '2026-02-05'
@@ -20,6 +21,7 @@ seo:
     skill level and goals.
 ---
 
+![How Often Should You Take Golf Lessons?](/assets/images/golf-lesson-frequency.png)
 Golf lessons aren't cheap. At $75-150+ per hour with a qualified instructor, most recreational golfers can't afford weekly sessions. So what's the optimal frequency?
 
 The answer depends on your goals, your practice habits, and where you are in your golf journey.
@@ -96,5 +98,6 @@ Think of AI analysis as the practice partner between professional sessions.
 **The bottom line:** Most golfers should take 6-12 lessons per year, depending on goals. But the lesson itself is just 10% of improvement. The other 90% is what you do between sessions.
 
 ---
+
 
 *Get more value from every lesson. [Use AI feedback between sessions with Swing Analyzer →](https://swing.fulcria.com)*

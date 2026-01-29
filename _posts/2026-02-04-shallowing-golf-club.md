@@ -1,5 +1,6 @@
 ---
 layout: post
+
 image: /assets/images/shallowing-golf-club.png
 title: 'Shallowing the Golf Club: Why It Matters and How to Do It'
 date: '2026-02-04'
@@ -20,6 +21,7 @@ seo:
     it helps, and 3 drills to feel the move.
 ---
 
+![Shallowing the Golf Club: Why It Matters and How to Do It](/assets/images/shallowing-golf-club.png)
 If you've watched any YouTube golf content recently, you've probably heard instructors yelling "shallow it!" or praising players for a "shallow move." But what does shallowing actually mean, and why does everyone seem obsessed with it?
 
 ## What Is Shallowing?
@@ -92,5 +94,6 @@ Film your swing from behind (down the line view). Draw a line along your shaft a
 AI swing analyzers can detect this automatically and show you frame-by-frame where your transition goes wrong.
 
 ---
+
 
 *Want to know if you're coming over the top? [Get your swing analyzed in 90 seconds →](https://swing.fulcria.com)*

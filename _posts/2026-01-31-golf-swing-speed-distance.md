@@ -1,5 +1,6 @@
 ---
 layout: post
+
 image: /assets/images/golf-swing-speed-distance.png
 title: 'Golf Swing Speed vs. Distance: What Actually Matters'
 date: '2026-01-31'
@@ -20,6 +21,7 @@ seo:
     adds yards to your drives.
 ---
 
+![Golf Swing Speed vs. Distance: What Actually Matters](/assets/images/golf-swing-speed-distance.png)
 Every golfer wants more distance. But there's a lot of confusion about what actually creates it. Let's break down the physics and give you actionable ways to add yards.
 
 ## The Distance Formula
@@ -76,5 +78,6 @@ Without data, you're guessing. Track these numbers:
 AI swing analyzers can estimate your handicap from your swing mechanics and show you which technical issues are costing you distance.
 
 ---
+
 
 *Want to know what's limiting your distance? [Upload your swing to get personalized recommendations in 90 seconds →](https://swing.fulcria.com)*

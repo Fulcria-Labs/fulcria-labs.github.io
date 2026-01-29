@@ -1,5 +1,6 @@
 ---
 layout: post
+
 image: /assets/images/video-golf-swing.png
 title: Why Video Changed My Golf Game (And Why It'll Change Yours)
 date: '2026-02-06'
@@ -20,6 +21,7 @@ seo:
     fastest path to improvement.
 ---
 
+![Why Video Changed My Golf Game (And Why It'll Change Yours)](/assets/images/video-golf-swing.png)
 I played golf for 15 years before I first recorded my swing. What I saw shocked me.
 
 My "pause at the top"? Non-existent. My "inside takeaway"? Actually outside. My "steady head"? Moving six inches.
@@ -106,5 +108,6 @@ You don't need fancy equipment. Your smartphone is enough. Start filming every p
 The gap between feel and real might surprise you. But seeing the truth is the first step to actually improving.
 
 ---
+
 
 *Ready to turn video into actionable feedback? [Upload your video and get AI analysis in 90 seconds →](https://swing.fulcria.com)*

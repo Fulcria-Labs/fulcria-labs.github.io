@@ -1,5 +1,6 @@
 ---
 layout: post
+
 image: /assets/images/golf-grip-guide.png
 title: What Your Golf Grip Reveals About Your Swing
 date: '2026-02-02'
@@ -20,6 +21,7 @@ seo:
     which one matches your game.
 ---
 
+![What Your Golf Grip Reveals About Your Swing](/assets/images/golf-grip-guide.png)
 Your grip is the only connection between your body and the club. Yet most amateurs have never intentionally chosen their grip - they just grabbed the club however felt comfortable.
 
 Here's why that matters, and how to find your optimal grip.
@@ -83,5 +85,6 @@ If you're considering a grip change:
 AI analyzers can detect grip-related issues (open/closed face patterns) automatically and suggest whether a grip adjustment might help.
 
 ---
+
 
 *Wondering if your grip is holding you back? [Analyze your swing now and find out →](https://swing.fulcria.com)*

@@ -20,6 +20,7 @@ seo:
     routine that works. No expensive lessons needed.
 ---
 
+![How to Fix a Golf Slice in 5 Minutes (No Lesson Required)](/assets/images/fix-golf-slice.png)
 If you've ever watched your ball curve violently to the right (or left, for lefties) and disappear into the trees, you know the frustration of the golf slice. It's the most common problem in amateur golf, affecting roughly 70% of recreational players.
 
 The good news? A slice isn't some mysterious curse. It has specific, fixable causes. Here's how to diagnose and fix yours without booking a $100 lesson.

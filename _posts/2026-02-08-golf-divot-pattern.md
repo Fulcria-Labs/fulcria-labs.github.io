@@ -1,5 +1,6 @@
 ---
 layout: post
+
 image: /assets/images/golf-divot-pattern.png
 title: What Your Divot Pattern Tells You About Your Swing
 date: '2026-02-08'
@@ -20,6 +21,7 @@ seo:
     location to diagnose issues.
 ---
 
+![What Your Divot Pattern Tells You About Your Swing](/assets/images/golf-divot-pattern.png)
 Every divot tells a story. Most golfers ignore this free feedback, but divot patterns reveal exactly what's happening at impact.
 
 Learn to read your divots, and you can diagnose swing problems without any technology.
@@ -91,5 +93,6 @@ Divots reveal impact conditions but don't show the whole story. What happens in 
 AI swing analysis captures the full motion and connects your positions to your results. Film your swing, understand the cause-and-effect, then use divot feedback to verify your fixes are working.
 
 ---
+
 
 *Ready for the complete picture? [Get AI analysis of your full swing in 90 seconds →](https://swing.fulcria.com)*
