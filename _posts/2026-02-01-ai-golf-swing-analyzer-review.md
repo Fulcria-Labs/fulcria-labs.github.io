@@ -31,9 +31,10 @@ I spent two months testing six different AI swing apps to find out what's real a
 **What AI does well:**
 
 - Detecting body positions and angles
-- Measuring [tempo and timing](/golf/swing-tips/2026/02/11/golf-swing-tempo.html)
+- Measuring [tempo and timing](/2026/02/11/golf-swing-tempo/)
 - Tracking swing path direction
-- Identifying common fault patterns (like the [slice](/golf/swing-tips/2026/01/30/fix-golf-slice.html))
+- Identifying common fault patterns (like the [slice](/2026/01/30/fix-golf-slice/))
+- Analyzing [club face control](/2026/03/01/club-face-control/)
 - Providing instant feedback (vs. waiting for a lesson)
 
 **What AI struggles with:**
@@ -79,7 +80,7 @@ One app I tested grades your swing and guesses your handicap based on your mecha
 
 ## My Recommendation
 
-For most recreational golfers, skip the complex enterprise tools. (If you want a detailed breakdown of specific apps, check out our [comparison of the best golf swing analyzer apps](/golf/technology/2026/02/18/best-golf-swing-analyzer-app.html).)
+For most recreational golfers, skip the complex enterprise tools. If you want a detailed breakdown of specific apps, check out our [comparison of the best golf swing analyzer apps](/2026/02/14/best-golf-swing-analyzer-app-2026/). Curious how AI actually works under the hood? See [how AI analyzes golf swings](/2026/02/15/how-ai-analyzes-golf-swings/).
 
 Find an analyzer that:
 

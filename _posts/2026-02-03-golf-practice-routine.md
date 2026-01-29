@@ -39,8 +39,8 @@ Attention and intention matter more than volume. Research on motor learning show
 Not two things. One. Examples:
 
 - Keep my head still through impact
-- Feel my [weight shift to front foot](/golf/swing-tips/2026/02/12/golf-weight-transfer.html)
-- Pause at the top of my backswing ([tempo fundamentals](/golf/swing-tips/2026/02/11/golf-swing-tempo.html))
+- Feel my [weight shift to front foot](/2026/02/12/golf-weight-transfer/)
+- Pause at the top of my [backswing](/2026/02/18/golf-backswing/) ([tempo fundamentals](/2026/02/11/golf-swing-tempo/))
 
 ### 20 seconds: Visualize the shot
 
@@ -68,11 +68,11 @@ That's more valuable than an hour of mindless hitting.
 
 ## The Secret Weapon: Video
 
-Filming your swing adds accountability. You can't lie to yourself when there's video proof.
+Filming your swing adds accountability. You can't lie to yourself when there's video proof. [Learn how to record your swing with just your phone](/2026/02/13/how-to-record-golf-swing-phone/) - no tripod needed.
 
 Between shots, watch your previous swing. Did you actually do what you intended? Often we think we made a change but the video shows otherwise.
 
-AI swing analyzers accelerate this loop:
+[AI swing analyzers](/2026/02/14/best-golf-swing-analyzer-app-2026/) accelerate this loop:
 
 1. Upload your swing
 2. Get instant feedback on what to focus on

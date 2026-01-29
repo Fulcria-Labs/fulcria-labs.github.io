@@ -33,10 +33,10 @@ The result is sidespin that curves the ball away from the target.
 
 **Common causes:**
 
-1. **Weak grip** - Hands rotated too far left on the club ([learn more about grip types](/golf/swing-tips/2026/02/02/golf-grip-guide.html))
-2. **Outside-in swing path** - Coming "over the top"
-3. **Open clubface at impact** - Often from early release ([master club face control](/golf/instruction/2026/03/01/club-face-control.html))
-4. **Ball position too far forward** - Promotes an open face ([setup fundamentals](/golf/swing-tips/2026/02/13/golf-setup-stance.html))
+1. **Weak grip** - Hands rotated too far left on the club ([learn more about grip types](/2026/02/02/golf-grip-guide/))
+2. **Outside-in swing path** - Coming "over the top" in your [downswing](/2026/02/27/golf-downswing-sequence/)
+3. **Open clubface at impact** - Often from early release ([master club face control](/2026/03/01/club-face-control/))
+4. **Ball position too far forward** - Promotes an open face ([setup fundamentals](/2026/02/13/golf-setup-stance/))
 
 ## The 5-Minute Fix
 
@@ -46,7 +46,7 @@ Look down at your left hand (for righties). Can you see 2-3 knuckles? If not, ro
 
 ### Step 2: Setup Square (30 seconds)
 
-Put a club on the ground pointing at your target. Now set your feet, hips, and shoulders parallel to it. Many slicers unknowingly aim left, which forces an outside-in swing. For a complete breakdown of proper alignment, see our [golf setup and stance guide](/golf/swing-tips/2026/02/13/golf-setup-stance.html).
+Put a club on the ground pointing at your target. Now set your feet, hips, and shoulders parallel to it. Many slicers unknowingly aim left, which forces an outside-in swing. For a complete breakdown of proper alignment, see our [golf alignment and aim guide](/2026/02/16/golf-alignment-aim/).
 
 ### Step 3: Feel the Inside Path (2 minutes)
 
@@ -67,7 +67,7 @@ The best way to track your progress is video. Film your swing from behind (down 
 - Is your club coming from inside or outside?
 - Is the clubface square at impact?
 
-Modern AI swing analyzers can detect these issues automatically and give you instant feedback on what to fix next.
+Not sure how to capture good swing video? See our guide on [how to record your golf swing with a phone](/2026/02/13/how-to-record-golf-swing-phone/). Modern [AI swing analyzers](/2026/02/14/best-golf-swing-analyzer-app-2026/) can detect these issues automatically and give you instant feedback on what to fix next.
 
 ## When to Get Help
 
