@@ -155,7 +155,7 @@ Your backswing doesn't need to look like anyone else's. But it does need to:
 1. Create coil through proper body rotation
 2. Keep the club on a workable path
 3. Load your weight into your trail side
-4. Set you up for a good downswing sequence
+4. Set you up for a good [downswing sequence](/2026/02/27/golf-downswing-sequence/)
 
 Focus on sequence over positions. Get the order right, and the positions tend to follow.
 
