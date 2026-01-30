@@ -155,7 +155,7 @@ Early extension is fixable, but it requires understanding why you're doing it:
 2. **Swing mechanics** - Use drills to groove proper movement
 3. **Video feedback** - You can't fix what you can't see
 
-Start with the Wall Drill and Split-Grip Drill - they give the most immediate feedback. Add the physical work if flexibility is an issue. And use [video analysis]({% post_url 2026-01-23-how-ai-analyzes-golf-swings %}) to track your progress.
+Start with the Wall Drill and Split-Grip Drill - they give the most immediate feedback. Add the physical work if flexibility is an issue. And use [video analysis]({% post_url 2026-01-21-how-ai-analyzes-golf-swing %}) to track your progress.
 
 Your lower back will thank you, and your consistency will improve dramatically once you stop thrusting toward the ball.
 
