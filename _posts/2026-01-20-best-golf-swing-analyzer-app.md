@@ -52,7 +52,7 @@ V1 Golf has been around forever in golf app years. It's what many PGA profession
 - Price is higher than alternatives
 - Can feel overwhelming for casual users
 
-**Best for:** Golfers working with an instructor or those who want access to professional swing models.
+**Best for:** Golfers working with an instructor or those who want access to professional swing models. See our [detailed V1 Golf vs Sportsbox AI comparison](/blog/v1-golf-vs-sportsbox-ai/) for more.
 
 ## Sportsbox AI: The Technology Leader
 
@@ -112,7 +112,7 @@ Swing Profile's killer feature is auto-capture. Prop your phone up, and it detec
 - Auto-capture isn't perfect
 - Limited drawing tools
 
-**Best for:** Solo practice sessions where you don't want to touch your phone between swings.
+**Best for:** Solo practice sessions where you don't want to touch your phone between swings. See our guide on [recording your swing without a tripod](/blog/phone-golf-swing-video/) for more tips.
 
 ## 18Birdies: The All-in-One
 
@@ -140,7 +140,7 @@ Several newer apps focus on AI-driven feedback rather than manual video review:
 
 **GolfFix** offers budget-friendly AI analysis with a beginner focus. The free tier is generous.
 
-**Mustard Golf** uses machine learning trained on tour players to identify swing issues.
+**Mustard Golf** uses machine learning trained on tour players to identify swing issues. See our [Mustard Golf vs 18Birdies comparison](/blog/mustard-golf-vs-18birdies/) for details.
 
 **Swing Analyzer** (that's us) takes a different approach—fun grading system, handicap guessing, and fast 90-second analysis. Built for golfers who want useful feedback without feeling like they're studying for an exam.
 
@@ -172,7 +172,7 @@ After testing these apps (see our [deep dive on AI analyzer effectiveness](/golf
 
 2. **AI feedback is only as good as what you do with it** - If the app tells you you're over the top and you don't know what that means, the analysis is worthless.
 
-3. **Speed of feedback matters** - If it takes 10 minutes to get analysis, you won't use it at the range.
+3. **Speed of feedback matters** - If it takes 10 minutes to get analysis, you won't use it at the range. The [science behind feedback timing](/blog/golf-feedback-timing-science/) explains why.
 
 4. **Fun matters** - This might sound frivolous, but if the app isn't enjoyable to use, you'll stop using it. Consistency beats complexity.
 

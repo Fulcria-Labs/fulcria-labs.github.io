@@ -179,7 +179,7 @@ Samsung Galaxy S-series and Google Pixel are the best-supported. Any flagship fr
 
 ### Do I need a tripod?
 
-Depends on the app. Swing Analyzer, V1 Golf, and 18Birdies work fine propped up or handheld. SWEE AI really needs a tripod for best results.
+Depends on the app. Swing Analyzer, V1 Golf, and 18Birdies work fine propped up or handheld. SWEE AI really needs a tripod for best results. See our guide on [recording your swing without a tripod](/blog/phone-golf-swing-video/) for practical tips.
 
 ### Why do some apps only work on iPhone?
 
@@ -216,7 +216,9 @@ Start simple. See improvement. Then decide if you need more.
 ---
 
 **Related Posts:**
-- [Best Golf Swing Analyzer Apps for iPhone 2026](/2026/01/30/best-golf-swing-analyzer-apps-iphone/)
-- [Best Free Golf Swing Analyzer Apps 2026](/2026/01/29/best-free-golf-swing-analyzer-apps/)
-- [How AI Analyzes Golf Swings (The Technology Explained)](/2026/01/29/how-ai-analyzes-golf-swings/)
-- [How to Record Your Golf Swing with Just Your Phone](/2026/01/22/record-golf-swing-phone-no-tripod/)
+- [Best Golf Swing Analyzer Apps for iPhone 2026](/blog/best-golf-swing-analyzer-apps-iphone/)
+- [Best Free Golf Swing Analyzer Apps 2026](/blog/best-free-golf-swing-analyzer-apps/)
+- [How AI Analyzes Golf Swings (The Technology Explained)](/blog/how-ai-analyzes-golf-swing/)
+- [How to Record Your Golf Swing with Just Your Phone](/blog/phone-golf-swing-video/)
+- [V1 Golf vs Sportsbox AI Comparison](/blog/v1-golf-vs-sportsbox-ai/)
+- [The Science of Feedback Timing in Golf](/blog/golf-feedback-timing-science/)
