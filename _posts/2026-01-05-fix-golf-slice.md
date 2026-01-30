@@ -60,6 +60,8 @@ Before your swing, rotate the clubface so it points slightly left of target at a
 
 Hit 10 balls with this adjustment. Your shots might start left initially - that's okay. You're overcorrecting, and the truth is in the middle.
 
+{% include cta-box.html %}
+
 ## How to Know If It's Working
 
 The best way to track your progress is video. Film your swing from behind (down the target line) and check:
