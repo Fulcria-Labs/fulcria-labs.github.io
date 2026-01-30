@@ -185,4 +185,9 @@ Make those practice swings touch the grass. That alone will transform your fairw
 
 ---
 
-*Related: [How to Hit Hybrid Clubs](/how-to-hit-hybrid-golf-club/) | [Golf Ball Position Guide](/golf-ball-position-guide/) | [Stop Hitting Fat and Thin Shots](/stop-fat-thin-shots/)*
+**Related Posts:**
+- [How to Hit Hybrid Clubs](/blog/how-to-hit-hybrid-golf-club/) - Similar setup principles
+- [Golf Ball Position Guide](/blog/golf-ball-position-guide/) - Proper positioning for every club
+- [Stop Hitting Fat and Thin Shots](/blog/stop-fat-thin-shots/) - Ball striking fundamentals
+- [Golf Weight Transfer Guide](/blog/golf-weight-transfer/) - The key to solid contact
+- [How to Stop Casting the Club](/blog/stop-casting-golf-club/) - Maintain your lag

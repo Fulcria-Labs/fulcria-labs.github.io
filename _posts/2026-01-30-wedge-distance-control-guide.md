@@ -199,7 +199,8 @@ Wedge distance control is learnable. It requires a system, deliberate practice, 
 Start with one wedge, one distance. Build from there. Your handicap will thank you.
 
 **Related Posts:**
-- [Golf Course Management: Smart Strategy for Lower Scores](/2026/01/30/golf-course-management-strategy/)
-- [How to Record Your Golf Swing with Your Phone](/best-way-record-golf-swing-phone/)
-- [Chipping Made Simple: Master the Short Game](/2026/01/29/chipping-made-simple/)
-- [Putting Fundamentals: Your Path to Fewer Three-Putts](/2026/01/29/putting-fundamentals/)
+- [Golf Course Management: Smart Strategy for Lower Scores](/blog/golf-course-management-strategy/)
+- [How to Record Your Golf Swing with Your Phone](/blog/phone-golf-swing-video/)
+- [Chipping Made Simple: Master the Short Game](/blog/chipping-made-simple/)
+- [Putting Fundamentals: Your Path to Fewer Three-Putts](/blog/putting-fundamentals/)
+- [Golf Practice Routine: What the Pros Do](/blog/golf-practice-routine/)

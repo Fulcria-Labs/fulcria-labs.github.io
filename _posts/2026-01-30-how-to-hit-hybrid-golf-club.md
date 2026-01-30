@@ -67,7 +67,7 @@ Check that your lead wrist is flat or slightly bowed at the top of your backswin
 
 Your lead wrist should be flat or flexed forward at impact, with your hands ahead of the clubhead. This ensures you're compressing the ball rather than flipping at it.
 
-If you struggle with this, practice slow-motion swings and freeze at impact to check your position. [Video analysis](/video-golf-swing) can help you see what's actually happening.
+If you struggle with this, practice slow-motion swings and freeze at impact to check your position. [Video analysis](/blog/video-golf-swing/) can help you see what's actually happening.
 
 ## Common Hybrid Mistakes (And How to Fix Them)
 
@@ -87,7 +87,7 @@ If you struggle with this, practice slow-motion swings and freeze at impact to c
 
 **The mistake:** Throwing the club from the top of the swing, losing lag and power.
 
-**The fix:** Feel like you're keeping your wrists hinged longer into the downswing. The [lag drill](/creating-lag-golf-swing) can help.
+**The fix:** Feel like you're keeping your wrists hinged longer into the downswing. The [lag drill](/blog/creating-lag-golf-swing/) can help.
 
 ### 4. Standing Too Far from the Ball
 
@@ -178,4 +178,9 @@ Hybrids became popular for a reason: they're genuinely easier to hit than long i
 
 ---
 
-*Want to see how your hybrid swing actually looks? [Video analysis](/video-golf-swing) reveals whether you're truly hitting down or secretly sweeping. And if you're still struggling with ball striking overall, check out our guides on [impact position](/golf-impact-position) and [stopping fat and thin shots](/stop-fat-thin-shots).*
+**Related Posts:**
+- [How to Hit Fairway Woods](/blog/how-to-hit-fairway-woods/) - Similar long club technique
+- [Golf Impact Position Guide](/blog/golf-impact-position/) - The key to compression
+- [Stop Hitting Fat and Thin Shots](/blog/stop-fat-thin-shots/) - Ball striking fundamentals
+- [Creating Lag in Your Golf Swing](/blog/creating-lag-golf-swing/) - Power through wrist angles
+- [How to Record Your Swing](/blog/video-golf-swing/) - See what you're actually doing

@@ -68,7 +68,7 @@ A ball positioned too far back in your stance forces you to catch it earlier in 
 
 **Check yourself**: For driver, ball should be just inside your lead heel. For irons, progressively more centered.
 
-**The fix**: Use a ball position check in every practice session. [Read our ball position guide](/golf-ball-position-guide/) for proper placement with each club.
+**The fix**: Use a ball position check in every practice session. [Read our ball position guide](/blog/golf-ball-position-guide/) for proper placement with each club.
 
 ### 6. Swing Path Too Far From Inside
 
@@ -158,7 +158,7 @@ Recording your swing reveals what you can't feel:
 2. **Down-the-line view**: Check swing path and face angle at address
 3. **Slow motion**: Watch forearm rotation through the hitting zone
 
-[Recording your swing with your phone](/phone-golf-swing-video/) takes 30 seconds and shows exactly why you're hooking.
+[Recording your swing with your phone](/blog/phone-golf-swing-video/) takes 30 seconds and shows exactly why you're hooking.
 
 ## When to See a Professional
 
@@ -168,7 +168,7 @@ If you've tried these fixes for 3-4 practice sessions without improvement:
 - Equipment fitting might reveal ill-fitted clubs (lie angle, shaft flex)
 - Custom fitting ensures your fixes aren't fighting your equipment
 
-[When is it time for lessons?](/golf-lesson-frequency/)
+[When is it time for lessons?](/blog/golf-lesson-frequency/)
 
 ## Quick Reference: Hook Fix Checklist
 
@@ -185,6 +185,15 @@ If you've tried these fixes for 3-4 practice sessions without improvement:
 Hooks come from a clubface that's closed relative to your swing path. Unlike slices, you already have the valuable inside-out path—you just need to match your face to it.
 
 Start with the grip. More than half of hook problems are solved there. Then check ball position and setup before making swing changes. Small adjustments, made consistently, will straighten that hook into a controlled draw.
+
+---
+
+**Related Posts:**
+- [How to Fix a Golf Slice](/blog/fix-golf-slice/) - The opposite problem, similar fixes
+- [Golf Grip Guide: How to Hold the Club](/blog/golf-grip-guide/) - The #1 cause of hooks
+- [Golf Ball Position Guide](/blog/golf-ball-position-guide/) - Proper positioning for every club
+- [How to Fix Over-the-Top Golf Swing](/blog/fix-over-the-top-golf-swing/) - Common swing path issue
+- [Club Face Control Guide](/blog/golf-club-face-control/) - Mastering face angle
 
 ---
 
