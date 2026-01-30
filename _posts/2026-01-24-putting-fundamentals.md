@@ -118,6 +118,8 @@ The challenge reveals how quickly your eyes learn to aim the putter face with cl
 
 ## Green Reading Basics
 
+For an in-depth guide to reading greens, including the AimPoint method used by tour pros, see our complete [green reading guide](/2026/01/30/how-to-read-greens-golf/).
+
 ### Walk the Full Putt
 
 Don't just read from behind the ball. Walk to the hole and look back. Sometimes the break is obvious from the low side that wasn't visible from behind.
