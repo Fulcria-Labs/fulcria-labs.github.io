@@ -252,3 +252,9 @@ When you stop trying to manufacture career-best shots on every swing and start m
 The next time you reach for driver on a tight hole or aim at a sucker pin, pause. Ask yourself: what decision gives me the best chance to walk off this green with a good number?
 
 That's course management—and it might be the fastest improvement tool in your bag.
+
+**Related Posts:**
+- [Golf Driver Tips: 7 Keys to Longer, Straighter Drives](/2026/01/29/golf-driver-tips/)
+- [Wedge Distance Control: Dial In Your Scoring Clubs](/2026/01/30/wedge-distance-control-guide/)
+- [Golf Pre-Shot Routine: Build Confidence and Consistency](/2026/01/30/golf-pre-shot-routine/)
+- [The Psychology of Golf Practice: Why Fun Matters](/2026/01/29/psychology-of-golf-practice/)

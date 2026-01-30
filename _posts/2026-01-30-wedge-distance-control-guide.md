@@ -197,3 +197,9 @@ Ongoing: Spend 30% of short game practice on distance control, 30% on contact qu
 Wedge distance control is learnable. It requires a system, deliberate practice, and patience. The payoff—consistent proximity to the hole from scoring range—transforms your ability to make birdies and save pars.
 
 Start with one wedge, one distance. Build from there. Your handicap will thank you.
+
+**Related Posts:**
+- [Golf Course Management: Smart Strategy for Lower Scores](/2026/01/30/golf-course-management-strategy/)
+- [How to Record Your Golf Swing with Your Phone](/best-way-record-golf-swing-phone/)
+- [Chipping Made Simple: Master the Short Game](/2026/01/29/chipping-made-simple/)
+- [Putting Fundamentals: Your Path to Fewer Three-Putts](/2026/01/29/putting-fundamentals/)
