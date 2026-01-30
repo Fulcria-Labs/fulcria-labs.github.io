@@ -52,7 +52,7 @@ Spend a range session tracking actual carry distances:
 | 6i | _____ | 160 yards |
 | 5i | _____ | 170 yards |
 
-Use a launch monitor or GPS app to get accurate numbers. Once you know your real distances, club selection becomes simple math instead of hopeful guessing.
+Use a launch monitor or GPS app to get accurate numbers. [AI golf swing analyzers](/blog/how-ai-analyzes-golf-swings/) can also track your distances over time. Once you know your real distances, club selection becomes simple math instead of hopeful guessing.
 
 ## Why You Miss Greens Short
 
@@ -194,7 +194,7 @@ Taking medicine early (accepting one stroke of penalty) often saves two or three
 
 ### Process Over Outcome
 
-You can make a great decision and hit a good shot that yields a bad result (wind gust, unlucky bounce). Conversely, you can make a terrible decision and get lucky.
+Developing a solid [pre-shot routine](/blog/golf-pre-shot-routine/) helps you execute good decisions consistently. You can make a great decision and hit a good shot that yields a bad result (wind gust, unlucky bounce). Conversely, you can make a terrible decision and get lucky.
 
 Judge your course management by your process, not individual outcomes. Over time, good process yields good results.
 
