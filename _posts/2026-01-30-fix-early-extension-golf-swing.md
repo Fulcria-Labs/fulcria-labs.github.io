@@ -130,7 +130,7 @@ Signs your early extension is getting better:
 
 ## Use Video to Track Progress
 
-Early extension is hard to feel but easy to see. [Recording your swing with your phone]({% post_url 2026-01-22-record-golf-swing-phone-no-tripod %}) lets you see exactly what your hips are doing in the downswing.
+Early extension is hard to feel but easy to see. [Recording your swing with your phone]({% post_url 2026-01-20-phone-golf-swing-video %}) lets you see exactly what your hips are doing in the downswing.
 
 Look for these checkpoints:
 - **At address** - Note your hip distance from the ball
