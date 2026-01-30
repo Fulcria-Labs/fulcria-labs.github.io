@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Fulcria Labs Blog
+permalink: /blog/
 ---
 
 # Golf Tech Insights
