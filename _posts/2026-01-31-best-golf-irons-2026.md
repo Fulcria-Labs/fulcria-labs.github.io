@@ -322,7 +322,7 @@ Before investing $1,500+ in irons, make sure your swing isn't the limiting facto
 - Ball flight varies wildly shot to shot
 - Handicap is stagnant despite new equipment
 
-[Record your swing](/how-to-record-golf-swing-phone/) to identify what's really holding you back. Modern [AI swing analysis](/how-ai-analyzes-golf-swings/) can pinpoint issues—often for free.
+[Record your swing](/blog/phone-golf-swing-video/) to identify what's really holding you back. Modern [AI swing analysis](/blog/how-ai-analyzes-golf-swing/) can pinpoint issues—often for free.
 
 ---
 
@@ -355,7 +355,7 @@ Better players should seriously consider the **Titleist T150** or **Mizuno JPX 9
 Budget-conscious? The **Mizuno JPX 925 Hot Metal** punches well above its price point.
 
 **Next steps:**
-1. [Analyze your current iron swing](/how-to-record-golf-swing-phone/) to identify issues
+1. [Analyze your current iron swing](/blog/phone-golf-swing-video/) to identify issues
 2. Get fitted at a local pro shop with launch monitor
 3. Try 3-4 models that fit your category
 4. Consider previous-year models for savings

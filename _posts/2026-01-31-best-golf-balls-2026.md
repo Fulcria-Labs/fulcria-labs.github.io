@@ -287,7 +287,7 @@ No. Color is purely cosmetic. Yellow and orange balls are easier to find but per
 
 **Best for beginners:** Srixon Soft Feel or Kirkland Signature
 
-The ball you play matters—but not as much as how you swing. Before spending $55/dozen on premium balls, make sure your [swing fundamentals](/golf-swing-basics-beginners/) are sound. A great ball can't fix a bad swing, but a good swing can make any ball perform.
+The ball you play matters—but not as much as how you swing. Before spending $55/dozen on premium balls, make sure your [swing fundamentals](/blog/golf-swing-basics-beginners-guide/) are sound. A great ball can't fix a bad swing, but a good swing can make any ball perform.
 
 ---
 

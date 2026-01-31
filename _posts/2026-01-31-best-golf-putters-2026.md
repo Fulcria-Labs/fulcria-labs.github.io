@@ -327,7 +327,7 @@ Most golfers use putters that are too long. This forces compensations in posture
 Some golfers need heavy putters for stability; others feel more connected with lighter ones.
 
 ### 5. Chasing the latest release
-A $500 putter won't fix a flawed stroke. The [fundamentals matter more](/putting-fundamentals/).
+A $500 putter won't fix a flawed stroke. The [fundamentals matter more](/blog/putting-fundamentals/).
 
 ---
 
@@ -368,7 +368,7 @@ Before spending $500 on a new putter, consider whether your technique is the lim
 - Poor green reading
 - Breakdown under pressure
 
-[Learn putting fundamentals](/putting-fundamentals/) and [record your stroke](/how-to-record-golf-swing-phone/) to identify what's really holding you back. Often, a [simple alignment fix](/golf-alignment-aim/) makes more difference than new equipment.
+[Learn putting fundamentals](/blog/putting-fundamentals/) and [record your stroke](/blog/phone-golf-swing-video/) to identify what's really holding you back. Often, a [simple alignment fix](/blog/golf-alignment-aim/) makes more difference than new equipment.
 
 ---
 
@@ -407,7 +407,7 @@ Players fighting inconsistency should explore zero-torque options like the **L.A
 Budget-conscious? The **Odyssey White Hot OG** is a best-seller for a reason.
 
 **Next steps:**
-1. [Analyze your putting stroke](/putting-fundamentals/) to understand your needs
+1. [Analyze your putting stroke](/blog/putting-fundamentals/) to understand your needs
 2. Get fitted at a local pro shop with putter fitting technology
 3. Try 3-4 models that match your stroke type
 4. Consider previous-year models for savings

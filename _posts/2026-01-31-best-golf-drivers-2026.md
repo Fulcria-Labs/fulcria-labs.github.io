@@ -230,7 +230,7 @@ A driver is only as good as your swing. Before investing $500+ in new equipment,
 - Can't hit driver but hit other clubs fine
 - Ball flight varies wildly shot to shot
 
-[Record your swing with your phone](/how-to-record-golf-swing-phone/) to identify issues. Modern [AI swing analysis](/how-ai-analyzes-golf-swings/) can pinpoint exactly what's causing your problems—often for free.
+[Record your swing with your phone](/blog/phone-golf-swing-video/) to identify issues. Modern [AI swing analysis](/blog/how-ai-analyzes-golf-swing/) can pinpoint exactly what's causing your problems—often for free.
 
 ---
 
@@ -246,7 +246,7 @@ $300-400 is the sweet spot for most golfers. You get 95% of the performance of p
 
 ### Do I need a draw bias driver?
 
-If you consistently slice, a draw bias head can help—but it won't fix a fundamentally flawed swing path. Work on your [swing path](/fix-golf-slice/) alongside equipment changes.
+If you consistently slice, a draw bias head can help—but it won't fix a fundamentally flawed swing path. Work on your [swing path](/blog/fix-golf-slice/) alongside equipment changes.
 
 ### How often should I replace my driver?
 
@@ -261,7 +261,7 @@ For most golfers, the **Callaway Quantum TDM** or **TaylorMade Qi4D Max** will d
 But the best driver for you depends on your swing, your goals, and your budget. Get fitted, try before you buy, and don't assume the most expensive option is the best for your game.
 
 **Next steps:**
-1. [Analyze your current driver swing](/how-to-record-golf-swing-phone/) to identify issues
+1. [Analyze your current driver swing](/blog/phone-golf-swing-video/) to identify issues
 2. Get fitted at a local pro shop or retail fitting center
 3. Try multiple heads and shafts before deciding
 4. Consider last year's models for 30%+ savings

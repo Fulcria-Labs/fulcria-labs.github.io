@@ -347,7 +347,7 @@ Before spending $600 on new wedges, make sure your technique isn't the limiting 
 - Grooves visibly worn
 - Wrong bounce for your swing
 
-[Record your short game](/how-to-record-golf-swing-phone/) to identify what's really holding you back. [AI swing analysis](/how-ai-analyzes-golf-swings/) can spot technique issues in your pitching and chipping.
+[Record your short game](/blog/phone-golf-swing-video/) to identify what's really holding you back. [AI swing analysis](/blog/how-ai-analyzes-golf-swing/) can spot technique issues in your pitching and chipping.
 
 ---
 
@@ -384,7 +384,7 @@ Feel-first players should consider the **Callaway JAWS RAW** for its unique char
 Budget-conscious? The **Cleveland CBX ZipCore** provides serious forgiveness at an accessible price.
 
 **Next steps:**
-1. [Analyze your current short game technique](/chipping-made-simple/)
+1. [Analyze your current short game technique](/blog/chipping-made-simple/)
 2. Check your distance gaps with current wedges
 3. Match bounce to your swing type
 4. Consider professional fitting for precision

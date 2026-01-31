@@ -110,10 +110,10 @@ Grip size affects your ability to release the club properly:
 | XL | Oversize |
 
 **Signs your grips are wrong size:**
-- Too small: Hands too active, tend to [hook](/fix-golf-hook/)
-- Too large: Hands not active enough, tend to [slice](/fix-golf-slice/)
+- Too small: Hands too active, tend to [hook](/blog/fix-golf-hook/)
+- Too large: Hands not active enough, tend to [slice](/blog/fix-golf-slice/)
 
-**Pro tip:** If you're between sizes, go slightly larger. Larger grips promote lighter [grip pressure](/golf-grip-pressure-guide/).
+**Pro tip:** If you're between sizes, go slightly larger. Larger grips promote lighter [grip pressure](/blog/golf-grip-pressure-guide/).
 
 ## When to Replace Grips
 
@@ -146,4 +146,4 @@ Whatever you choose, don't neglect your grips. Fresh grips are one of the cheape
 
 ---
 
-*Looking to improve your swing fundamentals? Check out our [complete grip guide](/golf-grip-guide/) for proper hand placement techniques, or use [Swing Analyzer](https://swing.fulcria.com) to get instant feedback on your swing mechanics.*
+*Looking to improve your swing fundamentals? Check out our [complete grip guide](/blog/golf-grip-guide/) for proper hand placement techniques, or use [Swing Analyzer](https://swing.fulcria.com) to get instant feedback on your swing mechanics.*
