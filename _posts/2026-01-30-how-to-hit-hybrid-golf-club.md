@@ -184,3 +184,5 @@ Hybrids became popular for a reason: they're genuinely easier to hit than long i
 - [Stop Hitting Fat and Thin Shots](/blog/stop-fat-thin-shots/) - Ball striking fundamentals
 - [Creating Lag in Your Golf Swing](/blog/creating-lag-golf-swing/) - Power through wrist angles
 - [How to Record Your Swing](/blog/video-golf-swing/) - See what you're actually doing
+
+*Struggling with your hybrid? [Try Swing Analyzer](https://swing.fulcria.com) – get AI-powered analysis of your swing in 90 seconds.*

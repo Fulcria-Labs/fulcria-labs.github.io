@@ -171,4 +171,4 @@ Your playing partners will ask what you changed. Tell them you finally started p
 
 ---
 
-*Ready to track your actual distances and stop guessing? [Download Swing Analyzer](/) for AI-powered analysis that shows you honest numbers, not ego-boosting estimates. Know your real game, score your real potential.*
+*Ready to track your actual distances and stop guessing? [Try Swing Analyzer](https://swing.fulcria.com) for AI-powered analysis that shows you honest numbers, not ego-boosting estimates. Know your real game, score your real potential.*

@@ -258,3 +258,7 @@ That's course management—and it might be the fastest improvement tool in your 
 - [Wedge Distance Control: Dial In Your Scoring Clubs](/blog/wedge-distance-control-guide/)
 - [Golf Pre-Shot Routine: Build Confidence and Consistency](/blog/golf-pre-shot-routine/)
 - [The Psychology of Golf Practice: Why Fun Matters](/blog/psychology-of-golf-practice/)
+
+---
+
+*Course management is just one piece of lower scores. For technical swing improvements, [try Swing Analyzer](https://swing.fulcria.com) – AI-powered feedback on your mechanics in 90 seconds.*

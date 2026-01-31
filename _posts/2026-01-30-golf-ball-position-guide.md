@@ -188,7 +188,7 @@ Get these positions dialed in and you will make better contact without changing 
 
 ## See Your Ball Position at Address
 
-Want to verify your ball position is correct? Swing Analyzer's video analysis shows you exactly where the ball sits relative to your stance at address. Upload a face-on video and see your setup from a perspective you cannot get on your own. In 90 seconds, you will know if ball position is helping or hurting your swing.
+Want to verify your ball position is correct? [Swing Analyzer's](https://swing.fulcria.com) video analysis shows you exactly where the ball sits relative to your stance at address. Upload a face-on video and see your setup from a perspective you cannot get on your own. In 90 seconds, you will know if ball position is helping or hurting your swing.
 
 ---
 

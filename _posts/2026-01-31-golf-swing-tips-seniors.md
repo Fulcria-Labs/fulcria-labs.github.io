@@ -276,4 +276,4 @@ Do those things, and your best golf might still be ahead of you.
 
 ---
 
-*Want to see how your modified swing looks? [Try Swing Analyzer](/download/) and get AI-powered feedback on your technique in about 90 seconds. No tripod needed, and it's designed to work for golfers of all ages and abilities.*
+*Want to see how your modified swing looks? [Try Swing Analyzer](https://swing.fulcria.com) and get AI-powered feedback on your technique in about 90 seconds. No tripod needed, and it's designed to work for golfers of all ages and abilities.*

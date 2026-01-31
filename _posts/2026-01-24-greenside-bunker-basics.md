@@ -167,3 +167,5 @@ Practice the line drill, build confidence, and watch those double-bogey bunker d
 ---
 
 *Bunker technique is one piece of the puzzle. For your full swing fundamentals, see our guides on [setup and stance](/blog/golf-setup-stance/) and [weight transfer](/blog/golf-weight-transfer/).*
+
+*Want to improve your full swing? [Try Swing Analyzer](https://swing.fulcria.com) – get AI-powered feedback on your mechanics in 90 seconds.*

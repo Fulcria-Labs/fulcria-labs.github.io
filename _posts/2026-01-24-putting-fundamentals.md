@@ -220,3 +220,5 @@ Start spending more time on the practice green. Your scorecard will thank you.
 ---
 
 *For improving your full swing fundamentals, see our guides on [setup and stance](/blog/golf-setup-stance/) and [tempo](/blog/golf-swing-tempo/). For recording your swing to analyze issues, check out [how to record your golf swing with your phone](/blog/phone-golf-swing-video/).*
+
+*Looking for AI-powered swing analysis? [Try Swing Analyzer](https://swing.fulcria.com) – fast, fun feedback on your mechanics in under 2 minutes.*

@@ -307,7 +307,7 @@ Many golfers think they are hitting down when video shows otherwise. Objective f
 
 ## Strike Your Irons Like a Pro
 
-Want to see your iron swing in action? Swing Analyzer shows you your impact position, shaft lean, and low point frame by frame. Upload a video and get AI feedback on your ball striking in 90 seconds. Find out exactly why you are hitting it fat, thin, or pure, plus get a fun grade and handicap guess.
+Want to see your iron swing in action? [Swing Analyzer](https://swing.fulcria.com) shows you your impact position, shaft lean, and low point frame by frame. Upload a video and get AI feedback on your ball striking in 90 seconds. Find out exactly why you are hitting it fat, thin, or pure, plus get a fun grade and handicap guess.
 
 Your irons are your scoring clubs. Make them count.
 

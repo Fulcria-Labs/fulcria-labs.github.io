@@ -204,3 +204,7 @@ Start with one wedge, one distance. Build from there. Your handicap will thank y
 - [Chipping Made Simple: Master the Short Game](/blog/chipping-made-simple/)
 - [Putting Fundamentals: Your Path to Fewer Three-Putts](/blog/putting-fundamentals/)
 - [Golf Practice Routine: What the Pros Do](/blog/golf-practice-routine/)
+
+---
+
+*Want to dial in your full swing too? [Try Swing Analyzer](https://swing.fulcria.com) – AI-powered feedback on your mechanics in 90 seconds.*

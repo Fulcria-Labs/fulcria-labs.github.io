@@ -209,7 +209,7 @@ This assessment should be part of your [course management strategy](/blog/golf-c
 
 The worst time to learn uneven lie adjustments is during your round. Find a practice area with slopes or hit balls from the edges of mats and tee boxes to experience the feeling.
 
-Record your swings from uneven lies and compare them to your flat-ground swing. Swing Analyzer can help you see whether your setup matches the slope and whether your posture stays consistent through impact. When you can see the differences, you can make better adjustments.
+Record your swings from uneven lies and compare them to your flat-ground swing. [Swing Analyzer](https://swing.fulcria.com) can help you see whether your setup matches the slope and whether your posture stays consistent through impact. When you can see the differences, you can make better adjustments.
 
 Understanding how your swing changes on slopes makes these situations feel routine instead of stressful. The next time your ball finds a sidehill in the fairway, you will know exactly what to do.
 
