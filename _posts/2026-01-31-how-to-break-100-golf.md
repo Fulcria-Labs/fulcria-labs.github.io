@@ -216,6 +216,8 @@ Breaking 100 is within reach. It does not require a new swing, new equipment, or
 
 Shoot 9 bogeys and 9 doubles. That is 99. You can do this.
 
+Once you have broken 100 consistently, the next milestone awaits: [How to Break 90 in Golf](/blog/how-to-break-90-golf/).
+
 ---
 
 *Want to see what is actually happening in your swing? [Try Swing Analyzer](https://swing.fulcria.com) and get AI-powered feedback in 90 seconds. Find out exactly what to work on to drop those extra strokes.*
