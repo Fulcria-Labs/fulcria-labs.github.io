@@ -45,9 +45,9 @@ The width you see in tour swings is a byproduct of proper body rotation. Trying 
 
 ### 2. "Fire Your Hips as Fast as Possible"
 
-**The influencer:** Shows explosive [hip rotation](/golf/swing-tips/2026/02/10/golf-hip-rotation.html) through impact.
+**The influencer:** Shows explosive [hip rotation](/blog/golf-hip-rotation/) through impact.
 
-**The reality:** Hip speed without proper sequencing throws off your timing. Your hips should lead, but "firing" them creates a disconnection between your upper and lower body. Result: pulls, [slices](/golf/swing-tips/2026/01/30/fix-golf-slice.html), and inconsistent contact.
+**The reality:** Hip speed without proper sequencing throws off your timing. Your hips should lead, but "firing" them creates a disconnection between your upper and lower body. Result: pulls, [slices](/blog/fix-golf-slice/), and inconsistent contact.
 
 Hip speed is a result of proper ground force and weight shift, not something you manufacture consciously.
 
@@ -55,7 +55,7 @@ Hip speed is a result of proper ground force and weight shift, not something you
 
 **The influencer:** Shows steep shaft angle and ball-first contact.
 
-**The reality:** Getting artificially steep usually comes from the upper body, not proper transition. This leads to pulls, chunks, and thin shots. Tour pros look "steep" because their body rotation [shallows the club](/golf/swing-tips/2026/02/02/shallowing-golf-club.html) naturally through impact.
+**The reality:** Getting artificially steep usually comes from the upper body, not proper transition. This leads to pulls, chunks, and thin shots. Tour pros look "steep" because their body rotation [shallows the club](/blog/shallowing-golf-club/) naturally through impact.
 
 Steepness is relative to your body position. Trying to create it independently causes more problems than it solves.
 
@@ -63,9 +63,9 @@ Steepness is relative to your body position. Trying to create it independently c
 
 **The influencer:** Shows dramatically bowed lead wrist at the top.
 
-**The reality:** Wrist bow is a result of proper [grip](/golf/swing-tips/2026/02/01/golf-grip-guide.html) and arm structure, not a position to force. Manufacturing wrist bow creates tension that ruins your release and often closes the face way too much.
+**The reality:** Wrist bow is a result of proper [grip](/blog/golf-grip-guide/) and arm structure, not a position to force. Manufacturing wrist bow creates tension that ruins your release and often closes the face way too much.
 
-Some of the best ball strikers have flat or slightly cupped wrists. Bow isn't required for [compression](/golf/swing-tips/2026/02/09/golf-ball-compression.html).
+Some of the best ball strikers have flat or slightly cupped wrists. Bow isn't required for [compression](/blog/golf-ball-compression/).
 
 ### 5. "Cover the Ball with Your Chest"
 
@@ -87,13 +87,13 @@ The algorithm doesn't care if the tip helps you. It cares if you watch, like, an
 
 ## What Actually Works
 
-**1. Understand YOUR swing first.** You can't fix what you can't diagnose. [Record your swing](/golf/swing-tips/2026/02/03/video-golf-swing.html) or get it analyzed before randomly applying tips.
+**1. Understand YOUR swing first.** You can't fix what you can't diagnose. [Record your swing](/blog/video-golf-swing/) or get it analyzed before randomly applying tips.
 
 **2. Context matters.** A tip might be perfect for someone with opposite tendencies to you. Know your patterns.
 
-**3. Fundamentals compound.** [Grip](/golf/swing-tips/2026/02/01/golf-grip-guide.html), [posture](/golf/swing-tips/2026/02/13/golf-setup-stance.html), alignment, and [tempo](/golf/swing-tips/2026/02/11/golf-swing-tempo.html) fix more problems than any swing hack.
+**3. Fundamentals compound.** [Grip](/blog/golf-grip-guide/), [posture](/blog/golf-setup-stance/), alignment, and [tempo](/blog/golf-swing-tempo/) fix more problems than any swing hack.
 
-**4. Trust the process.** Real improvement takes time and focused [practice](/golf/swing-tips/2026/02/01/golf-practice-routine.html), not a new tip every week.
+**4. Trust the process.** Real improvement takes time and focused [practice](/blog/golf-practice-routine/), not a new tip every week.
 
 ## Get Feedback That's Actually Useful
 

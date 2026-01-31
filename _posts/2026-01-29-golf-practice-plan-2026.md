@@ -34,7 +34,7 @@ Before practicing anything, know what needs work. Track 3-5 rounds honestly:
 - **Putts per round**: Over 36? Short game and putting need attention
 - **Penalty strokes**: More than 2 per round? Course management issues
 
-Even better: [record your swing on video](/how-to-record-golf-swing-phone). What you feel isn't always what's real.
+Even better: [record your swing on video](/blog/phone-golf-swing-video/). What you feel isn't always what's real.
 
 ## The Quarterly Focus System
 
@@ -42,35 +42,35 @@ Rather than trying to fix everything at once, dedicate each quarter to a specifi
 
 ### Q1 (Jan-Mar): Foundation Reset
 
-**Focus**: [Setup and grip fundamentals](/golf-grip-guide-neutral-strong-weak)
+**Focus**: [Setup and grip fundamentals](/blog/golf-grip-guide/)
 
 Most swing problems stem from poor setup. Use the off-season to rebuild basics:
 
 - **Weekly practice**: 2 sessions, 45 minutes each
 - **Session structure**:
   - 10 min: Grip and posture checks (no ball)
-  - 20 min: Half swings focusing on [takeaway](/golf-takeaway-guide) and [alignment](/golf-alignment-aim-guide)
+  - 20 min: Half swings focusing on [takeaway](/blog/golf-takeaway/) and [alignment](/blog/golf-alignment-aim/)
   - 15 min: Full swings with video review
 
 **Key metric**: Can you achieve the same setup position 10 times in a row?
 
 ### Q2 (Apr-Jun): Ball Striking
 
-**Focus**: [Contact consistency](/stop-hitting-fat-thin-shots)
+**Focus**: [Contact consistency](/blog/stop-fat-thin-shots/)
 
 With solid fundamentals, work on strike quality:
 
 - **Weekly practice**: 2-3 sessions, 50-60 balls each
 - **Session structure**:
-  - 15 min: [Weight transfer drills](/golf-weight-transfer-guide) (no ball)
-  - 30 min: Iron work with [divot pattern focus](/what-divot-patterns-reveal-golf-swing)
-  - 15 min: Video review of [impact position](/golf-impact-position-guide)
+  - 15 min: [Weight transfer drills](/blog/golf-weight-transfer/) (no ball)
+  - 30 min: Iron work with [divot pattern focus](/blog/golf-divot-pattern/)
+  - 15 min: Video review of [impact position](/blog/golf-impact-position/)
 
 **Key metric**: Divots starting at or after ball position consistently
 
 ### Q3 (Jul-Sep): Scoring Shots
 
-**Focus**: [Short game](/chipping-made-simple) and [putting](/putting-fundamentals-guide)
+**Focus**: [Short game](/blog/chipping-made-simple/) and [putting](/blog/putting-fundamentals/)
 
 This is where scores actually drop:
 
@@ -78,7 +78,7 @@ This is where scores actually drop:
 - **Session structure**:
   - One putting-only session (30 min)
   - One chipping/pitching session (30 min)
-  - One [bunker practice](/greenside-bunker-basics) session (20 min)
+  - One [bunker practice](/blog/greenside-bunker-basics/) session (20 min)
 
 **Key metric**: Up-and-down percentage improving
 
@@ -97,7 +97,7 @@ Time to play with new skills under pressure:
 Don't have hours? Here's a focused 30-minute session that works:
 
 **Minutes 1-5**: Warm-up swings, no ball
-**Minutes 5-10**: Alignment and setup check with [video](/how-to-record-golf-swing-phone)
+**Minutes 5-10**: Alignment and setup check with [video](/blog/phone-golf-swing-video/)
 **Minutes 10-25**: Focused practice on ONE thing
 **Minutes 25-30**: "Play" mode—hit 5 shots to different targets
 
@@ -105,7 +105,7 @@ The "play" segment is crucial. It transfers practice skills to course conditions
 
 ## Making Practice Actually Fun
 
-Here's the secret most improvement plans miss: [you need to enjoy it](/psychology-of-golf-practice).
+Here's the secret most improvement plans miss: [you need to enjoy it](/blog/psychology-of-golf-practice/).
 
 Boring practice leads to quitting. Engaged practice leads to improvement. Try:
 
@@ -123,7 +123,7 @@ Here's what separates effective practice from wasted time: **immediate, accurate
 
 Your brain needs to know whether each swing achieved the goal—within seconds, not after reviewing video hours later.
 
-Research shows [optimal feedback timing](/science-of-feedback-timing-golf) is within 90 seconds of the action. That's why tools that provide quick analysis outperform ones that require manual tagging and lengthy processing.
+Research shows [optimal feedback timing](/blog/golf-feedback-timing-science/) is within 90 seconds of the action. That's why tools that provide quick analysis outperform ones that require manual tagging and lengthy processing.
 
 ## Sample Weekly Schedule
 
@@ -158,7 +158,7 @@ The hardest part of improvement isn't the practice—it's being honest about wha
 
 Film your swing. You might be surprised what you see. Most golfers have a significant gap between how their swing feels and how it actually looks.
 
-That's why [video analysis](/how-ai-analyzes-golf-swings) has become essential for serious improvement. You can't fix what you can't see.
+That's why [video analysis](/blog/how-ai-analyzes-golf-swing/) has become essential for serious improvement. You can't fix what you can't see.
 
 ## Common 2026 Practice Mistakes to Avoid
 

@@ -320,8 +320,8 @@ Fowler's stinger with his utility iron is a key weapon on windy days, keeping th
 *Want to check if your stinger technique is on point? [Try Swing Analyzer](https://swing.fulcria.com) for instant AI feedback on your shaft lean, impact position, and finish—in just 90 seconds.*
 
 **Related Posts:**
-- [Golf Punch Shot Guide](/2026/01/31/golf-punch-shot-guide/)
-- [How to Play Golf in the Wind](/2026/01/31/how-to-play-golf-in-wind/)
-- [Golf Impact Position Guide](/2026/01/29/golf-impact-position-guide/)
-- [How to Hit Irons Pure](/2026/01/31/how-to-hit-irons-pure/)
-- [Golf Club Selection Guide](/2026/01/31/golf-club-selection-guide/)
+- [Golf Punch Shot Guide](/blog/golf-punch-shot-guide/)
+- [How to Play Golf in the Wind](/blog/how-to-play-golf-in-wind/)
+- [Golf Impact Position Guide](/blog/golf-impact-position/)
+- [How to Hit Irons Pure](/blog/how-to-hit-irons-pure/)
+- [Golf Club Selection Guide](/blog/golf-club-selection-guide/)

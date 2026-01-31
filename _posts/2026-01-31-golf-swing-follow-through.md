@@ -153,7 +153,7 @@ Your follow through is one of the easiest things to check on video:
 
 You can see a lot about your swing by looking only at your finish. A balanced, posed finish usually means everything that came before was solid.
 
-[Record your swing with your phone](/phone-golf-swing-video/) and check your follow through position. [Swing Analyzer](https://swing.fulcria.com) lets you freeze frames at any point in your swing, making it easy to evaluate your finish.
+[Record your swing with your phone](/blog/phone-golf-swing-video/) and check your follow through position. [Swing Analyzer](https://swing.fulcria.com) lets you freeze frames at any point in your swing, making it easy to evaluate your finish.
 
 ## The Finish as a Swing Thought
 
@@ -165,15 +165,15 @@ You might be surprised how many swing problems fix themselves when you commit to
 
 ## Connecting the Full Swing Sequence
 
-The follow through is the final piece of the [full swing sequence](/golf-downswing-sequence/):
+The follow through is the final piece of the [full swing sequence](/blog/golf-downswing-sequence/):
 
-1. **Setup** - [Foundation for everything](/golf-setup-stance/)
-2. **Takeaway** - [Starting the swing correctly](/golf-takeaway/)
-3. **Backswing** - [Coiling for power](/golf-backswing/)
+1. **Setup** - [Foundation for everything](/blog/golf-setup-stance/)
+2. **Takeaway** - [Starting the swing correctly](/blog/golf-takeaway/)
+3. **Backswing** - [Coiling for power](/blog/golf-backswing/)
 4. **Transition** - The change of direction
-5. **Downswing** - [Unwinding in sequence](/golf-downswing-sequence/)
-6. **Impact** - [The moment of truth](/golf-impact-position/)
-7. **Release** - [Extending through the ball](/golf-release/)
+5. **Downswing** - [Unwinding in sequence](/blog/golf-downswing-sequence/)
+6. **Impact** - [The moment of truth](/blog/golf-impact-position/)
+7. **Release** - [Extending through the ball](/blog/golf-release/)
 8. **Follow Through** - Completing the motion
 
 Each phase flows into the next. A good follow through is the natural result of everything that came before—but it's also a checkpoint that confirms you did the earlier phases correctly.

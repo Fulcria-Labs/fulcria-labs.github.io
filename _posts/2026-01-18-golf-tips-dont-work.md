@@ -29,7 +29,7 @@ You're not alone. Most golfers plateau for years, even decades. And it's not bec
 
 Here's why tips fail:
 
-**1. They solve the wrong problem.** Most tips assume a specific fault. "Keep your head down" assumes you're looking up too early. But what if your issue is actually early extension or poor [weight shift](/golf/swing-tips/2026/02/12/golf-weight-transfer.html)? The tip doesn't just fail - it makes things worse.
+**1. They solve the wrong problem.** Most tips assume a specific fault. "Keep your head down" assumes you're looking up too early. But what if your issue is actually early extension or poor [weight shift](/blog/golf-weight-transfer/)? The tip doesn't just fail - it makes things worse.
 
 **2. They lack context.** A tip that helps a 2-handicap with an over-the-top move might destroy a 20-handicap who already swings too flat. Without knowing YOUR pattern, tips are shots in the dark.
 
@@ -39,13 +39,13 @@ Here's why tips fail:
 
 ### Step 1: Diagnose First
 
-Before fixing anything, know what's actually happening. [Record your swing](/golf/swing-tips/2026/02/03/video-golf-swing.html) from two angles: face-on and down-the-line. Watch it at half speed. Compare to a reference swing. Or let AI analysis do the comparison for you.
+Before fixing anything, know what's actually happening. [Record your swing](/blog/video-golf-swing/) from two angles: face-on and down-the-line. Watch it at half speed. Compare to a reference swing. Or let AI analysis do the comparison for you.
 
 ### Step 2: Work on ONE Thing
 
 The biggest mistake amateur golfers make is trying to fix everything at once. Pick your most impactful issue and work ONLY on that for 2-4 weeks. Ignore everything else.
 
-If you're [slicing](/golf/swing-tips/2026/01/30/fix-golf-slice.html), don't also try to add distance. If you're working on your [setup](/golf/swing-tips/2026/02/13/golf-setup-stance.html), don't worry about your transition yet.
+If you're [slicing](/blog/fix-golf-slice/), don't also try to add distance. If you're working on your [setup](/blog/golf-setup-stance/), don't worry about your transition yet.
 
 ### Step 3: Feel vs. Real
 
@@ -72,7 +72,7 @@ If you've been stuck at the same level for years, the answer isn't another tip. 
 1. Record or analyze your swing regularly
 2. Identify YOUR specific patterns
 3. Work on one thing at a time
-4. Get feedback every [practice session](/golf/swing-tips/2026/02/01/golf-practice-routine.html)
+4. Get feedback every [practice session](/blog/golf-practice-routine/)
 
 The game gets easier when you stop guessing and start knowing.
 

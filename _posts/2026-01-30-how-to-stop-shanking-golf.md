@@ -41,13 +41,13 @@ This is the most common cause for recreational golfers. When you set up too clos
 
 Quick test: At address, you should be able to fit a fist between the butt end of the club and your thigh. If you cannot, you are probably too close.
 
-Your [setup and stance](/golf/swing-tips/2026/01/17/golf-setup-stance.html) create the foundation for everything that follows. Get this wrong, and you are fighting an uphill battle.
+Your [setup and stance](/blog/golf-setup-stance/) create the foundation for everything that follows. Get this wrong, and you are fighting an uphill battle.
 
 ### 2. Weight Distribution Problems
 
 When your weight stays on your heels or shifts toward the ball during the swing, you become unstable. Your body compensates by moving the club outward to maintain balance. That outward movement puts the hosel where the clubface should be.
 
-Proper [weight transfer](/golf/swing-tips/2026/01/16/golf-weight-transfer.html) moves your pressure into your lead foot through impact while keeping your body's distance from the ball consistent. When weight moves toward your toes during the downswing, your arms get pushed out, and shanks follow.
+Proper [weight transfer](/blog/golf-weight-transfer/) moves your pressure into your lead foot through impact while keeping your body's distance from the ball consistent. When weight moves toward your toes during the downswing, your arms get pushed out, and shanks follow.
 
 ### 3. Excessive Hand Action
 

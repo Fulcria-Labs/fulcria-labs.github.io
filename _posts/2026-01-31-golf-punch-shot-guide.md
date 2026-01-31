@@ -199,4 +199,4 @@ The punch shot might not be glamorous, but it is one of the most valuable shots 
 
 ---
 
-*Want to see how your punch shot technique compares? [Upload your swing video](/app) and get instant AI feedback on your fundamentals—including the setup positions that matter most for trajectory control.*
+*Want to see how your punch shot technique compares? [Upload your swing video](https://swing.fulcria.com) and get instant AI feedback on your fundamentals—including the setup positions that matter most for trajectory control.*

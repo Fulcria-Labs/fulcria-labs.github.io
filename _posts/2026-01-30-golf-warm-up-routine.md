@@ -191,7 +191,7 @@ The goal is arriving at the first tee with:
 
 ## Track Your Progress with Video
 
-After warming up and hitting a few practice balls, [record your swing with your phone](/phone-golf-swing-video). This gives you baseline video from when your body is properly prepared—useful for [understanding your natural swing patterns](/video-golf-swing) versus compensations that creep in when you're cold or tired.
+After warming up and hitting a few practice balls, [record your swing with your phone](/blog/phone-golf-swing-video/). This gives you baseline video from when your body is properly prepared—useful for [understanding your natural swing patterns](/blog/video-golf-swing/) versus compensations that creep in when you're cold or tired.
 
 **[Swing Analyzer](https://swing.fulcria.com)** provides AI-powered analysis in 90 seconds, perfect for a quick pre-round check without delaying your tee time. See what your swing looks like when you're properly warmed up, then compare it to swings from the middle or end of your round.
 

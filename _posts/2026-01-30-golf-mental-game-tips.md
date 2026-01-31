@@ -50,7 +50,7 @@ Think of it like a dimmer switch. Turn up the intensity for your pre-shot routin
 
 ## 3. Build a Bulletproof Pre-Shot Routine
 
-A consistent [pre-shot routine](/golf-pre-shot-routine/) does more than just get you aligned - it triggers your focused state and builds confidence through familiarity.
+A consistent [pre-shot routine](/blog/golf-pre-shot-routine/) does more than just get you aligned - it triggers your focused state and builds confidence through familiarity.
 
 Your routine should include:
 1. **Stand behind the ball** - pick your target and visualize the shot
@@ -92,7 +92,7 @@ The difference between anxiety and excitement is your interpretation. Tour pros 
 
 **Reframe the feeling**: "I'm nervous" becomes "I'm excited." "This is pressure" becomes "This is an opportunity."
 
-Take an extra breath before pressure shots. [Controlled breathing](/golf-pre-shot-routine/) lowers heart rate and reduces tension. Two deep breaths can literally change your physiology.
+Take an extra breath before pressure shots. [Controlled breathing](/blog/golf-pre-shot-routine/) lowers heart rate and reduces tension. Two deep breaths can literally change your physiology.
 
 ## 7. Accept Bad Shots (They're Inevitable)
 
@@ -118,7 +118,7 @@ Your brain stores emotional experiences. Use this to your advantage.
 
 **After a great shot**, take a moment to really feel it. Notice the sensation in your hands, the ball flight, the result. Say to yourself "that's who I am." This creates a stronger memory you can draw on later.
 
-**After a poor shot**, don't analyze what went wrong while you're still on the course. Save the [swing analysis](/best-golf-swing-analyzer-app/) for practice. On the course, just identify what adjustment you'll make and move on.
+**After a poor shot**, don't analyze what went wrong while you're still on the course. Save the [swing analysis](/blog/best-golf-swing-analyzer-app/) for practice. On the course, just identify what adjustment you'll make and move on.
 
 Over time, you'll build a mental library of positive experiences that builds confidence.
 
@@ -138,7 +138,7 @@ The mental game isn't something you develop only on the course. Like physical sk
 - Notice your self-talk patterns (then improve them)
 - Try playing a few holes without keeping score
 
-The [psychology of practice](/psychology-of-golf-practice/) extends to mental skills too. What you work on improves.
+The [psychology of practice](/blog/psychology-of-golf-practice/) extends to mental skills too. What you work on improves.
 
 ## The Mental Game Is a Skill
 
@@ -148,10 +148,10 @@ The golfer who seems to have "ice in their veins" on short putts wasn't born tha
 
 You can do the same thing.
 
-Start with one or two of these tips. Maybe build a [consistent pre-shot routine](/golf-pre-shot-routine/) and practice visualization before rounds. As those become habits, add more mental game tools.
+Start with one or two of these tips. Maybe build a [consistent pre-shot routine](/blog/golf-pre-shot-routine/) and practice visualization before rounds. As those become habits, add more mental game tools.
 
 Your swing might only improve marginally as you get older. But your mental game can keep getting better forever. That's where the low scores live.
 
 ---
 
-*Working on both the mental and physical sides of your game? The [Swing Analyzer](https://swing.fulcria.com) provides [instant feedback](/golf-feedback-timing-science/) so you can focus on execution rather than wondering what your swing looks like.*
+*Working on both the mental and physical sides of your game? The [Swing Analyzer](https://swing.fulcria.com) provides [instant feedback](/blog/golf-feedback-timing-science/) so you can focus on execution rather than wondering what your swing looks like.*

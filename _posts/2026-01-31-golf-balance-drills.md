@@ -19,8 +19,8 @@ If you can't hold your finish until the ball lands, you're likely fighting balan
 Here's the uncomfortable truth: most swing faults are balance faults in disguise.
 
 When you lose balance during your swing, your body makes automatic compensations:
-- **Early extension** to keep from falling forward
-- **Casting** to slow down an out-of-control motion
+- **[Early extension](/blog/fix-early-extension-golf-swing/)** to keep from falling forward
+- **[Casting](/blog/stop-casting-golf-club/)** to slow down an out-of-control motion
 - **Hanging back** to avoid falling toward the target
 - **Swaying** instead of rotating to maintain equilibrium
 
@@ -202,17 +202,17 @@ If you start on your heels, you'll be fighting balance from the first move. Weig
 Lifting your head pulls your shoulders open and shifts your balance forward. Keep your chest down through impact.
 
 ### 4. Rushing the Transition
-A violent transition destroys balance. The pause at the top shouldn't be a stop, but the tempo change should be smooth, not abrupt.
+A violent transition destroys balance. The pause at the top shouldn't be a stop, but the tempo change should be smooth, not abrupt. See our [golf swing transition guide](/blog/golf-swing-transition-guide/) for more details on this critical moment.
 
 ## How Balance Connects to Everything
 
-**For hitting pure irons:** [Solid contact](/how-to-hit-irons-pure) requires your low point to be consistent. That's impossible without balance.
+**For hitting pure irons:** [Solid contact](/blog/how-to-hit-irons-pure/) requires your low point to be consistent. That's impossible without balance.
 
-**For fixing fat/thin shots:** [Ball striking issues](/stop-fat-thin-shots) often trace back to balance—specifically, falling back or lurching forward.
+**For fixing fat/thin shots:** [Ball striking issues](/blog/stop-fat-thin-shots/) often trace back to balance—specifically, falling back or lurching forward.
 
-**For the downswing:** The [proper sequence](/golf-downswing-sequence) is nearly impossible to execute if you're off-balance at the top.
+**For the downswing:** The [proper sequence](/blog/golf-downswing-sequence/) is nearly impossible to execute if you're off-balance at the top.
 
-**For the follow-through:** A balanced [finish position](/golf-swing-follow-through) is the result of everything that came before.
+**For the follow-through:** A balanced [finish position](/blog/golf-swing-follow-through/) is the result of everything that came before.
 
 ## The Swing Analyzer Connection
 

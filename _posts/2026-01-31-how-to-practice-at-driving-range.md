@@ -213,10 +213,10 @@ Show up with a plan. Work on one thing. Simulate real golf. Leave before you're 
 Your practice is either making you better or making your bad habits more permanent. There's no neutral.
 
 **Related posts:**
-- [Building a Golf Practice Routine That Actually Works](/practice/improvement/2026/01/09/golf-practice-routine.html)
-- [How to Record Your Golf Swing at Home](/improvement/technology/2026/01/13/golf-practice-home.html)
-- [The Psychology of Golf Practice: Making It Fun and Effective](/practice/mental-game/2026/01/28/psychology-of-golf-practice.html)
-- [Golf Warm-Up Routine: 15 Minutes to Better Performance](/practice/fitness/2026/01/30/golf-warm-up-routine.html)
+- [Building a Golf Practice Routine That Actually Works](/blog/golf-practice-routine/)
+- [How to Record Your Golf Swing at Home](/blog/golf-practice-home/)
+- [The Psychology of Golf Practice: Making It Fun and Effective](/blog/psychology-of-golf-practice/)
+- [Golf Warm-Up Routine: 15 Minutes to Better Performance](/blog/golf-warm-up-routine/)
 
 ---
 

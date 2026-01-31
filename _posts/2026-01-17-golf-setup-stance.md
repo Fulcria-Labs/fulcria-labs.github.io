@@ -39,7 +39,7 @@ This varies by club:
 - Mid irons: Slightly forward of center
 - Wedges: Center of stance
 
-Getting this wrong is one of the most common amateur mistakes. Too far forward leads to thin shots and [slices](/golf/swing-tips/2026/01/30/fix-golf-slice.html). Too far back leads to fat shots and pushes.
+Getting this wrong is one of the most common amateur mistakes. Too far forward leads to thin shots and [slices](/blog/fix-golf-slice/). Too far back leads to fat shots and pushes.
 
 ### 3. Weight Distribution
 
@@ -70,7 +70,7 @@ You reach for the ball, lose balance, and tend to slice.
 Rounding your back restricts rotation and leads to back pain.
 
 **Locking your knees:**
-Stiff legs prevent proper [weight transfer](/golf/swing-tips/2026/02/12/golf-weight-transfer.html) and [hip rotation](/golf/swing-tips/2026/02/10/golf-hip-rotation.html).
+Stiff legs prevent proper [weight transfer](/blog/golf-weight-transfer/) and [hip rotation](/blog/golf-hip-rotation/).
 
 **Gripping too tight:**
 Tension in the hands travels up the arms and into the shoulders. This kills speed and feel.

@@ -167,7 +167,7 @@ Wedge distance inconsistency often stems from subtle swing changes you can't fee
 - Weight shift timing
 - Wrist hinge differences
 
-[Recording your practice sessions](/best-way-record-golf-swing-phone/) and reviewing them reveals patterns invisible in real-time. You might think you're making consistent 9 o'clock swings while actually varying from 8 to 10.
+[Recording your practice sessions](/blog/phone-golf-swing-video/) and reviewing them reveals patterns invisible in real-time. You might think you're making consistent 9 o'clock swings while actually varying from 8 to 10.
 
 Modern swing analyzers can track these variables automatically, showing trends across multiple shots rather than single-swing snapshots.
 

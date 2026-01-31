@@ -132,7 +132,7 @@ Both are premium options. If you're looking for something simpler and faster - [
 
 ## Related Reading
 
-- [Best Golf Swing Analyzer App 2026](/best-golf-swing-analyzer-app-2026/)
-- [How AI Analyzes Golf Swings](/how-ai-analyzes-golf-swings/)
-- [How to Record Your Golf Swing with a Phone](/how-to-record-golf-swing-with-phone/)
-- [Golf Backswing Guide](/golf-backswing-guide/)
+- [Best Golf Swing Analyzer App 2026](/blog/best-golf-swing-analyzer-app/)
+- [How AI Analyzes Golf Swings](/blog/how-ai-analyzes-golf-swing/)
+- [How to Record Your Golf Swing with a Phone](/blog/phone-golf-swing-video/)
+- [Golf Backswing Guide](/blog/golf-backswing/)

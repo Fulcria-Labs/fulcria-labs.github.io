@@ -47,10 +47,10 @@ Amateur golfers spend years grooving bad habits because they've never verified w
 
 ### Angle 2: Face On (In Front)
 
-- [Weight shift](/golf/swing-tips/2026/02/12/golf-weight-transfer.html)
-- [Hip rotation](/golf/swing-tips/2026/02/10/golf-hip-rotation.html)
+- [Weight shift](/blog/golf-weight-transfer/)
+- [Hip rotation](/blog/golf-hip-rotation/)
 - Arm structure at impact
-- [Posture throughout swing](/golf/swing-tips/2026/02/13/golf-setup-stance.html)
+- [Posture throughout swing](/blog/golf-setup-stance/)
 
 **You need both angles to get the full picture.** Each reveals different information.
 

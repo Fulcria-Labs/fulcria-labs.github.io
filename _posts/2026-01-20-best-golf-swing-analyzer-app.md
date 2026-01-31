@@ -166,9 +166,9 @@ Several newer apps focus on AI-driven feedback rather than manual video review:
 
 ## What Actually Matters in a Swing Analyzer
 
-After testing these apps (see our [deep dive on AI analyzer effectiveness](/golf/swing-tips/2026/02/01/ai-golf-swing-analyzer-review.html)), here's what separates the useful ones from the gimmicks:
+After testing these apps (see our [deep dive on AI analyzer effectiveness](/blog/ai-golf-swing-analyzer-review/)), here's what separates the useful ones from the gimmicks:
 
-1. **Video quality matters less than you think** - 60fps at 1080p is plenty. More pixels won't [fix your slice](/golf/swing-tips/2026/01/30/fix-golf-slice.html).
+1. **Video quality matters less than you think** - 60fps at 1080p is plenty. More pixels won't [fix your slice](/blog/fix-golf-slice/).
 
 2. **AI feedback is only as good as what you do with it** - If the app tells you you're over the top and you don't know what that means, the analysis is worthless.
 

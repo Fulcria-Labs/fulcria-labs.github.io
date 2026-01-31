@@ -31,7 +31,7 @@ Let's bust the top 5 myths so you can finally stop fighting yourself.
 
 This is the golf myth hall of famer. Someone tops a ball and immediately gets told to "keep your head down."
 
-**Why it's wrong:** When you lock your head in place, you restrict your [hip turn](/golf/swing-tips/2026/02/10/golf-hip-rotation.html), create a reverse pivot, and lose all your [weight shift](/golf/swing-tips/2026/02/12/golf-weight-transfer.html). Your body creates compensations that destroy your sequence.
+**Why it's wrong:** When you lock your head in place, you restrict your [hip turn](/blog/golf-hip-rotation/), create a reverse pivot, and lose all your [weight shift](/blog/golf-weight-transfer/). Your body creates compensations that destroy your sequence.
 
 **What actually works:** Let your head rotate naturally with your body. Watch slow-motion footage of any tour pro - their head moves. Ben Hogan, Jack Nicklaus, Tiger Woods all rotated their heads slightly behind the ball on the backswing.
 
@@ -55,7 +55,7 @@ Slowing down your swing to find the fairway sounds logical, but it backfires.
 
 **What actually works:** Commit to your swing. A 90% committed swing beats a 60% tentative one every time. Smoothness and rhythm matter more than raw speed, but deceleration is a killer.
 
-**The fix:** Instead of slowing down, focus on [tempo](/golf/swing-tips/2026/02/11/golf-swing-tempo.html). Try the 3:1 ratio - if your backswing takes 3 counts, your downswing should take 1. Smooth acceleration through the ball.
+**The fix:** Instead of slowing down, focus on [tempo](/blog/golf-swing-tempo/). Try the 3:1 ratio - if your backswing takes 3 counts, your downswing should take 1. Smooth acceleration through the ball.
 
 ## Myth 4: "Low and Slow" Takeaway
 
@@ -69,7 +69,7 @@ The classic "keep it low and slow" advice has ruined countless swings.
 
 ## Myth 5: "Create Lag by Holding the Angle"
 
-The internet is full of videos showing dramatic wrist angles, promising tour-level [compression](/golf/swing-tips/2026/02/09/golf-ball-compression.html). Don't fall for it.
+The internet is full of videos showing dramatic wrist angles, promising tour-level [compression](/blog/golf-ball-compression/). Don't fall for it.
 
 **Why it's wrong:** True lag isn't created through manipulation - it's a byproduct of proper sequencing. When you try to artificially hold an angle, you destroy timing and often flip at impact instead of releasing naturally.
 
@@ -87,7 +87,7 @@ A tip that helped one professional with a unique issue becomes "universal advice
 
 Instead of following viral tips:
 
-1. **[Record your swing](/golf/swing-tips/2026/02/03/video-golf-swing.html)** from multiple angles
+1. **[Record your swing](/blog/video-golf-swing/)** from multiple angles
 2. **Get objective feedback** on what YOUR swing is actually doing
 3. **Work on YOUR specific issues**, not generic advice
 

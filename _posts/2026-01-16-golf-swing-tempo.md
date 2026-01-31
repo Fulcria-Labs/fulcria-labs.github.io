@@ -73,7 +73,7 @@ Build a pre-shot routine that includes a tempo reset. One slow, rhythmic practic
 
 ## The Connection to Power
 
-Counterintuitively, better tempo often creates more distance. When you're rushed, your body segments fire out of order. When you're smooth, the kinetic chain works properly and energy transfers efficiently from ground to ball. This ties directly to [weight transfer](/golf/swing-tips/2026/02/12/golf-weight-transfer.html) and [hip rotation](/golf/swing-tips/2026/02/10/golf-hip-rotation.html).
+Counterintuitively, better tempo often creates more distance. When you're rushed, your body segments fire out of order. When you're smooth, the kinetic chain works properly and energy transfers efficiently from ground to ball. This ties directly to [weight transfer](/blog/golf-weight-transfer/) and [hip rotation](/blog/golf-hip-rotation/).
 
 Many golfers have gained 10+ yards just by slowing their backswing down.
 

@@ -72,7 +72,7 @@ V1 Golf is the industry standard, and their free tier offers surprising value.
 - Side-by-side comparison with pro swings
 - Cloud storage for limited videos
 
-**The limitation:** AI analysis, advanced features, and larger storage require V1 Pro subscription ($99.98/year). See our [V1 Golf vs Sportsbox AI comparison](/golf/apps/technology/2026/01/28/v1-golf-vs-sportsbox-ai.html) for more details.
+**The limitation:** AI analysis, advanced features, and larger storage require V1 Pro subscription ($99.98/year). See our [V1 Golf vs Sportsbox AI comparison](/blog/v1-golf-vs-sportsbox-ai/) for more details.
 
 **Best for:** Golfers who want pro swing comparisons and don't mind manual analysis.
 
@@ -89,7 +89,7 @@ V1 Golf is the industry standard, and their free tier offers surprising value.
 - Score tracking
 - Stat analysis
 
-**The limitation:** Swing analysis features are basic. Premium ($99.99/year) adds more robust tools. See our [Mustard Golf vs 18Birdies](/golf/apps/2026/01/29/mustard-golf-vs-18birdies.html) comparison.
+**The limitation:** Swing analysis features are basic. Premium ($99.99/year) adds more robust tools. See our [Mustard Golf vs 18Birdies](/blog/mustard-golf-vs-18birdies/) comparison.
 
 **Best for:** Golfers who want an all-in-one app and don't need detailed swing analysis.
 
@@ -139,8 +139,8 @@ Use multiple free apps for different purposes:
 Free tools work better when you know what you're checking. Focus on:
 
 1. **Setup** - Ball position, stance width, spine angle
-2. **Backswing** - Shoulder turn, arm position, club plane (see our [backswing guide](/golf/instruction/2026/01/21/golf-backswing.html))
-3. **Impact** - Hand position, shaft lean, weight shift (see our [impact position guide](/golf/instruction/2026/01/26/golf-impact-position.html))
+2. **Backswing** - Shoulder turn, arm position, club plane (see our [backswing guide](/blog/golf-backswing/))
+3. **Impact** - Hand position, shaft lean, weight shift (see our [impact position guide](/blog/golf-impact-position/))
 4. **Follow-through** - Balance, full rotation
 
 ### Strategy 3: Record Consistently
@@ -149,7 +149,7 @@ Same angle, same distance, same lighting. This makes comparing swings over time 
 
 - **Face-on view:** 10-15 feet away, camera at waist height
 - **Down-the-line view:** 10-15 feet behind, on target line
-- See our [phone recording guide](/golf/technology/practice/2026/01/20/record-golf-swing-phone.html) for detailed setup tips.
+- See our [phone recording guide](/blog/phone-golf-swing-video/) for detailed setup tips.
 
 ## When to Consider Upgrading
 
@@ -174,6 +174,6 @@ The goal isn't to avoid paying forever - it's to find value at every price point
 ---
 
 **Related posts:**
-- [Best Golf Swing Analyzer App 2026](/golf/apps/technology/2026/01/20/best-golf-swing-analyzer-app.html)
-- [How AI Analyzes Your Golf Swing](/golf/technology/instruction/2026/01/21/how-ai-analyzes-golf-swings.html)
-- [Why Most Golf Apps Waste Your Time](/golf/apps/practice/2026/01/27/why-golf-apps-waste-time.html)
+- [Best Golf Swing Analyzer App 2026](/blog/best-golf-swing-analyzer-app/)
+- [How AI Analyzes Your Golf Swing](/blog/how-ai-analyzes-golf-swing/)
+- [Why Most Golf Apps Waste Your Time](/blog/why-golf-apps-waste-time/)

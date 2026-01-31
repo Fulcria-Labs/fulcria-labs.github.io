@@ -42,7 +42,7 @@ V1 Golf has been the default choice for golf professionals for over a decade. It
 
 **Drawing Tools**: V1's annotation features are comprehensive. Lines, circles, angles—if you want to markup a swing frame by frame, V1 handles it.
 
-**Pro Swing Library**: Access thousands of professional swings for comparison. Want to see how your [backswing](/golf/swing-tips/2026/02/20/golf-backswing.html) compares to a tour player? V1 makes that easy.
+**Pro Swing Library**: Access thousands of professional swings for comparison. Want to see how your [backswing](/blog/golf-backswing/) compares to a tour player? V1 makes that easy.
 
 **Side-by-Side Analysis**: Compare your current swing to past swings or pro models with synced playback.
 
@@ -64,7 +64,7 @@ Sportsbox represents the cutting edge of swing analysis technology. It takes you
 
 **Biomechanical Data**: Sportsbox tracks hundreds of measurements—pelvis sway, shoulder tilt, spine angle, arm plane, and more. It's the kind of data that previously required a $20,000+ studio setup.
 
-**Tour Comparisons**: Compare your kinematic sequence to tour players and see exactly where your [downswing](/golf/swing-tips/2026/02/27/golf-downswing-sequence.html) deviates from theirs.
+**Tour Comparisons**: Compare your kinematic sequence to tour players and see exactly where your [downswing](/blog/golf-downswing-sequence/) deviates from theirs.
 
 **Drills Integration**: Sportsbox suggests specific drills based on your data, creating a more structured improvement path.
 
@@ -93,7 +93,7 @@ This approach works well because:
 
 Sportsbox uses computer vision and machine learning to identify your body segments in each video frame, then constructs a 3D skeleton model. This model enables measurements that would be impossible from standard video.
 
-For more on how this technology works, see our [explainer on AI swing analysis](/golf/technology/2026/02/19/how-ai-analyzes-golf-swing.html).
+For more on how this technology works, see our [explainer on AI swing analysis](/blog/how-ai-analyzes-golf-swing/).
 
 The tradeoff: automated data vs. human insight.
 
@@ -146,4 +146,4 @@ The real question isn't which is "better"—it's which fits how you actually pra
 
 ---
 
-*Related: [Best Golf Swing Analyzer Apps 2026](/golf/technology/2026/02/18/best-golf-swing-analyzer-app.html) | [How AI Analyzes Golf Swings](/golf/technology/2026/02/19/how-ai-analyzes-golf-swing.html)*
+*Related: [Best Golf Swing Analyzer Apps 2026](/blog/best-golf-swing-analyzer-app/) | [How AI Analyzes Golf Swings](/blog/how-ai-analyzes-golf-swing/)*

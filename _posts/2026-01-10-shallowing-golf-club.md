@@ -36,11 +36,11 @@ The opposite is "steepening" - when the club moves to a more vertical plane and 
 
 ### 1. Promotes Inside-Out Path
 
-A shallowed club naturally approaches the ball from inside the target line, promoting a draw or straight ball flight rather than a [slice](/golf/swing-tips/2026/01/30/fix-golf-slice.html).
+A shallowed club naturally approaches the ball from inside the target line, promoting a draw or straight ball flight rather than a [slice](/blog/fix-golf-slice/).
 
 ### 2. Uses Ground Force
 
-Shallowing is part of proper sequencing where the lower body leads. This generates power from the ground up rather than relying on arm strength. See our guides on [weight transfer](/golf/swing-tips/2026/02/12/golf-weight-transfer.html) and [hip rotation](/golf/swing-tips/2026/02/10/golf-hip-rotation.html).
+Shallowing is part of proper sequencing where the lower body leads. This generates power from the ground up rather than relying on arm strength. See our guides on [weight transfer](/blog/golf-weight-transfer/) and [hip rotation](/blog/golf-hip-rotation/).
 
 ### 3. Creates Better Contact
 
@@ -91,7 +91,7 @@ Film your swing from behind (down the line view). Draw a line along your shaft a
 - **On the line** = maintaining (neutral)
 - **Below the line** = shallowing (good)
 
-AI swing analyzers can detect this automatically and show you frame-by-frame where your transition goes wrong.
+[AI swing analyzers](/blog/best-golf-swing-analyzer-app/) can detect this automatically and show you frame-by-frame where your transition goes wrong. For more on transition mechanics, see our [golf swing transition guide](/blog/golf-swing-transition-guide/).
 
 ---
 

@@ -45,17 +45,17 @@ Mustard Golf, developed in partnership with Golf Digest, focuses entirely on one
 
 **Professional Instruction**: The app includes video lessons from Mark Blackburn, one of Golf Digest's top-ranked instructors. These aren't generic tips—they're tied to your specific swing analysis.
 
-**Practice Anywhere**: Many of Mustard's drills work at home. You don't need a range or course to work on your [tempo](/golf/instruction/2026/02/13/golf-swing-tempo.html) or [body rotation](/golf/instruction/2026/02/12/golf-hip-rotation.html).
+**Practice Anywhere**: Many of Mustard's drills work at home. You don't need a range or course to work on your [tempo](/blog/golf-swing-tempo/) or [body rotation](/blog/golf-hip-rotation/).
 
 **Justin Rose Connection**: Developed with input from former world #1 Justin Rose, giving the analysis framework tour-level credibility.
 
 ### Where Mustard Falls Short
 
-**No Short Game**: The app focuses exclusively on the full swing. If you want to work on your [chipping](/golf/short-game/2026/02/26/chipping-made-simple.html) or [putting](/golf/short-game/2026/02/25/putting-fundamentals.html), look elsewhere.
+**No Short Game**: The app focuses exclusively on the full swing. If you want to work on your [chipping](/blog/chipping-made-simple/) or [putting](/blog/putting-fundamentals/), look elsewhere.
 
 **No Input for Specific Issues**: You can't tell the app "I slice everything" and have it focus there. It analyzes what it sees without context for your ball flight.
 
-**Missing Fundamentals**: Grip, posture, and [alignment](/golf/fundamentals/2026/02/22/golf-alignment-aim.html) aren't part of the analysis model—surprising omissions since they're foundational to any good swing.
+**Missing Fundamentals**: Grip, posture, and [alignment](/blog/golf-alignment-aim/) aren't part of the analysis model—surprising omissions since they're foundational to any good swing.
 
 ## 18Birdies: The On-Course Companion
 
@@ -65,7 +65,7 @@ Mustard Golf, developed in partnership with Golf Digest, focuses entirely on one
 
 **GPS Accuracy**: Coverage of 43,000+ courses worldwide with distances to greens, hazards, and layup targets. The GPS is reliable and works with Apple Watch/Wear OS.
 
-**Strokes Gained Analysis**: Premium members can track every shot and see where they're gaining or losing strokes compared to other golfers at various skill levels. Understanding your [actual weaknesses](/golf/analysis/2026/02/10/golf-divot-pattern.html) beats guessing.
+**Strokes Gained Analysis**: Premium members can track every shot and see where they're gaining or losing strokes compared to other golfers at various skill levels. Understanding your [actual weaknesses](/blog/golf-divot-pattern/) beats guessing.
 
 **Stat Tracking**: Record scores, fairways hit, greens in regulation, and putts. Over time, you build a clear picture of your game.
 
@@ -105,7 +105,7 @@ Mustard Golf, developed in partnership with Golf Digest, focuses entirely on one
 - **You want to improve your swing** between rounds
 - **You practice more than you play** (or want to start practicing more)
 - **You prefer structured lessons** with professional instruction
-- **You're working on specific swing mechanics** like [weight transfer](/golf/instruction/2026/02/14/golf-weight-transfer.html) or [club face control](/golf/technique/2026/03/01/club-face-control.html)
+- **You're working on specific swing mechanics** like [weight transfer](/blog/golf-weight-transfer/) or [club face control](/blog/club-face-control/)
 - **You're comfortable self-coaching** based on AI feedback
 
 ### Choose 18Birdies If:
@@ -150,4 +150,4 @@ For most golfers, the question isn't "which one?"—it's recognizing that practi
 
 ---
 
-*Related reading: [How AI Analyzes Golf Swings](/golf/technology/2026/02/21/how-ai-analyzes-golf-swings.html) | [Why Most Golf Apps Waste Your Time](/golf/analysis/2026/03/03/why-golf-apps-waste-time.html)*
+*Related reading: [How AI Analyzes Golf Swings](/blog/how-ai-analyzes-golf-swing/) | [Why Most Golf Apps Waste Your Time](/blog/why-golf-apps-waste-time/)*

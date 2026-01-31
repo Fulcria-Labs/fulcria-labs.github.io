@@ -42,11 +42,11 @@ Without compression, you're scooping—hitting up on the ball, thinning it, or h
 
 If the ball is positioned toward your front foot, your swing has already bottomed out before you reach it. You'll hit up on the ball instead of down.
 
-**Fix:** For mid-irons (7-iron), position the ball roughly a third of the way between center and your lead foot. For short irons, move it slightly back toward center. Get the fundamentals right with our [setup and stance guide](/golf/swing-tips/2026/02/13/golf-setup-stance.html).
+**Fix:** For mid-irons (7-iron), position the ball roughly a third of the way between center and your lead foot. For short irons, move it slightly back toward center. Get the fundamentals right with our [setup and stance guide](/blog/golf-setup-stance/).
 
 ### Problem 2: Weight staying back
 
-Many golfers never shift their weight to the front foot in the downswing. This moves your low point behind the ball. See our detailed [weight transfer guide](/golf/swing-tips/2026/02/12/golf-weight-transfer.html).
+Many golfers never shift their weight to the front foot in the downswing. This moves your low point behind the ball. See our detailed [weight transfer guide](/blog/golf-weight-transfer/).
 
 **Fix:** At impact, 70-80% of your weight should be on your front foot. You should feel like you're driving toward the target.
 

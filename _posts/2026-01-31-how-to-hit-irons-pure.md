@@ -47,7 +47,7 @@ Where you place the ball dramatically affects your contact quality.
 
 ### 2. Weight Distribution at Impact
 
-Tour pros shift their weight dramatically onto their front foot through impact. This is perhaps THE most important fundamental for pure contact.
+Tour pros shift their weight dramatically onto their front foot through impact. This is perhaps THE most important fundamental for pure contact. For a deeper dive into this crucial element, see our [golf weight transfer guide](/blog/golf-weight-transfer/).
 
 **At impact, you should have:**
 - 80-90% of your weight on your lead leg
@@ -75,7 +75,7 @@ Shaft lean at impact is what separates consistent iron players from everyone els
 
 ### 4. Maintain Your Posture
 
-One of the most common amateur errors is "standing up" through impact—losing your spine angle and hip hinge.
+One of the most common amateur errors is "standing up" through impact—losing your spine angle and hip hinge. This is often called [early extension](/blog/fix-early-extension-golf-swing/) and is a major killer of pure contact.
 
 **Keys to maintaining posture:**
 - Keep your head height consistent from address through impact
@@ -119,11 +119,11 @@ Your club's lowest point should be 2-4 inches AHEAD of the ball—not behind it,
 
 ### Mistake 3: Casting (Early Release)
 
-**What it looks like:** Releasing the wrist hinge too early, causing the clubhead to pass the hands before impact.
+**What it looks like:** Releasing the wrist hinge too early, causing the clubhead to pass the hands before impact. This destroys your [lag](/blog/creating-lag-golf-swing/) and power potential.
 
 **Why it happens:** Trying to add power by throwing the club at the ball.
 
-**The fix:** Feel like your hands win the race to the ball. The clubhead catches up naturally through centrifugal force.
+**The fix:** Feel like your hands win the race to the ball. The clubhead catches up naturally through centrifugal force. See our dedicated guide on [how to stop casting](/blog/stop-casting-golf-club/) for more drills.
 
 ### Mistake 4: Looking Up Too Soon
 
@@ -309,8 +309,8 @@ Good iron players take divots. If you're afraid to hit the turf, you'll never co
 *Ready to see your iron swing in action? [Try Swing Analyzer](https://swing.fulcria.com) for instant AI feedback on your impact position, shaft lean, and contact quality—in just 90 seconds.*
 
 **Related Posts:**
-- [Golf Impact Position Guide](/2026/01/29/golf-impact-position-guide/)
-- [Stop Hitting Fat and Thin Shots](/2026/01/29/stop-fat-thin-shots-golf/)
-- [How to Fix Casting in Your Golf Swing](/2026/01/30/stop-casting-golf-club/)
-- [Golf Downswing Sequence](/2026/01/29/golf-downswing-sequence/)
-- [How to Compress the Golf Ball](/2026/01/29/how-to-compress-golf-ball/)
+- [Golf Impact Position Guide](/blog/golf-impact-position/)
+- [Stop Hitting Fat and Thin Shots](/blog/stop-fat-thin-shots/)
+- [How to Fix Casting in Your Golf Swing](/blog/stop-casting-golf-club/)
+- [Golf Downswing Sequence](/blog/golf-downswing-sequence/)
+- [How to Compress the Golf Ball](/blog/golf-ball-compression/)

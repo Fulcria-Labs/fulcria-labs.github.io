@@ -104,7 +104,7 @@ Once you've recorded your swing, here's a quick checklist:
 - Full rotation to target?
 - Balanced finish?
 
-For more on what each position should look like, check our [setup and stance fundamentals](/golf/swing-tips/2026/02/13/golf-setup-stance.html) and [weight transfer guide](/golf/swing-tips/2026/02/12/golf-weight-transfer.html).
+For more on what each position should look like, check our [setup and stance fundamentals](/blog/golf-setup-stance/) and [weight transfer guide](/blog/golf-weight-transfer/).
 
 ## The Real Challenge: Seeing What's Wrong
 

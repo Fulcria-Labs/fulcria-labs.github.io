@@ -68,7 +68,7 @@ Flip your club upside down (grip the clubhead) or use an alignment stick.
 - Do 10-15 swings focusing on maximum speed
 - The lighter weight removes fear and lets you swing freely
 
-This drill trains the "release" pattern that creates speed. Read more about [creating lag](/golf/swing-tips/creating-lag-golf-swing/) to understand why this matters.
+This drill trains the "release" pattern that creates speed. Read more about [creating lag](/blog/creating-lag-golf-swing/) to understand why this matters.
 
 ### 2. The Step-Through Drill
 
@@ -79,7 +79,7 @@ Start with your feet together, club in position.
 - This teaches ground force integration
 - Do 10 reps, then hit 5 normal shots
 
-You'll feel how the lower body initiates the downswing. Check out our post on [tempo](/golf/swing-tips/golf-swing-tempo/) to see how this connects to overall swing rhythm.
+You'll feel how the lower body initiates the downswing. Check out our post on [tempo](/blog/golf-swing-tempo/) to see how this connects to overall swing rhythm.
 
 ### 3. Weighted Club Swings
 
@@ -144,7 +144,7 @@ Track your swing speed if possible. Launch monitors or apps like Swing Analyzer 
 
 Speed training is high-intensity work. Protect yourself:
 
-**Always warm up first.** A proper [warm-up routine](/golf/swing-tips/golf-warm-up-routine/) isn't optional before speed training. Cold muscles and max effort don't mix.
+**Always warm up first.** A proper [warm-up routine](/blog/golf-warm-up-routine/) isn't optional before speed training. Cold muscles and max effort don't mix.
 
 **Start at 80% effort.** Even during "maximum effort" drills, ramp up over 2-3 sessions. Don't go all-out on day one.
 
@@ -190,7 +190,7 @@ Start by picking one hole per round where you "let it go." Over time, expand thi
 
 The mental transition is real. Your brain built that speed governor for a reason. Convince it that faster is okay by building a track record of success.
 
-See our breakdown of [swing speed vs. distance](/golf/swing-tips/golf-swing-speed-distance/) to understand how your new speed translates to actual yards.
+See our breakdown of [swing speed vs. distance](/blog/golf-swing-speed-distance/) to understand how your new speed translates to actual yards.
 
 ## Train Smarter, Swing Faster
 
