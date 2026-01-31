@@ -60,11 +60,11 @@ Dedicate 10-15 minutes daily to these key areas:
 
 **Shoulders**: The classic cross-body stretch and doorway pec stretch keep your arms moving freely through impact.
 
-**Hamstrings**: Tight hamstrings affect your [posture at address](/golf-posture-fundamentals/), pulling you out of the athletic position you need.
+**Hamstrings**: Tight hamstrings affect your [posture at address](/blog/golf-posture-fundamentals/), pulling you out of the athletic position you need.
 
 ### Pre-Round Warm-Up is Non-Negotiable
 
-A proper [golf warm-up routine](/golf-warm-up-routine/) isn't optional for senior golfers. It's essential for both performance and injury prevention.
+A proper [golf warm-up routine](/blog/golf-warm-up-routine/) isn't optional for senior golfers. It's essential for both performance and injury prevention.
 
 Start with 5-10 minutes of dynamic movement before hitting any balls:
 
@@ -117,7 +117,7 @@ This was standard technique in the classic era of golf. Nicklaus, Palmer, and Sn
 
 Many senior golfers begin with too much weight on their back foot and fail to shift properly during the swing. This leads to topped shots, thin contact, and loss of distance.
 
-Try starting with about 60% of your weight on your lead foot. This sets you up for a natural pressure shift into your [backswing](/golf-backswing/) and ensures you can transfer forward through impact.
+Try starting with about 60% of your weight on your lead foot. This sets you up for a natural pressure shift into your [backswing](/blog/golf-backswing/) and ensures you can transfer forward through impact.
 
 ### Drop Your Trail Foot Back
 
@@ -170,7 +170,7 @@ Generic drills assume full flexibility and mobility. These alternatives achieve 
 
 ### The Feet-Together Drill (Modified)
 
-The standard feet-together drill helps [balance](/golf-balance-drills/), but it can feel unstable for seniors. Instead, use a stance about six inches apart. You still learn to control your swing with less reliance on lower body action, but you maintain enough stability to swing confidently.
+The standard feet-together drill helps [balance](/blog/golf-balance-drills/), but it can feel unstable for seniors. Instead, use a stance about six inches apart. You still learn to control your swing with less reliance on lower body action, but you maintain enough stability to swing confidently.
 
 ### The Pause Drill
 
@@ -218,7 +218,7 @@ Most courses now have forward tees designed for senior players. Use them.
 
 As flexibility decreases, many seniors unconsciously grip the club tighter. This creates tension through the arms and shoulders, limiting turn and reducing clubhead speed.
 
-Check your [grip pressure](/golf-grip-pressure-guide/) regularly. On a scale of 1-10, you should be around a 4. Light enough that someone could pull the club from your hands, firm enough that it won't fly out during the swing.
+Check your [grip pressure](/blog/golf-grip-pressure-guide/) regularly. On a scale of 1-10, you should be around a 4. Light enough that someone could pull the club from your hands, firm enough that it won't fly out during the swing.
 
 ## How Technology Can Help
 
@@ -248,7 +248,7 @@ Even affordable launch monitors can tell you your clubhead speed, ball speed, an
 
 ### Fitness Apps
 
-Several apps now offer golf-specific [fitness routines](/golf-fitness-exercises/) designed for home use. These can guide you through the stretches and exercises that maintain the mobility you need for golf.
+Several apps now offer golf-specific [fitness routines](/blog/golf-fitness-exercises/) designed for home use. These can guide you through the stretches and exercises that maintain the mobility you need for golf.
 
 ## Putting It All Together: Your Action Plan
 
