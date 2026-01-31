@@ -54,11 +54,11 @@ The key is matching your grip to your swing tendencies.
 
 | Your Miss | Try This |
 |-----------|----------|
-| Slice | Stronger grip (see our [slice fix guide](/2026/01/30/fix-golf-slice/)) |
+| Slice | Stronger grip (see our [slice fix guide](/blog/fix-golf-slice/)) |
 | Hook | Weaker grip |
 | Inconsistent | Start neutral and adjust |
 
-Your grip directly influences [club face control](/2026/03/01/club-face-control/) - and the clubface is responsible for about 75% of where your ball starts.
+Your grip directly influences [club face control](/blog/club-face-control/) - and the clubface is responsible for about 75% of where your ball starts.
 
 ## The Grip Pressure Myth
 
@@ -82,9 +82,9 @@ If you're considering a grip change:
 1. Make the change on the range, not the course
 2. Give it at least 50-100 balls before judging
 3. Expect shots to go in unexpected directions initially
-4. [Film your swing](/2026/02/13/how-to-record-golf-swing-phone/) to see the actual changes
+4. [Film your swing](/blog/phone-golf-swing-video/) to see the actual changes
 
-[AI analyzers](/2026/02/14/best-golf-swing-analyzer-app-2026/) can detect grip-related issues (open/closed face patterns) automatically and suggest whether a grip adjustment might help. Understanding [how AI analyzes your swing](/2026/02/15/how-ai-analyzes-golf-swings/) can help you make sense of the feedback.
+[AI analyzers](/blog/best-golf-swing-analyzer-app/) can detect grip-related issues (open/closed face patterns) automatically and suggest whether a grip adjustment might help. Understanding [how AI analyzes your swing](/blog/how-ai-analyzes-golf-swing/) can help you make sense of the feedback.
 
 ---
 

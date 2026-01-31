@@ -91,7 +91,7 @@ Control is paramount:
 Match club loft to the situation:
 - **More green to work with**: Use less loft (8-iron, 9-iron bump-and-run)
 - **Less green**: Use more loft (SW, LW)
-- See our [chipping guide](/2026/01/29/chipping-made-simple/) for detailed strategy
+- See our [chipping guide](/blog/chipping-made-simple/) for detailed strategy
 
 ## Environmental Factors
 
@@ -162,13 +162,13 @@ For three rounds, always aim for the back of the green. See how many more greens
 Modern tools can eliminate guesswork:
 - **GPS watches/apps**: Know exact distances
 - **Launch monitors**: Measure actual carry distances
-- **[Video analysis](/2026/01/29/record-golf-swing-with-phone/)**: See if you're making consistent contact
+- **[Video analysis](/blog/phone-golf-swing-video/)**: See if you're making consistent contact
 
 ## Integrate with Your Swing Analysis
 
 Understanding your typical ball flight helps with club selection. If you tend to hit a slight fade, you know the ball will fly a bit higher and land softer. If you hit a draw, expect more roll.
 
-Recording your swing with [video analysis tools](/2026/01/29/how-ai-analyzes-golf-swings/) helps you understand your tendencies and make better club choices based on your actual patterns, not assumptions.
+Recording your swing with [video analysis tools](/blog/how-ai-analyzes-golf-swing/) helps you understand your tendencies and make better club choices based on your actual patterns, not assumptions.
 
 ## Key Takeaways
 

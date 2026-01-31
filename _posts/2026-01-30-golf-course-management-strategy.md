@@ -254,7 +254,7 @@ The next time you reach for driver on a tight hole or aim at a sucker pin, pause
 That's course management—and it might be the fastest improvement tool in your bag.
 
 **Related Posts:**
-- [Golf Driver Tips: 7 Keys to Longer, Straighter Drives](/2026/01/29/golf-driver-tips/)
-- [Wedge Distance Control: Dial In Your Scoring Clubs](/2026/01/30/wedge-distance-control-guide/)
-- [Golf Pre-Shot Routine: Build Confidence and Consistency](/2026/01/30/golf-pre-shot-routine/)
-- [The Psychology of Golf Practice: Why Fun Matters](/2026/01/29/psychology-of-golf-practice/)
+- [Golf Driver Tips: 7 Keys to Longer, Straighter Drives](/blog/golf-driver-tips/)
+- [Wedge Distance Control: Dial In Your Scoring Clubs](/blog/wedge-distance-control-guide/)
+- [Golf Pre-Shot Routine: Build Confidence and Consistency](/blog/golf-pre-shot-routine/)
+- [The Psychology of Golf Practice: Why Fun Matters](/blog/psychology-of-golf-practice/)

@@ -57,7 +57,7 @@ The correct sequence isn't about moving slowly. It's about starting the right bo
 
 ## The Transition: Where It All Begins
 
-The transition from [backswing](/2026/02/20/golf-backswing/) to downswing is the most critical moment in the golf swing. And it happens before the backswing even finishes.
+The transition from [backswing](/blog/golf-backswing/) to downswing is the most critical moment in the golf swing. And it happens before the backswing even finishes.
 
 ### Shift, Turn, Rise
 
@@ -178,14 +178,14 @@ Hit balls at 50-75% speed. Focus on starting correctly, not hitting hard. Good s
 
 ## How AI Analysis Helps
 
-[Video analysis](/2026/02/17/phone-golf-swing-video/) can show you things you can't feel:
+[Video analysis](/blog/phone-golf-swing-video/) can show you things you can't feel:
 
 - Whether your hips actually start before your shoulders
 - How much lag you maintain (or lose) in the downswing
 - Your club path through the hitting zone
 - Where your weight is at different points
 
-Modern [AI swing analyzers](/2026/02/19/how-ai-analyzes-golf-swing/) measure sequence automatically, giving you objective feedback instead of guesswork. Many golfers think they're starting with their hips when video shows otherwise.
+Modern [AI swing analyzers](/blog/how-ai-analyzes-golf-swing/) measure sequence automatically, giving you objective feedback instead of guesswork. Many golfers think they're starting with their hips when video shows otherwise.
 
 ## The Bottom Line
 
@@ -196,8 +196,8 @@ Key principles:
 - Hips lead, shoulders follow, arms last
 - Bump before you turn
 - Let the club lag behind
-- Maintain your angles through [impact](/2026/02/28/golf-impact-position/)
-- Let the [release](/2026/03/02/golf-release/) happen naturally at the end
+- Maintain your angles through [impact](/blog/golf-impact-position/)
+- Let the [release](/blog/golf-release/) happen naturally at the end
 
 Focus on sequence, and speed follows. The opposite isn't true.
 

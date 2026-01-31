@@ -118,7 +118,7 @@ The challenge reveals how quickly your eyes learn to aim the putter face with cl
 
 ## Green Reading Basics
 
-For an in-depth guide to reading greens, including the AimPoint method used by tour pros, see our complete [green reading guide](/2026/01/30/how-to-read-greens-golf/).
+For an in-depth guide to reading greens, including the AimPoint method used by tour pros, see our complete [green reading guide](/blog/how-to-read-greens-golf/).
 
 ### Walk the Full Putt
 
@@ -219,4 +219,4 @@ Start spending more time on the practice green. Your scorecard will thank you.
 
 ---
 
-*For improving your full swing fundamentals, see our guides on [setup and stance](/2026/02/13/golf-setup-stance/) and [tempo](/2026/02/11/golf-swing-tempo/). For recording your swing to analyze issues, check out [how to record your golf swing with your phone](/2026/02/17/phone-golf-swing-video/).*
+*For improving your full swing fundamentals, see our guides on [setup and stance](/blog/golf-setup-stance/) and [tempo](/blog/golf-swing-tempo/). For recording your swing to analyze issues, check out [how to record your golf swing with your phone](/blog/phone-golf-swing-video/).*

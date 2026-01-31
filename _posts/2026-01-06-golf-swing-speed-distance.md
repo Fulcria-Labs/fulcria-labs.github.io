@@ -57,11 +57,11 @@ Products like SuperSpeed or Rypstick use overspeed training to increase your neu
 
 ### 2. Improve Your Sequencing
 
-The fastest swings have proper kinematic sequence: lower body leads, then hips, then torso, then arms. Poor sequencing "leaks" speed at every transition. See our guides on [hip rotation](/2026/02/10/golf-hip-rotation/), [weight transfer](/2026/02/12/golf-weight-transfer/), and [downswing sequence](/2026/02/27/golf-downswing-sequence/) for specifics.
+The fastest swings have proper kinematic sequence: lower body leads, then hips, then torso, then arms. Poor sequencing "leaks" speed at every transition. See our guides on [hip rotation](/blog/golf-hip-rotation/), [weight transfer](/blog/golf-weight-transfer/), and [downswing sequence](/blog/golf-downswing-sequence/) for specifics.
 
 ### 3. Increase Your X-Factor
 
-The separation between your hip rotation and shoulder rotation at the top of your [backswing](/2026/02/18/golf-backswing/) creates stored energy. More flexibility = more potential speed. Learn more in our [tempo and timing guide](/2026/02/11/golf-swing-tempo/).
+The separation between your hip rotation and shoulder rotation at the top of your [backswing](/blog/golf-backswing/) creates stored energy. More flexibility = more potential speed. Learn more in our [tempo and timing guide](/blog/golf-swing-tempo/).
 
 ### 4. Get Fitted for the Right Shaft
 
@@ -75,7 +75,7 @@ Without data, you're guessing. Track these numbers:
 - **Ball speed** (calculation: clubhead speed × smash factor)
 - **Carry distance** (not total - eliminates roll variance)
 
-Recording your swing on video is the first step - see [how to record golf swing with your phone](/2026/02/13/how-to-record-golf-swing-phone/). [AI swing analyzers](/2026/02/14/best-golf-swing-analyzer-app-2026/) can estimate your handicap from your swing mechanics and show you which technical issues are costing you distance.
+Recording your swing on video is the first step - see [how to record golf swing with your phone](/blog/phone-golf-swing-video/). [AI swing analyzers](/blog/best-golf-swing-analyzer-app/) can estimate your handicap from your swing mechanics and show you which technical issues are costing you distance.
 
 ---
 

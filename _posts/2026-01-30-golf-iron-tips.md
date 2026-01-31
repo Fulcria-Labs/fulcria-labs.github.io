@@ -34,7 +34,7 @@ With irons, everything changes:
 
 This is counterintuitive. Your brain says "the ball is on the ground, so I need to help it up." That instinct is wrong. Trust the loft on the clubface. Your job is to compress the ball into the turf and let physics do the rest.
 
-For a complete breakdown of driver-specific technique, see our [driver tips guide](/2026/01/29/golf-driver-tips/).
+For a complete breakdown of driver-specific technique, see our [driver tips guide](/blog/golf-driver-tips/).
 
 ## Ball Position for Every Iron
 
@@ -64,7 +64,7 @@ Wedges can be played at center or even slightly back of center for more control.
 
 For specialty wedge shots around the green, you might move the ball slightly back for lower trajectories or forward for higher, softer landings.
 
-For a complete reference on ball position for every club, check out our [ball position guide](/2026/01/30/golf-ball-position-guide/).
+For a complete reference on ball position for every club, check out our [ball position guide](/blog/golf-ball-position-guide/).
 
 ## Setup Adjustments for Iron Play
 
@@ -88,7 +88,7 @@ Stand slightly closer to the ball with irons than with your driver. The clubs ar
 
 A good check: at address, a line dropped from your shoulders should fall just past your toes.
 
-For more on proper setup fundamentals, see our [setup and stance guide](/2026/01/17/golf-setup-stance/).
+For more on proper setup fundamentals, see our [setup and stance guide](/blog/golf-setup-stance/).
 
 ### Shaft Lean at Address
 
@@ -114,7 +114,7 @@ At impact with a well-struck iron:
 
 The low point of your swing should be 2-4 inches ahead of the ball. You strike the ball first, then the club continues down and takes a divot in front of where the ball was sitting.
 
-For a deep dive into what proper impact looks like, read our [impact position guide](/2026/01/26/golf-impact-position/).
+For a deep dive into what proper impact looks like, read our [impact position guide](/blog/golf-impact-position/).
 
 ## What Your Divots Tell You
 
@@ -140,7 +140,7 @@ Your divots are free feedback. Learn to read them and you can diagnose problems 
 
 **Shallow or no divot**: Could indicate good compression with solid ball flight, or thin contact if shots are low and weak. Look at your ball flight to interpret.
 
-For a complete breakdown, see our [divot pattern guide](/2026/01/14/golf-divot-pattern/).
+For a complete breakdown, see our [divot pattern guide](/blog/golf-divot-pattern/).
 
 ## Common Iron Mistakes (And How to Fix Them)
 
@@ -184,7 +184,7 @@ If your weight does not transfer to your front foot during the downswing, your l
 
 **The fix**: At impact, 80% of your weight should be on your front foot. Practice the step drill (below) to force proper weight transfer.
 
-For more on fixing fat and thin shots, see our detailed guide on [stopping fat and thin shots](/2026/01/23/stop-fat-thin-shots/).
+For more on fixing fat and thin shots, see our detailed guide on [stopping fat and thin shots](/blog/stop-fat-thin-shots/).
 
 ## Adjusting for Different Irons
 
@@ -266,7 +266,7 @@ On the final repetition, continue through and hit the ball.
 
 This drill grooves the correct first move down (hips leading, hands dropping) without the distraction of hitting at the ball. It also helps maintain lag and prevents casting.
 
-For more on the proper downswing sequence, see our [downswing guide](/2026/01/25/golf-downswing-sequence/).
+For more on the proper downswing sequence, see our [downswing guide](/blog/golf-downswing-sequence/).
 
 ## Putting It All Together
 

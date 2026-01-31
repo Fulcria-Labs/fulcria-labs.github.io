@@ -152,14 +152,14 @@ Once you step to the ball, your job is simple: aim and fire. All the thinking is
 
 ## Using Technology to Reinforce Your Routine
 
-One of the best ways to improve your pre-shot routine is to watch yourself execute it. [Recording your swing on your phone](/2026/01/17/phone-golf-swing-recording/) captures more than just mechanics—it shows your setup rhythm and timing.
+One of the best ways to improve your pre-shot routine is to watch yourself execute it. [Recording your swing on your phone](/blog/phone-golf-swing-video/) captures more than just mechanics—it shows your setup rhythm and timing.
 
 When you review your swings, notice:
 - How long do you stand over the ball?
 - Do you rush when you're nervous?
 - Are you looking at your target enough?
 
-[Swing Analyzer](https://swing.fulcria.com) gives you instant feedback on your setup position and [alignment](/2026/01/23/golf-alignment-and-aim/), helping you see whether your routine is producing consistent starting positions.
+[Swing Analyzer](https://swing.fulcria.com) gives you instant feedback on your setup position and [alignment](/blog/golf-alignment-aim/), helping you see whether your routine is producing consistent starting positions.
 
 ## Your One Takeaway
 

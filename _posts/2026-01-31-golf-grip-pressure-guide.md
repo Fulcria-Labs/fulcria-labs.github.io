@@ -51,7 +51,7 @@ Research shows that pros actually **decrease grip pressure slightly early in the
 
 Your grip pressure directly influences how the clubface rotates through impact. Too tight, and you restrict natural rotation, often leaving the face open and producing weak fades or slices. Too loose, and you lose control of face angle entirely.
 
-The connection to [club face control](/2026/01/26/club-face-control/) is critical: the clubface determines where your ball starts. If your grip pressure changes mid-swing, your face angle becomes unpredictable.
+The connection to [club face control](/blog/club-face-control/) is critical: the clubface determines where your ball starts. If your grip pressure changes mid-swing, your face angle becomes unpredictable.
 
 ### Tension in Your Arms and Shoulders
 
@@ -71,7 +71,7 @@ Most golfers treat grip pressure as a whole-body setting. Grip tighter, and ever
 
 Your last three fingers of the lead hand (pinky, ring, middle) do most of the gripping work. Your trail hand provides guidance and stability without adding squeeze. The connection points feel secure, but your forearms stay soft.
 
-This is why the [neutral or strong grip positions](/2026/01/08/golf-grip-guide/) work well for many players—they place the club more in the fingers, making it easier to grip securely without involving the whole arm.
+This is why the [neutral or strong grip positions](/blog/golf-grip-guide/) work well for many players—they place the club more in the fingers, making it easier to grip securely without involving the whole arm.
 
 ### The Test
 
@@ -87,7 +87,7 @@ Grip pressure is not one-size-fits-all across every shot. Here is how to adjust 
 
 **Pressure: 4-6 on the scale**
 
-This is your baseline. Secure enough for control through the impact forces, light enough for full wrist hinge and release. Your [swing tempo](/2026/01/16/golf-swing-tempo/) and [release](/2026/01/27/golf-release/) both depend on having enough freedom in your hands and wrists.
+This is your baseline. Secure enough for control through the impact forces, light enough for full wrist hinge and release. Your [swing tempo](/blog/golf-swing-tempo/) and [release](/blog/golf-release/) both depend on having enough freedom in your hands and wrists.
 
 ### Chips and Pitch Shots
 
@@ -101,7 +101,7 @@ The key is maintaining the same pressure throughout the stroke. No tightening on
 
 **Pressure: 3-4 on the scale**
 
-[Putting fundamentals](/2026/01/24/putting-fundamentals/) emphasize quiet hands and a shoulder-driven stroke. Your grip pressure should be light enough that you feel the putterhead, but secure enough that it does not twist in your hands.
+[Putting fundamentals](/blog/putting-fundamentals/) emphasize quiet hands and a shoulder-driven stroke. Your grip pressure should be light enough that you feel the putterhead, but secure enough that it does not twist in your hands.
 
 The biggest putting grip mistake is squeezing tighter under pressure. Practice maintaining soft hands even on must-make putts.
 

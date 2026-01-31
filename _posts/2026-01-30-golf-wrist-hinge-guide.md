@@ -53,7 +53,7 @@ This is where most golfers get confused. There are two schools of thought, and b
 
 ### Early Hinge (Traditional Method)
 
-In this approach, your wrists begin hinging as soon as the club passes your right thigh. By the time your hands reach hip height in the [backswing](/2026/01/22/golf-backswing/), your wrists are already set.
+In this approach, your wrists begin hinging as soon as the club passes your right thigh. By the time your hands reach hip height in the [backswing](/blog/golf-backswing/), your wrists are already set.
 
 **Advantages**: Creates a consistent, repeatable position. Removes one timing element from the swing.
 
@@ -105,11 +105,11 @@ This one's sneaky. Instead of hinging vertically (up toward the sky), some golfe
 
 When your lead wrist cups excessively (bends backward) as you hinge, the clubface opens. Now you spend the rest of the swing trying to close it. Hello, slice.
 
-**The fix**: Focus on keeping your lead wrist flat or even slightly bowed as you hinge. The feeling might be that the clubface points more at the ground, but video usually shows it's just square. This is essential for proper [club face control](/2026/01/26/club-face-control/).
+**The fix**: Focus on keeping your lead wrist flat or even slightly bowed as you hinge. The feeling might be that the clubface points more at the ground, but video usually shows it's just square. This is essential for proper [club face control](/blog/club-face-control/).
 
 ### 5. Losing the Hinge Too Early (Casting)
 
-You can hinge perfectly in the backswing and still throw it away immediately on the downswing. This is [casting](/2026/01/30/stop-casting-golf-club/), and it's devastating to your power.
+You can hinge perfectly in the backswing and still throw it away immediately on the downswing. This is [casting](/blog/stop-casting-golf-club/), and it's devastating to your power.
 
 **The fix**: The hinge you create in the backswing needs to be preserved into the downswing. Focus on starting down with your lower body while your wrists stay quiet. The release happens naturally near the ball, not at the top.
 
@@ -141,16 +141,16 @@ Notice how your wrist hinges vertically, up and down. That's the motion you want
 
 ## How Wrist Hinge Connects to Lag
 
-Wrist hinge and [lag](/2026/01/30/creating-lag-golf-swing/) are intimately connected. Here's the relationship:
+Wrist hinge and [lag](/blog/creating-lag-golf-swing/) are intimately connected. Here's the relationship:
 
 - **Backswing**: You create wrist hinge (the angle)
 - **Transition**: You preserve that angle (this creates lag)
 - **Downswing**: You maintain it as long as possible
-- **Impact**: You [release](/2026/01/27/golf-release/) the angle into the ball
+- **Impact**: You [release](/blog/golf-release/) the angle into the ball
 
 Lag is simply the retention of the wrist angle you set in the backswing. If you don't hinge properly, there's nothing to retain. If you don't retain it, there's nothing to release. Both pieces matter.
 
-The kinetic chain depends on proper sequencing. Your [downswing sequence](/2026/01/25/golf-downswing-sequence/) starts from the ground up, allowing the wrist angle to be preserved naturally. When you start down with your arms, the angle releases immediately, and lag evaporates.
+The kinetic chain depends on proper sequencing. Your [downswing sequence](/blog/golf-downswing-sequence/) starts from the ground up, allowing the wrist angle to be preserved naturally. When you start down with your arms, the angle releases immediately, and lag evaporates.
 
 ## What to Look for in Video
 

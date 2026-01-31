@@ -184,9 +184,9 @@ After one week of focused practice, you'll be getting up-and-down more often and
 
 ## Connect the Dots
 
-Great chipping starts with [solid setup fundamentals](/2026/02/17/golf-setup-and-stance/) and [good tempo](/2026/02/15/golf-swing-tempo/). To understand how ball position affects trajectory, see our guide on [weight transfer](/2026/02/16/golf-weight-transfer/).
+Great chipping starts with [solid setup fundamentals](/blog/golf-setup-stance/) and [good tempo](/blog/golf-swing-tempo/). To understand how ball position affects trajectory, see our guide on [weight transfer](/blog/golf-weight-transfer/).
 
-Want to see your technique? Recording your chips with your phone—[no tripod needed](/2026/02/21/record-golf-swing-phone/)—can reveal issues you can't feel. [Swing Analyzer](https://swing.fulcria.com) gives you instant feedback on your form.
+Want to see your technique? Recording your chips with your phone—[no tripod needed](/blog/phone-golf-swing-video/)—can reveal issues you can't feel. [Swing Analyzer](https://swing.fulcria.com) gives you instant feedback on your form.
 
 ---
 

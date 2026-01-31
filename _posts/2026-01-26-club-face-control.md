@@ -57,7 +57,7 @@ Most amateurs have too much extension (cupping) at the top of the backswing and 
 
 ### 3. Proper Rotation in the Downswing
 
-The [downswing sequence](/2026/02/27/golf-downswing-sequence/) matters for face control. When your hips and body rotate properly, the club naturally squares through impact.
+The [downswing sequence](/blog/golf-downswing-sequence/) matters for face control. When your hips and body rotate properly, the club naturally squares through impact.
 
 When you don't rotate—when you "early extend" or hang back—your hands have to flip to close the face. Flipping is inconsistent.
 
@@ -65,7 +65,7 @@ Better players start squaring the face earlier in the downswing, not at the last
 
 ### 4. Forward Shaft Lean at Impact
 
-With hands ahead of the ball at [impact](/2026/02/28/golf-impact-position/), the clubface is stabilized. The face can't flip open or closed as easily.
+With hands ahead of the ball at [impact](/blog/golf-impact-position/), the clubface is stabilized. The face can't flip open or closed as easily.
 
 This shaft lean works with proper rotation. Together, they create a stable, repeatable delivery of the clubface to the ball.
 
@@ -163,14 +163,14 @@ This builds muscle memory for the correct impact position.
 
 The tricky thing about face control: you can't feel what the face is doing at impact. It happens too fast. Your perception of "square" might be 20 degrees open.
 
-This is where [video analysis](/2026/02/13/how-to-record-golf-swing-phone/) changes the game. Capture your swing, then:
+This is where [video analysis](/blog/phone-golf-swing-video/) changes the game. Capture your swing, then:
 
 1. **Check the takeaway**: Is the face rolling open immediately?
 2. **Check the top**: Is your lead wrist cupped or flat?
 3. **Check hip-high down**: Is the face already squaring or still wide open?
 4. **Check impact**: Compare face angle to path direction
 
-[AI swing analyzers](/2026/02/14/best-golf-swing-analyzer-app-2026/) can identify these positions and give you specific feedback on where your face control breaks down.
+[AI swing analyzers](/blog/best-golf-swing-analyzer-app/) can identify these positions and give you specific feedback on where your face control breaks down.
 
 ## Quick Diagnosis
 
@@ -191,7 +191,7 @@ The ball doesn't lie. Where it starts tells you where the face was.
 3. **Feel a flat wrist at the top** - Not cupped
 4. **Square earlier, not at the last second** - Use the motorcycle feel
 5. **Rotate through impact** - Body turn, not hand flip
-6. **Release naturally** - Let the [release](/2026/03/02/golf-release/) happen, don't force it
+6. **Release naturally** - Let the [release](/blog/golf-release/) happen, don't force it
 7. **Video yourself** - Verify what you feel matches reality
 
 Club face control is trainable. It's not about athleticism or talent—it's about knowing what to work on and doing the reps.

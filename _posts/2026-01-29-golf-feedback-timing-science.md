@@ -149,6 +149,6 @@ The science says timing matters. Now you can put it to work.
 ---
 
 **Related Posts:**
-- [The Psychology of Golf Practice: Why Fun Beats Grinding](/2026/01/28/psychology-of-golf-practice.html)
-- [How AI Analyzes Your Golf Swing](/2026/01/29/how-ai-analyzes-golf-swings.html)
-- [Why Most Golf Apps Waste Your Time](/2026/01/29/why-golf-apps-waste-time.html)
+- [The Psychology of Golf Practice: Why Fun Beats Grinding](/blog/psychology-of-golf-practice/)
+- [How AI Analyzes Your Golf Swing](/blog/how-ai-analyzes-golf-swing/)
+- [Why Most Golf Apps Waste Your Time](/blog/why-golf-apps-waste-time/)

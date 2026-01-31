@@ -31,7 +31,7 @@ Casting is the premature release of the angle between your lead arm and the club
 
 Here's what happens technically:
 
-During a proper backswing, your wrists hinge naturally, creating roughly a 90-degree angle between your lead arm and the club shaft. This stored angle is what instructors call "lag." In a good swing, you [maintain that lag](/2026/01/30/creating-lag-golf-swing/) deep into the downswing, releasing it only at the last moment.
+During a proper backswing, your wrists hinge naturally, creating roughly a 90-degree angle between your lead arm and the club shaft. This stored angle is what instructors call "lag." In a good swing, you [maintain that lag](/blog/creating-lag-golf-swing/) deep into the downswing, releasing it only at the last moment.
 
 When you cast, you release that angle at the very start of the downswing. By the time you reach the ball, all the stored energy has already been spent. The clubhead reaches its maximum speed somewhere in the middle of your downswing instead of at impact.
 
@@ -53,7 +53,7 @@ That satisfying "click" when you pure an iron? That comes from compressing the b
 
 ### 4. No Forward Shaft Lean
 
-Proper [impact position](/2026/01/26/golf-impact-position/) requires your hands to be ahead of the clubhead. Casting makes this impossible because the clubhead has already caught up to (or passed) your hands. Without forward shaft lean, you can't compress the ball or control your trajectory.
+Proper [impact position](/blog/golf-impact-position/) requires your hands to be ahead of the clubhead. Casting makes this impossible because the clubhead has already caught up to (or passed) your hands. Without forward shaft lean, you can't compress the ball or control your trajectory.
 
 ## The Real Causes of Casting
 
@@ -69,7 +69,7 @@ When you squeeze the club like you're strangling it, your wrists can't hinge pro
 
 The most common cause. When you start the downswing by throwing the club at the ball with your arms, the wrist angle releases immediately. Your hands go where your arms push them, and lag evaporates.
 
-**The fix**: The [downswing sequence](/2026/01/25/golf-downswing-sequence/) should be ground-up: hips, torso, arms, then club. When your body leads, your arms and club naturally trail behind, preserving lag.
+**The fix**: The [downswing sequence](/blog/golf-downswing-sequence/) should be ground-up: hips, torso, arms, then club. When your body leads, your arms and club naturally trail behind, preserving lag.
 
 ### Cause 3: Poor Sequencing at the Top
 
@@ -201,7 +201,7 @@ One useful image: think of cracking a whip. You don't try to move the tip first.
 
 ## Checking Your Progress With Video
 
-Feelings can lie. You might think you've fixed your casting, but have you really? [Video analysis](/2026/01/12/video-golf-swing/) reveals the truth.
+Feelings can lie. You might think you've fixed your casting, but have you really? [Video analysis](/blog/video-golf-swing/) reveals the truth.
 
 Record your swing from a down-the-line angle. Pause the video at these checkpoints:
 

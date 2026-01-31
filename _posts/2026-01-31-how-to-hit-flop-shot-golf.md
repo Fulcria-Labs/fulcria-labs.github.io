@@ -18,7 +18,7 @@ This guide will teach you when to use the flop shot, how to execute it, and equa
 
 A flop shot is a high, soft shot typically played from tight lies around the green. Unlike a standard chip that runs out after landing, the flop shot climbs steeply, descends almost vertically, and stops quickly with minimal roll.
 
-Think of it as the opposite of a bump-and-run. Where a [chip shot](/2026/01/25/chipping-made-simple/) uses the ground to control distance, the flop shot uses height and backspin.
+Think of it as the opposite of a bump-and-run. Where a [chip shot](/blog/chipping-made-simple/) uses the ground to control distance, the flop shot uses height and backspin.
 
 The characteristics of a well-executed flop shot include:
 
@@ -39,7 +39,7 @@ You've missed the green on the wrong side, and there's only 10-15 feet between y
 
 ### Over a Bunker or Hazard
 
-The pin is just over a greenside bunker with little green to work with. You need to carry the sand and land soft. A [standard bunker technique](/2026/01/24/greenside-bunker-basics/) won't help here because you're not in the sand.
+The pin is just over a greenside bunker with little green to work with. You need to carry the sand and land soft. A [standard bunker technique](/blog/greenside-bunker-basics/) won't help here because you're not in the sand.
 
 ### Downhill Green Running Away
 
@@ -93,7 +93,7 @@ Think of drawing a wide arc around your body rather than lifting the club steepl
 
 ### Hinge at the Top
 
-While the takeaway is wide, you do need [wrist hinge](/2026/01/30/golf-wrist-hinge-guide/) as you approach the top of your backswing. This creates the leverage to accelerate through impact.
+While the takeaway is wide, you do need [wrist hinge](/blog/golf-wrist-hinge-guide/) as you approach the top of your backswing. This creates the leverage to accelerate through impact.
 
 For a standard flop around the green, a three-quarter backswing provides enough power without excessive risk.
 
@@ -133,7 +133,7 @@ Follow through to a full finish with the club high. This ensures you accelerated
 
 **The Problem**: Attempting flop shots from tight lies without enough grass under the ball.
 
-**The Fix**: The flop shot needs a decent lie. Some cushion under the ball helps the club slide through. From a truly tight, hardpan lie, the safer play is usually a [bump-and-run](/2026/01/25/chipping-made-simple/) to a larger portion of the green.
+**The Fix**: The flop shot needs a decent lie. Some cushion under the ball helps the club slide through. From a truly tight, hardpan lie, the safer play is usually a [bump-and-run](/blog/chipping-made-simple/) to a larger portion of the green.
 
 ### Mistake 4: Playing the Ball Too Far Back
 
@@ -197,7 +197,7 @@ Start with small swings and work up gradually.
 
 ## When NOT to Hit a Flop Shot
 
-Smart [course management](/2026/01/30/golf-course-management-strategy/) means knowing when the flop shot isn't the right play. Consider alternatives when:
+Smart [course management](/blog/golf-course-management-strategy/) means knowing when the flop shot isn't the right play. Consider alternatives when:
 
 ### You Have Green to Work With
 
@@ -249,11 +249,11 @@ The flop shot isn't for every situation, but when you need it, there's no substi
 ---
 
 **Related Posts:**
-- [Chipping Made Simple: Stop Wasting Strokes Around the Green](/2026/01/25/chipping-made-simple/)
-- [Greenside Bunker Basics: Escape the Sand Every Time](/2026/01/24/greenside-bunker-basics/)
-- [Wedge Distance Control: The Complete Guide](/2026/01/30/wedge-distance-control-guide/)
-- [How to Get More Spin on Wedge Shots](/2026/01/30/how-to-spin-wedge-shots-golf/)
-- [Golf Course Management Strategy](/2026/01/30/golf-course-management-strategy/)
+- [Chipping Made Simple: Stop Wasting Strokes Around the Green](/blog/chipping-made-simple/)
+- [Greenside Bunker Basics: Escape the Sand Every Time](/blog/greenside-bunker-basics/)
+- [Wedge Distance Control: The Complete Guide](/blog/wedge-distance-control-guide/)
+- [How to Get More Spin on Wedge Shots](/blog/how-to-spin-wedge-shots-golf/)
+- [Golf Course Management Strategy](/blog/golf-course-management-strategy/)
 
 ---
 

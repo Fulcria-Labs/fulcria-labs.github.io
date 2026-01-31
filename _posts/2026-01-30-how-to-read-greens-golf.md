@@ -287,4 +287,4 @@ The best putters aren't necessarily the most talented. They're the ones who've b
 
 ---
 
-*For putting stroke mechanics and setup, see our [putting fundamentals guide](/2026/01/24/putting-fundamentals/). To analyze your full swing, check out [how to record your golf swing with your phone](/2026/01/22/phone-golf-swing-video/) and get instant AI feedback with a swing analyzer.*
+*For putting stroke mechanics and setup, see our [putting fundamentals guide](/blog/putting-fundamentals/). To analyze your full swing, check out [how to record your golf swing with your phone](/blog/phone-golf-swing-video/) and get instant AI feedback with a swing analyzer.*

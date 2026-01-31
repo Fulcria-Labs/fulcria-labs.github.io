@@ -50,7 +50,7 @@ Your hips are **open to the target**—typically 30-45 degrees open at impact. T
 
 This open hip position:
 - Creates space for your hands to swing through
-- Ensures proper sequencing from the [downswing](/2026/02/27/golf-downswing-sequence/)
+- Ensures proper sequencing from the [downswing](/blog/golf-downswing-sequence/)
 - Transfers weight onto the lead foot
 - Allows the body to keep rotating through impact
 
@@ -106,7 +106,7 @@ This isn't a thought—it's a result. If you're sequencing correctly from the gr
 
 **Why it happens**: Trying to hit "at" the ball instead of through it, or starting the downswing with the arms instead of the body.
 
-**The fix**: Focus on your [downswing sequence](/2026/02/27/golf-downswing-sequence/). When the body leads, the hands naturally lag.
+**The fix**: Focus on your [downswing sequence](/blog/golf-downswing-sequence/). When the body leads, the hands naturally lag.
 
 ### 5. Cupped Lead Wrist
 
@@ -191,7 +191,7 @@ Good impact often feels different than you expect:
 
 ## How Video Analysis Helps
 
-You can't see your own impact—it happens too fast. But [video analysis](/2026/02/17/phone-golf-swing-video/) can freeze that critical moment.
+You can't see your own impact—it happens too fast. But [video analysis](/blog/phone-golf-swing-video/) can freeze that critical moment.
 
 Look for:
 - Hand position relative to the ball
@@ -202,17 +202,17 @@ Look for:
 
 Many golfers are surprised by what they see. They feel like their hands are ahead, but video shows otherwise. Or they think they're rotating through, but video reveals they're stuck.
 
-[AI swing analyzers](/2026/02/19/how-ai-analyzes-golf-swing/) can measure these positions frame by frame, giving you objective data about your impact position without guesswork.
+[AI swing analyzers](/blog/how-ai-analyzes-golf-swing/) can measure these positions frame by frame, giving you objective data about your impact position without guesswork.
 
 ## Building Better Impact Takes Time
 
 Impact position is the result of everything before it. You can't consciously arrange your body in 0.2 seconds. But you can:
 
-1. **Train the sequence**: A proper [backswing](/2026/02/20/golf-backswing/) and [downswing](/2026/02/27/golf-downswing-sequence/) naturally produce good impact
+1. **Train the sequence**: A proper [backswing](/blog/golf-backswing/) and [downswing](/blog/golf-downswing-sequence/) naturally produce good impact
 2. **Build awareness**: Slow-motion practice and video feedback show you what's happening
 3. **Groove the feeling**: Impact bag work and preset drills create muscle memory
 4. **Trust the process**: Good impact feels different than you expect at first
-5. **Continue through**: Impact isn't the end—master the [release](/2026/03/02/golf-release/) for maximum power transfer
+5. **Continue through**: Impact isn't the end—master the [release](/blog/golf-release/) for maximum power transfer
 
 Focus on the positions. Trust the training. Let impact happen.
 

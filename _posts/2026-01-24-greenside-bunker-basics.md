@@ -146,7 +146,7 @@ While bunker technique is harder to analyze than a full swing, recording your pr
 - If you're decelerating through impact
 - Your finish position and body rotation
 
-The [fundamentals of video recording](/2026/02/17/phone-golf-swing-video/) apply here—face-on angles show your entry point, while down-the-line shows swing path.
+The [fundamentals of video recording](/blog/phone-golf-swing-video/) apply here—face-on angles show your entry point, while down-the-line shows swing path.
 
 ## Key Takeaways
 
@@ -166,4 +166,4 @@ Practice the line drill, build confidence, and watch those double-bogey bunker d
 
 ---
 
-*Bunker technique is one piece of the puzzle. For your full swing fundamentals, see our guides on [setup and stance](/2026/02/13/golf-setup-stance/) and [weight transfer](/2026/02/12/golf-weight-transfer/).*
+*Bunker technique is one piece of the puzzle. For your full swing fundamentals, see our guides on [setup and stance](/blog/golf-setup-stance/) and [weight transfer](/blog/golf-weight-transfer/).*

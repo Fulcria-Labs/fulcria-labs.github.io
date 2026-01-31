@@ -24,7 +24,7 @@ That's lag. And it's why professional golfers hit the ball 50+ yards farther tha
 
 ## What Lag Actually Is
 
-Lag is the angle between your lead arm and the club shaft during the [downswing](/2026/01/25/golf-downswing-sequence/). At the top of a good backswing, this angle is roughly 90 degrees from proper wrist hinge. Maintaining that angle as you start down is what creates lag.
+Lag is the angle between your lead arm and the club shaft during the [downswing](/blog/golf-downswing-sequence/). At the top of a good backswing, this angle is roughly 90 degrees from proper wrist hinge. Maintaining that angle as you start down is what creates lag.
 
 Here's the key insight: lag isn't something you create. It's something you *preserve*.
 
@@ -42,7 +42,7 @@ Common causes of lost lag:
 
 **1. Upper body starting first**
 
-The proper [downswing sequence](/2026/01/25/golf-downswing-sequence/) is ground-up: lower body, torso, arms, then club. When your shoulders or arms initiate the downswing, the club tends to throw out immediately.
+The proper [downswing sequence](/blog/golf-downswing-sequence/) is ground-up: lower body, torso, arms, then club. When your shoulders or arms initiate the downswing, the club tends to throw out immediately.
 
 **2. "Hitting" instead of "swinging"**
 
@@ -54,7 +54,7 @@ Squeezing the club too tight prevents proper wrist hinge and makes early release
 
 **4. No awareness**
 
-Many golfers don't realize they're losing lag. They feel like they're "swinging hard" and don't understand why they can't generate tour-like distance. [Video analysis](/2026/01/19/how-ai-analyzes-golf-swings/) reveals the truth.
+Many golfers don't realize they're losing lag. They feel like they're "swinging hard" and don't understand why they can't generate tour-like distance. [Video analysis](/blog/how-ai-analyzes-golf-swing/) reveals the truth.
 
 ## The Feeling of Good Lag
 
@@ -72,7 +72,7 @@ None of these feels is literally what's happening, but they create the right mot
 
 ## Lag and Impact Position
 
-Lag connects directly to [impact position](/2026/01/26/golf-impact-position/). When you maintain lag and release it at the right moment:
+Lag connects directly to [impact position](/blog/golf-impact-position/). When you maintain lag and release it at the right moment:
 
 - Your hands arrive ahead of the clubhead
 - The shaft leans forward toward the target
@@ -115,7 +115,7 @@ This teaches the feel of stored and released energy without a club.
 
 ## What to Look for in Video
 
-When you [record your swing](/2026/01/19/record-your-golf-swing-phone-no-tripod/), freeze the video at these checkpoints:
+When you [record your swing](/blog/phone-golf-swing-video/), freeze the video at these checkpoints:
 
 **Transition (just starting down):**
 - The wrist angle should be similar to what it was at the top
@@ -156,7 +156,7 @@ Lag is a result, not a cause. You don't create lag by focusing on your wrists. Y
 
 When the sequence is right, lag appears automatically. When you try to manufacture it, you usually make things worse.
 
-That's why [video analysis](/2026/01/19/best-golf-swing-analyzer-app-2026/) is so valuable for working on lag. You can't feel what's actually happening in fractions of a second. But you can see it, frame by frame, and train the right patterns.
+That's why [video analysis](/blog/best-golf-swing-analyzer-app/) is so valuable for working on lag. You can't feel what's actually happening in fractions of a second. But you can see it, frame by frame, and train the right patterns.
 
 ---
 

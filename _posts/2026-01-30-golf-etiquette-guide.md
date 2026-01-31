@@ -163,7 +163,7 @@ Beyond these specific rules, golf etiquette comes down to three principles:
 
 ## Practice Your Game, Know the Rules
 
-Good etiquette becomes second nature with experience. Pair it with solid fundamentals in your swing—check out our guides on [golf swing basics](/2026/01/30/golf-swing-basics-beginners-guide/) and [course management strategy](/2026/01/30/golf-course-management-strategy/) for a complete foundation.
+Good etiquette becomes second nature with experience. Pair it with solid fundamentals in your swing—check out our guides on [golf swing basics](/blog/golf-swing-basics-beginners-guide/) and [course management strategy](/blog/golf-course-management-strategy/) for a complete foundation.
 
 Recording your swing with tools like [Swing Analyzer](https://swing.fulcria.com) helps you improve faster so you can focus less on your mechanics and more on enjoying the game with your playing partners.
 

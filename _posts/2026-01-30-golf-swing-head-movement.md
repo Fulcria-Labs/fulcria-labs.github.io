@@ -41,13 +41,13 @@ The goal isn't zero movement. It's the *right* movement at the *right* time.
 
 **Acceptable:** A slight dip in the downswing as you push off the ground for power. This is part of using ground force effectively.
 
-**Problematic:** Major dipping or lifting changes your posture mid-swing, leading to [fat and thin shots](/2026/01/23/stop-fat-thin-shots/). Your swing bottoms out in different spots, making consistent contact impossible.
+**Problematic:** Major dipping or lifting changes your posture mid-swing, leading to [fat and thin shots](/blog/stop-fat-thin-shots/). Your swing bottoms out in different spots, making consistent contact impossible.
 
 ### Rotational Movement (Turning)
 
 **Acceptable:** Your head can rotate slightly with your shoulders. Many top players let their head swivel a bit through impact.
 
-**Problematic:** Lifting or twisting your head to "see" the shot too early pulls your shoulders open and creates an [over-the-top move](/2026/01/05/fix-golf-slice/).
+**Problematic:** Lifting or twisting your head to "see" the shot too early pulls your shoulders open and creates an [over-the-top move](/blog/fix-golf-slice/).
 
 ## What the Pros Actually Do
 
@@ -81,13 +81,13 @@ When golfers struggle with head movement, it usually traces back to these root c
 If your lower body slides instead of rotates, your head slides with it. Fix the hip turn, and the head often fixes itself.
 
 ### 2. Poor Posture at Setup
-If you're hunched over or too upright, you'll fight your posture throughout the swing. Get your [setup fundamentals](/2026/01/17/golf-setup-stance/) right first.
+If you're hunched over or too upright, you'll fight your posture throughout the swing. Get your [setup fundamentals](/blog/golf-setup-stance/) right first.
 
 ### 3. Looking Up Too Early
 The urge to see where the ball goes is powerful. But lifting your head early opens your shoulders and kills solid contact. The ball will still be there when you look up a half-second later.
 
 ### 4. Overactive Upper Body
-When your arms and shoulders dominate the [downswing](/2026/01/25/golf-downswing-sequence/) instead of your lower body, your head gets pulled forward. Focus on the [proper downswing sequence](/2026/01/25/golf-downswing-sequence/) to keep everything in sync.
+When your arms and shoulders dominate the [downswing](/blog/golf-downswing-sequence/) instead of your lower body, your head gets pulled forward. Focus on the [proper downswing sequence](/blog/golf-downswing-sequence/) to keep everything in sync.
 
 ## Drills to Improve Head Position
 
@@ -105,7 +105,7 @@ Have a friend hold their finger just above your head at setup. Make swings and g
 
 ## How Video Analysis Helps
 
-This is exactly where [video swing analysis](/2026/01/12/video-golf-swing/) shines. It's nearly impossible to feel what your head is doing while swinging at speed. But on video, the truth is obvious.
+This is exactly where [video swing analysis](/blog/video-golf-swing/) shines. It's nearly impossible to feel what your head is doing while swinging at speed. But on video, the truth is obvious.
 
 When reviewing your swing:
 - Draw a line at your head position at address
@@ -113,7 +113,7 @@ When reviewing your swing:
 - Check if it returns to roughly the same spot at impact
 - Look for any dramatic dipping or lifting
 
-[AI-powered swing analyzers](/2026/01/21/how-ai-analyzes-golf-swing/) can track this automatically, comparing your head movement patterns to optimal benchmarks and highlighting when something's off.
+[AI-powered swing analyzers](/blog/how-ai-analyzes-golf-swing/) can track this automatically, comparing your head movement patterns to optimal benchmarks and highlighting when something's off.
 
 ## The One Thing to Remember
 
@@ -124,7 +124,7 @@ Here's the simplest way to think about it:
 It moves because your body is rotating and loading. It doesn't move independently or excessively. When your rotation is good, your weight shift is good, and your sequencing is good—your head takes care of itself.
 
 Focus on the fundamentals:
-- Good [setup and posture](/2026/01/17/golf-setup-stance/)
+- Good [setup and posture](/blog/golf-setup-stance/)
 - Full shoulder turn on the backswing
 - Lower body leads the downswing
 - Let your head release naturally after impact
@@ -135,7 +135,7 @@ Stop trying to freeze your head. Start building a swing where proper movement ha
 
 ## Track Your Progress
 
-The best way to improve your head position is to see what's actually happening. [Record your swing from face-on](/2026/01/20/phone-golf-swing-video/) and review it in slow motion.
+The best way to improve your head position is to see what's actually happening. [Record your swing from face-on](/blog/phone-golf-swing-video/) and review it in slow motion.
 
 Better yet, use a swing analyzer that tracks your key positions automatically. You'll see exactly how much your head moves—and whether it's helping or hurting your contact.
 

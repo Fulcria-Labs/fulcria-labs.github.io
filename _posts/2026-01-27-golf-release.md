@@ -149,7 +149,7 @@ Here's what most instruction misses: release problems are usually caused by earl
 
 This is why isolated release drills often fail. You're treating the symptom while the cause remains in your setup or backswing.
 
-This is where [video analysis](/2026/02/17/record-golf-swing-phone.html) becomes powerful—you can see whether your release problem is the cause or effect of something earlier in the swing.
+This is where [video analysis](/blog/phone-golf-swing-video/) becomes powerful—you can see whether your release problem is the cause or effect of something earlier in the swing.
 
 ## Drills to Improve Your Release
 
@@ -191,7 +191,7 @@ A critical concept for release: what you feel isn't what's real.
 
 Players trying to "hold lag" often flip through impact—the feel of holding creates overcompensation. Players trying to "release the club" often cast—feeling the release makes them do it too early.
 
-This is why recording your swing reveals the truth. Your [downswing sequence](/2026/02/27/golf-downswing-sequence.html) and [impact position](/2026/02/28/golf-impact-position.html) are either correct or they're not. Feeling isn't evidence.
+This is why recording your swing reveals the truth. Your [downswing sequence](/blog/golf-downswing-sequence/) and [impact position](/blog/golf-impact-position/) are either correct or they're not. Feeling isn't evidence.
 
 When working on release, record yourself. See what's actually happening. Then match the feels to the reality.
 

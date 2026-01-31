@@ -62,7 +62,7 @@ This drill exposes balance and sequencing issues that creep in over the winter.
 3. Make half swings, focusing on staying balanced
 4. Gradually increase swing length as balance improves
 
-If you fall over or lose your footing, your sequence is off. This drill forces efficiency because you can't muscle it with poor mechanics. It also helps rebuild your [tempo](/2026/01/16/golf-swing-tempo/) naturally.
+If you fall over or lose your footing, your sequence is off. This drill forces efficiency because you can't muscle it with poor mechanics. It also helps rebuild your [tempo](/blog/golf-swing-tempo/) naturally.
 
 ### The Towel Chip Drill
 
@@ -81,8 +81,8 @@ Start with easy chips before progressing to longer pitches. The feedback is imme
 You can do this one at home with no equipment needed. Stand in front of a mirror or reflective window and make slow-motion swings.
 
 **Check these positions:**
-- [Setup and posture](/2026/01/17/golf-setup-stance/) at address
-- Shoulder turn at the top of your [backswing](/2026/01/22/golf-backswing/)
+- [Setup and posture](/blog/golf-setup-stance/) at address
+- Shoulder turn at the top of your [backswing](/blog/golf-backswing/)
 - Hip rotation through impact
 - Balance at finish
 
@@ -231,7 +231,7 @@ Do this for 5 minutes a few times per week. When you get to the course, those sh
 
 ### Rebuild Your Pre-Shot Routine
 
-Your [pre-shot routine](/2026/01/09/golf-practice-routine/) is your mental anchor. It's the consistent ritual that puts you in the right headspace before every shot.
+Your [pre-shot routine](/blog/golf-practice-routine/) is your mental anchor. It's the consistent ritual that puts you in the right headspace before every shot.
 
 During your early practice sessions, don't just work on swing mechanics. Practice your full routine:
 1. Stand behind the ball and pick your target
@@ -291,7 +291,7 @@ Here's a suggested schedule for the six weeks before your first round:
 
 One of the best things you can do during spring prep is record your swing. The gap between how your swing feels and how it actually looks is usually bigger than you think, especially after months off.
 
-[Recording your swing with just your phone](/2026/01/20/phone-golf-swing-video/) is easy. You don't need fancy equipment or a tripod. Just prop your phone up and hit a few balls.
+[Recording your swing with just your phone](/blog/phone-golf-swing-video/) is easy. You don't need fancy equipment or a tripod. Just prop your phone up and hit a few balls.
 
 What you're looking for:
 - Is your setup where it should be?

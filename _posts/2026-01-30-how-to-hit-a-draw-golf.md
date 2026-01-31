@@ -73,7 +73,7 @@ Your grip influences where the clubface points at impact more than almost anythi
 
 A stronger grip naturally squares or closes the face through impact without requiring manipulation. You're not flipping your hands; the grip does the work.
 
-**Caution**: Don't overdo it. An extremely strong grip can lead to hooks. Make small adjustments and test the results. For a deeper dive into grip fundamentals, see our [golf grip guide](/2026/01/08/golf-grip-guide/).
+**Caution**: Don't overdo it. An extremely strong grip can lead to hooks. Make small adjustments and test the results. For a deeper dive into grip fundamentals, see our [golf grip guide](/blog/golf-grip-guide/).
 
 ## Step 2: Set Up for an Inside-Out Path
 
@@ -93,7 +93,7 @@ This feels strange at first. You're setting up like you're hitting to the right 
 
 Dropping your trail foot back 1-2 inches at address (away from the target line) can help promote an inside-out path. This creates room for your arms to swing through on the correct angle.
 
-For detailed setup guidance, check our [golf setup and stance guide](/2026/01/17/golf-setup-stance/).
+For detailed setup guidance, check our [golf setup and stance guide](/blog/golf-setup-stance/).
 
 ## Step 3: Master the Swing Path
 
@@ -103,7 +103,7 @@ An inside-out swing path means the club approaches the ball from inside the targ
 
 During the downswing, your hands should drop toward your right hip before releasing through the ball. This creates the inside approach that makes draws possible.
 
-Common mistake: starting the downswing with your arms. This throws the club outside and creates the over-the-top move that produces slices. Instead, start with your lower body while letting your arms drop naturally. Our [downswing sequence guide](/2026/01/25/golf-downswing-sequence/) covers this in detail.
+Common mistake: starting the downswing with your arms. This throws the club outside and creates the over-the-top move that produces slices. Instead, start with your lower body while letting your arms drop naturally. Our [downswing sequence guide](/blog/golf-downswing-sequence/) covers this in detail.
 
 ### Swing Right of Target
 
@@ -123,7 +123,7 @@ When the club is parallel to the ground in your takeaway, the clubface should ro
 
 ### Top of Backswing Check
 
-Your lead wrist should be flat or slightly bowed (flexed toward the target). A cupped wrist opens the face and makes draws difficult without compensation. See our [club face control guide](/2026/01/26/club-face-control/) for detailed wrist mechanics.
+Your lead wrist should be flat or slightly bowed (flexed toward the target). A cupped wrist opens the face and makes draws difficult without compensation. See our [club face control guide](/blog/club-face-control/) for detailed wrist mechanics.
 
 ### Through Impact
 
@@ -175,7 +175,7 @@ Taking the club too far inside on the backswing can lead to stuck positions and 
 
 ### Mistake 4: Grip Too Strong
 
-While a stronger grip helps most slicers, going too far creates hooks. If your draws are diving left violently, weaken your grip slightly. See our guide on [how to fix a golf hook](/2026/01/30/fix-golf-hook/) if this becomes an issue.
+While a stronger grip helps most slicers, going too far creates hooks. If your draws are diving left violently, weaken your grip slightly. See our guide on [how to fix a golf hook](/blog/fix-golf-hook/) if this becomes an issue.
 
 ### Mistake 5: Not Rotating Through
 

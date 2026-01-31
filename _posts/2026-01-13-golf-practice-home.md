@@ -108,6 +108,6 @@ AI analyzers can evaluate practice swings too - they're measuring your movement,
 
 ---
 
-**Related:** [The psychology of making practice enjoyable](/2026/03/04/psychology-of-golf-practice/)
+**Related:** [The psychology of making practice enjoyable](/blog/psychology-of-golf-practice/)
 
 *Home practice counts too. [Analyze your practice swings with Swing Analyzer →](https://swing.fulcria.com)*

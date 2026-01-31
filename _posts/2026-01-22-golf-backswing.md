@@ -137,7 +137,7 @@ Take your right hand off the club and make backswings with just your left arm. T
 
 ## How AI Analysis Helps
 
-Modern [swing analyzers](/2026/02/19/how-ai-analyzes-golf-swing/) can measure your backswing automatically:
+Modern [swing analyzers](/blog/how-ai-analyzes-golf-swing/) can measure your backswing automatically:
 
 - Shoulder rotation degrees
 - Hip rotation and X-factor (shoulder-hip differential)
@@ -155,11 +155,11 @@ Your backswing doesn't need to look like anyone else's. But it does need to:
 1. Create coil through proper body rotation
 2. Keep the club on a workable path
 3. Load your weight into your trail side
-4. Set you up for a good [downswing sequence](/2026/02/27/golf-downswing-sequence/)
+4. Set you up for a good [downswing sequence](/blog/golf-downswing-sequence/)
 
 Focus on sequence over positions. Get the order right, and the positions tend to follow.
 
-And if you're unsure what your backswing actually looks like? [Record it](/2026/02/17/phone-golf-swing-video/). The gap between feel and real is usually bigger than you think.
+And if you're unsure what your backswing actually looks like? [Record it](/blog/phone-golf-swing-video/). The gap between feel and real is usually bigger than you think.
 
 ---
 

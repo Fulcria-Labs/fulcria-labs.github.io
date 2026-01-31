@@ -206,10 +206,10 @@ Master these elements, and you'll start seeing your wedge shots check and spin l
 ---
 
 **Related Posts:**
-- [Wedge Distance Control Guide](/2026/01/30/wedge-distance-control-guide/)
-- [Chipping Made Simple](/2026/01/29/chipping-made-simple/)
-- [How to Hit Bunker Shots](/2026/01/29/greenside-bunker-basics/)
-- [Golf Setup and Stance Fundamentals](/2026/01/29/golf-setup-stance-fundamentals/)
+- [Wedge Distance Control Guide](/blog/wedge-distance-control-guide/)
+- [Chipping Made Simple](/blog/chipping-made-simple/)
+- [How to Hit Bunker Shots](/blog/greenside-bunker-basics/)
+- [Golf Setup and Stance Fundamentals](/blog/golf-setup-stance/)
 
 ---
 

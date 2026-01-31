@@ -53,7 +53,7 @@ Proper [weight transfer](/golf/swing-tips/2026/01/16/golf-weight-transfer.html) 
 
 Too much wrist movement, especially extension (cupping) through impact, opens the clubface and can push the hosel toward the ball. When your hands get overly active and "flippy," you lose control of where the club delivers.
 
-Good [club face control](/2026/01/26/club-face-control/) comes from the body rotating through impact, not from aggressive hand manipulation. When you try to steer the club with your hands, you introduce variables that make consistent contact nearly impossible.
+Good [club face control](/blog/club-face-control/) comes from the body rotating through impact, not from aggressive hand manipulation. When you try to steer the club with your hands, you introduce variables that make consistent contact nearly impossible.
 
 ### 4. Swing Path Issues
 
@@ -61,7 +61,7 @@ An excessively outside-to-in swing path with an open face is a recipe for shanks
 
 This often combines with early extension, where your hips thrust toward the ball through impact. When your body moves closer to the ball in the downswing, your arms get pushed outward, putting the hosel in the danger zone.
 
-The proper [downswing sequence](/2026/01/25/golf-downswing-sequence/) keeps your body rotating while maintaining the space you created at address. When that sequence breaks down, shanks can appear.
+The proper [downswing sequence](/blog/golf-downswing-sequence/) keeps your body rotating while maintaining the space you created at address. When that sequence breaks down, shanks can appear.
 
 ## Why Shanks Come in Bunches
 
@@ -172,7 +172,7 @@ When you record your swing and watch it frame by frame, you can see:
 - Whether your arms disconnect and swing outward
 - How your wrist angles change through impact
 
-[AI swing analyzers](/2026/01/21/how-ai-analyzes-golf-swing/) can identify these patterns automatically, showing you exactly where your club is at [impact](/2026/01/26/golf-impact-position/) and whether you are setting up for a hosel strike.
+[AI swing analyzers](/blog/how-ai-analyzes-golf-swing/) can identify these patterns automatically, showing you exactly where your club is at [impact](/blog/golf-impact-position/) and whether you are setting up for a hosel strike.
 
 The shank is frustrating partly because it feels random. Video takes the randomness away by showing you the cause.
 

@@ -36,7 +36,7 @@ Studies on swing efficiency show that arm extension through impact correlates di
 
 ### Inconsistent Contact
 
-The chicken wing introduces an extra variable into your impact position. Every time your elbow bends differently, your club arrives at a different position. Sometimes you'll catch it thin, other times fat. The variation makes it nearly impossible to develop the reliable [impact position](/2026/01/25/golf-impact-position/) that consistent ball-striking requires.
+The chicken wing introduces an extra variable into your impact position. Every time your elbow bends differently, your club arrives at a different position. Sometimes you'll catch it thin, other times fat. The variation makes it nearly impossible to develop the reliable [impact position](/blog/golf-impact-position/) that consistent ball-striking requires.
 
 ### Directional Problems
 
@@ -54,12 +54,12 @@ Before fixing the symptom, understand the cause. The chicken wing usually stems 
 
 This is the most common cause. When your hips stop rotating before impact, your arms have nowhere to go. The lead arm bends because the body isn't creating space for it to extend through.
 
-Think of it this way: the [downswing sequence](/2026/01/25/golf-downswing-sequence/) starts from the ground up. Hips lead, then torso, then arms. When the hips stall, the chain breaks, and the arms compensate with a collapse.
+Think of it this way: the [downswing sequence](/blog/golf-downswing-sequence/) starts from the ground up. Hips lead, then torso, then arms. When the hips stall, the chain breaks, and the arms compensate with a collapse.
 
 Signs this is your issue:
 - Your belt buckle faces the ball at impact, not the target
 - Your hips feel "stuck" through the swing
-- You have [early extension](/2026/01/30/fix-early-extension-golf-swing/) (standing up through impact)
+- You have [early extension](/blog/fix-early-extension-golf-swing/) (standing up through impact)
 
 ### 2. Over-the-Top Swing Path
 
@@ -72,7 +72,7 @@ Signs this is your issue:
 
 ### 3. Poor Wrist and Forearm Rotation
 
-Proper [release](/2026/01/25/golf-release/) requires the forearms to rotate through impact. When this rotation is missing or delayed, the lead elbow bends to compensate. The arm is trying to square the clubface by folding rather than rotating.
+Proper [release](/blog/golf-release/) requires the forearms to rotate through impact. When this rotation is missing or delayed, the lead elbow bends to compensate. The arm is trying to square the clubface by folding rather than rotating.
 
 Signs this is your issue:
 - Clubface is open at impact
@@ -169,7 +169,7 @@ Attach a resistance band at elbow height. Stand sideways to the anchor, elbow at
 
 Stand with your back against a wall, arms in a "goalpost" position with elbows and wrists touching the wall. Slide your arms up and down while maintaining wall contact. This builds the shoulder mobility needed for full extension.
 
-Include these exercises 2-3 times per week as part of your [golf fitness routine](/2026/01/31/golf-fitness-exercises/).
+Include these exercises 2-3 times per week as part of your [golf fitness routine](/blog/golf-fitness-exercises/).
 
 ## How Video Analysis Reveals the Chicken Wing
 
@@ -210,11 +210,11 @@ The chicken wing took time to develop. It will take time to unlearn. But with fo
 ---
 
 **Related Posts:**
-- [Golf Impact Position: The Moment That Matters Most](/2026/01/25/golf-impact-position/)
-- [Golf Release: The Complete Guide to Proper Release](/2026/01/25/golf-release/)
-- [How to Fix Early Extension in Your Golf Swing](/2026/01/30/fix-early-extension-golf-swing/)
-- [Golf Downswing Sequence: The Kinematic Chain](/2026/01/25/golf-downswing-sequence/)
-- [Golf Fitness Exercises: Build Power and Prevent Injury](/2026/01/31/golf-fitness-exercises/)
+- [Golf Impact Position: The Moment That Matters Most](/blog/golf-impact-position/)
+- [Golf Release: The Complete Guide to Proper Release](/blog/golf-release/)
+- [How to Fix Early Extension in Your Golf Swing](/blog/fix-early-extension-golf-swing/)
+- [Golf Downswing Sequence: The Kinematic Chain](/blog/golf-downswing-sequence/)
+- [Golf Fitness Exercises: Build Power and Prevent Injury](/blog/golf-fitness-exercises/)
 
 ---
 

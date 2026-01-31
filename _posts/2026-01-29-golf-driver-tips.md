@@ -175,4 +175,4 @@ Master these fundamentals, and you'll find more fairways while hitting it farthe
 - [Golf Downswing Sequence: The Kinematic Chain](/blog/golf-downswing-sequence/)
 - [How to Record Your Golf Swing with Your Phone](/blog/record-golf-swing-phone/)
 - [Golf Grip Guide: Foundation for a Great Swing](/blog/golf-grip-guide/)
-- [Golf Course Management: Smart Strategy for Lower Scores](/2026/01/30/golf-course-management-strategy/)
+- [Golf Course Management: Smart Strategy for Lower Scores](/blog/golf-course-management-strategy/)

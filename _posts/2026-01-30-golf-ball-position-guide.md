@@ -43,7 +43,7 @@ Why so far forward? The driver is the only club you want to hit on the upswing. 
 
 A common mistake is playing the driver too far forward, past the front heel. This causes topped shots, pop-ups, and hooks as you reach for the ball at impact.
 
-For more on optimizing your tee shots, check out our guide to [hitting longer, straighter drives](/2026/01/29/golf-driver-tips/).
+For more on optimizing your tee shots, check out our guide to [hitting longer, straighter drives](/blog/golf-driver-tips/).
 
 ### Fairway Woods and Hybrids: One to Two Balls Back
 
@@ -89,7 +89,7 @@ When the ball creeps too far forward in your stance, several bad things happen:
 
 If you are hitting thin shots and pulls, check your ball position first. It is probably too far forward for the club in your hands.
 
-Our guide on [fixing fat and thin shots](/2026/01/23/stop-fat-thin-shots/) covers this in detail.
+Our guide on [fixing fat and thin shots](/blog/stop-fat-thin-shots/) covers this in detail.
 
 ### Ball Too Far Back
 
@@ -122,7 +122,7 @@ This is the gold standard for ball position practice:
 
 The perpendicular stick shows you exactly where center is. From there, you can accurately measure forward or back positions for different clubs.
 
-Use this drill regularly on the range until correct positions become automatic. For more on using alignment aids effectively, see our [complete alignment guide](/2026/01/23/golf-alignment-aim/).
+Use this drill regularly on the range until correct positions become automatic. For more on using alignment aids effectively, see our [complete alignment guide](/blog/golf-alignment-aim/).
 
 ### The Foot-Check Method
 
@@ -165,7 +165,7 @@ On hardpan or tight lies where there is no grass cushion, play the ball slightly
 
 ## Building Your Pre-Shot Routine
 
-Ball position should be part of a consistent [pre-shot routine](/2026/01/30/golf-pre-shot-routine/). Here is a simple approach:
+Ball position should be part of a consistent [pre-shot routine](/blog/golf-pre-shot-routine/). Here is a simple approach:
 
 1. Stand behind the ball and pick your target line
 2. Walk to the ball from the side, setting the clubface first
