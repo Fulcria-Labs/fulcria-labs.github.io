@@ -51,7 +51,7 @@ The Speed Trap has been a staple of instruction for years, and the new 4S versio
 
 **Price:** ~$80-100
 
-**Pairs with:** Our [fix your slice guide](/2026/01/05/fix-golf-slice/) and [downswing sequence](/2026/02/27/golf-downswing-sequence/)
+**Pairs with:** Our [fix your slice guide](/2026/01/05/fix-golf-slice/) and [downswing sequence](/2026/01/25/golf-downswing-sequence/)
 
 ### 2. The Draw Board
 
@@ -95,7 +95,7 @@ The Lag Shot looks like a normal 7-iron but has a super-flexible shaft. This for
 
 **Price:** ~$120-150
 
-**Pairs with:** Our [tempo guide](/2026/02/11/golf-swing-tempo/) and [transition guide](/2026/03/09/golf-swing-transition-guide/)
+**Pairs with:** Our [tempo guide](/2026/01/16/golf-swing-tempo/) and [transition guide](/2026/01/31/golf-swing-transition-guide/)
 
 ### 5. Tour Striker Impact Sling
 
@@ -137,7 +137,7 @@ This inflatable ball sits between your forearms and forces you to maintain prope
 
 **Price:** ~$30-40
 
-**Pairs with:** Our [club face control guide](/2026/03/01/club-face-control/) and [chicken wing fix](/2026/03/08/fix-chicken-wing-golf/)
+**Pairs with:** Our [club face control guide](/2026/01/26/club-face-control/) and [chicken wing fix](/2026/01/31/fix-chicken-wing-golf/)
 
 ### 8. theHANGER
 
@@ -171,7 +171,7 @@ The HackMotion is the most sophisticated training aid for understanding wrist me
 
 **Price:** $295-$995 (depending on features)
 
-**Pairs with:** Our [wrist hinge guide](/2026/03/03/golf-wrist-hinge-guide/)
+**Pairs with:** Our [wrist hinge guide](/2026/01/30/golf-wrist-hinge-guide/)
 
 ### 11. Swing Analyzer Apps
 
@@ -193,7 +193,7 @@ The Smash Bag is exactly what it sounds like—a bag you hit at impact to feel p
 
 **How it works:** Set up to the bag as if hitting a ball, then swing into it. The resistance reveals whether you're flipping, casting, or in proper impact position.
 
-**Best for:** Feel learners, those who need physical feedback, [impact position](/2026/02/28/golf-impact-position/) work.
+**Best for:** Feel learners, those who need physical feedback, [impact position](/2026/01/26/golf-impact-position/) work.
 
 **Price:** ~$30-40
 
@@ -215,9 +215,9 @@ The Smash Bag is exactly what it sounds like—a bag you hit at impact to feel p
 ### Start with the Basics
 
 Before spending $300 on tech, master the fundamentals:
-1. [Grip](/2026/02/02/golf-grip-guide/)
-2. [Setup](/2026/02/13/golf-setup-stance/)
-3. [Alignment](/2026/02/16/golf-alignment-aim/)
+1. [Grip](/2026/01/08/golf-grip-guide/)
+2. [Setup](/2026/01/17/golf-setup-stance/)
+3. [Alignment](/2026/01/23/golf-alignment-aim/)
 
 These three cost nothing to improve and affect everything else.
 
@@ -240,8 +240,8 @@ Our top recommendations:
 - **Best Tech:** HackMotion ($295+) for serious improvement
 - **Best Free Option:** [Swing Analyzer](https://swing.fulcria.com) for AI video analysis
 
-Whatever you choose, pair it with [purposeful practice](/2026/02/09/golf-practice-routine-2026/). Training aids are tools, not magic wands.
+Whatever you choose, pair it with [purposeful practice](/2026/01/09/golf-practice-routine/). Training aids are tools, not magic wands.
 
 ---
 
-*Related: [How to Record Your Swing With Your Phone](/2026/02/17/phone-golf-swing-recording/) | [Best Golf Swing Analyzer Apps 2026](/2026/02/18/best-golf-swing-analyzer-app-2026/) | [Fix Your Slice in 5 Minutes](/2026/01/05/fix-golf-slice/)*
+*Related: [How to Record Your Swing With Your Phone](/2026/01/20/phone-golf-swing-video/) | [Best Golf Swing Analyzer Apps 2026](/2026/01/20/best-golf-swing-analyzer-app/) | [Fix Your Slice in 5 Minutes](/2026/01/05/fix-golf-slice/)*
