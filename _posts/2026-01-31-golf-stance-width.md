@@ -36,7 +36,7 @@ Your widest stance should be with the driver. Why? You need the most stability f
 
 **Common mistake**: Going too wide. Many golfers think wider = more power, but excessive width restricts hip turn and actually costs you distance.
 
-For more driver tips, see our [complete driver guide](/2026/01/29/golf-driver-tips/).
+For more driver tips, see our [complete driver guide](/blog/golf-driver-tips/).
 
 ### Fairway Woods and Hybrids: Shoulder Width
 
@@ -62,7 +62,7 @@ This narrower stance promotes a steeper swing plane and cleaner contact—exactl
 
 For pitch shots, chips, and bunker shots, your stance can be hip width or even narrower. Some players like a slightly open stance for wedges, which naturally narrows the effective width.
 
-Learn more about wedge play in our [wedge distance control guide](/2026/01/30/wedge-distance-control-guide/).
+Learn more about wedge play in our [wedge distance control guide](/blog/wedge-distance-control-guide/).
 
 ## The Simple Width Test
 
@@ -98,7 +98,7 @@ Influenced by driver swings, some players spread too wide with irons. This block
 
 Without a system, golfers often vary their stance randomly. One swing might be narrow, the next wide.
 
-**Fix**: Build a pre-shot routine that includes specific foot placement. Use [alignment sticks](/2026/01/29/golf-alignment-aim/) to train consistency.
+**Fix**: Build a pre-shot routine that includes specific foot placement. Use [alignment sticks](/blog/golf-alignment-aim/) to train consistency.
 
 ## How to Find Your Optimal Width
 
@@ -146,7 +146,7 @@ Width and ball position work together. In general:
 - **Wider stance** = ball more forward (driver)
 - **Narrower stance** = ball more centered (wedges)
 
-For a complete guide to ball position, see our [ball position guide](/2026/01/30/golf-ball-position-guide/).
+For a complete guide to ball position, see our [ball position guide](/blog/golf-ball-position-guide/).
 
 ## Using Video to Verify Your Stance
 
@@ -178,4 +178,4 @@ One of the best ways to check your stance width is recording your swing from fac
 
 Your stance width might seem like a minor detail, but it's the foundation of every swing. Get it right, and everything else becomes easier.
 
-For more setup fundamentals, read our guides on [posture](/2026/01/30/golf-posture-fundamentals/) and [complete setup](/2026/01/17/golf-setup-stance/).
+For more setup fundamentals, read our guides on [posture](/blog/golf-posture-fundamentals/) and [complete setup](/blog/golf-setup-stance/).

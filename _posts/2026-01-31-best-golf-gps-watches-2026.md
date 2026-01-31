@@ -292,6 +292,6 @@ Depends on use:
 *Want to see what's happening in your swing? [Try Swing Analyzer](https://swing.fulcria.com) for instant AI feedback on your technique—it's like having a coach analyze every swing.*
 
 **Related Posts:**
-- [Best Golf Rangefinders 2026](/2026/01/31/best-golf-rangefinders-2026/)
-- [Best Golf Training Aids 2026](/2026/01/31/best-golf-training-aids-2026/)
-- [How AI Analyzes Golf Swings](/2026/01/29/how-ai-analyzes-golf-swings/)
+- [Best Golf Rangefinders 2026](/blog/best-golf-rangefinders-2026/)
+- [Best Golf Training Aids 2026](/blog/best-golf-training-aids-2026/)
+- [How AI Analyzes Golf Swings](/blog/how-ai-analyzes-golf-swings/)
