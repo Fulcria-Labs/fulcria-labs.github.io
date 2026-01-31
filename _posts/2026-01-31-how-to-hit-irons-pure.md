@@ -309,6 +309,7 @@ Good iron players take divots. If you're afraid to hit the turf, you'll never co
 *Ready to see your iron swing in action? [Try Swing Analyzer](https://swing.fulcria.com) for instant AI feedback on your impact position, shaft lean, and contact quality—in just 90 seconds.*
 
 **Related Posts:**
+- [Best Golf Irons 2026: Complete Buying Guide](/blog/best-golf-irons-2026/)
 - [Golf Impact Position Guide](/blog/golf-impact-position/)
 - [Stop Hitting Fat and Thin Shots](/blog/stop-fat-thin-shots/)
 - [How to Fix Casting in Your Golf Swing](/blog/stop-casting-golf-club/)
