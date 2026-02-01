@@ -44,7 +44,7 @@ Your transition should flow in this order:
 3. **Arms drop** - Falling naturally into the slot
 4. **Club follows** - The clubhead is actually last to move
 
-This sequence is called the **kinematic chain**, and it's the same pattern you'd use throwing a ball or skipping a stone. It's athletic, not mechanical.
+This sequence is called the **kinematic chain**, and it's the same pattern you'd use throwing a ball or skipping a stone. It's athletic, not mechanical. For the complete downswing breakdown, see our [golf downswing sequence guide](/blog/2026-01-25-golf-downswing-sequence).
 
 ## Three Keys to a Proper Transition
 
@@ -86,7 +86,7 @@ Some golfers overdo the hip rotation, spinning their hips open too fast. This le
 
 ### Casting from the Top
 
-Releasing the wrist angle too early (casting) kills lag and power.
+Releasing the wrist angle too early (casting) kills lag and power. This is a common issue we cover in depth in our guide to [fixing the casting golf swing](/blog/2026-01-30-stop-casting-golf-swing).
 
 **The fix:** Feel like you're keeping the angle between your lead arm and the club as long as possible. The release happens naturally near impact, not from the top.
 
@@ -120,7 +120,7 @@ But here's the key insight: **tour pros don't think about this mechanically duri
 
 ## Finding Your Transition
 
-Your transition doesn't have to be perfect to play good golf. Many successful golfers have unique transitions that work for their body type and flexibility.
+Your transition doesn't have to be perfect to play good golf. Many successful golfers have unique transitions that work for their body type and flexibility. For help finding your natural swing pace, see our [golf swing rhythm guide](/blog/2026-01-31-golf-swing-rhythm).
 
 The key is finding what's **repeatable** for you and practicing it until it becomes automatic. Film your swing and look for:
 

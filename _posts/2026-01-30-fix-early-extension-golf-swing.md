@@ -46,8 +46,8 @@ Understanding the root causes helps you target the right fix:
 
 ### Swing Mechanics
 - **Open clubface at the top** - Your body instinctively tries to close it by standing up
-- **Over-the-top swing path** - Creates a chain reaction of compensations
-- **Improper weight transfer** - Failure to shift weight correctly forces the thrust
+- **Over-the-top swing path** - Creates a chain reaction of compensations (see our guide to [fixing the over-the-top swing](/blog/2026-01-30-fix-over-the-top-golf-swing))
+- **Improper weight transfer** - Failure to shift weight correctly forces the thrust (see [weight transfer fundamentals](/blog/2026-01-16-golf-weight-transfer))
 - **Fear of the ground** - Subconscious avoidance of hitting the turf
 
 ### The Power Problem
@@ -118,7 +118,7 @@ Early extension doesn't just hurt accuracy - it costs you distance. When your hi
 
 ## Physical Fixes for Early Extension
 
-If your body is limiting your swing, these exercises help:
+If your body is limiting your swing, these exercises help. Proper [golf posture fundamentals](/blog/2026-01-31-golf-posture-fundamentals) establish the foundation you need to maintain throughout the swing:
 
 ### Flexibility Work
 - **Hip flexor stretches** - Lunge stretches, 30 seconds each side

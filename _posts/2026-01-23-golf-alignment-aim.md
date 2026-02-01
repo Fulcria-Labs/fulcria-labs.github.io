@@ -52,7 +52,7 @@ This simple change dramatically improves aim accuracy. Some instructors even rec
 
 ## The Complete Alignment Routine
 
-Build this routine into every shot:
+Build this routine into every shot. For the complete mental and physical preparation, see our [pre-shot routine guide](/blog/2026-01-30-golf-pre-shot-routine).
 
 ### Step 1: Pick a Precise Target
 Don't aim at "the fairway" or "the green." Pick something specific—the top of a tree, a flagstick, a specific yardage marker. The more precise your target, the more accurate your aim.

@@ -30,7 +30,7 @@ For right-handed golfers:
 
 For lefties, it's the opposite.
 
-Both are controlled shots. A draw that curves too much becomes a hook. A fade that curves too much becomes a slice. The goal is predictable, moderate curvature you can count on.
+Both are controlled shots. A draw that curves too much becomes a hook (see [how to fix a hook](/blog/2026-01-30-fix-golf-hook)). A fade that curves too much becomes a slice (see [how to fix a slice](/blog/2026-01-05-fix-golf-slice)). The goal is predictable, moderate curvature you can count on.
 
 ## The Science: Face-to-Path Relationship
 
@@ -54,7 +54,7 @@ A draw typically travels farther than a fade because of reduced backspin and mor
 
 ### Setup Adjustments for a Draw
 
-**Strengthen your grip slightly**. Rotate both hands clockwise on the grip so you see 2-3 knuckles on your left hand. This promotes a more closed face through impact.
+**Strengthen your grip slightly**. Rotate both hands clockwise on the grip so you see 2-3 knuckles on your left hand. This promotes a more closed face through impact. For a complete breakdown, see our [golf grip guide](/blog/2026-01-08-golf-grip-guide).
 
 **Ball position**. Move the ball slightly back in your stance (half a ball width). This makes it easier to catch the ball while the club is still traveling from inside.
 

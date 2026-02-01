@@ -40,7 +40,7 @@ The key insight: **Wind affects the ball more at the apex of its flight**, when 
 
 ## The Knockdown Shot: Your Wind Essential
 
-The knockdown (or punch) shot is your primary weapon in wind:
+The knockdown (or punch) shot is your primary weapon in wind. For a complete breakdown of this essential shot, see our [golf punch shot guide](/blog/2026-01-31-golf-punch-shot-guide).
 
 **Setup Changes:**
 1. Ball position slightly back of center
@@ -58,7 +58,7 @@ The knockdown (or punch) shot is your primary weapon in wind:
 
 ## Club Selection Strategy
 
-Forget your normal yardages. Here's how to think in wind:
+Forget your normal yardages. Here's how to think in wind. For everyday club selection help, reference our [golf club selection guide](/blog/2026-01-31-golf-club-selection-guide).
 
 **The "More Club, Less Swing" Principle:**
 Instead of swinging harder with your normal club, take 1-2 more clubs and swing easier:

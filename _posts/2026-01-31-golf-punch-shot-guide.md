@@ -53,13 +53,13 @@ For getting under low branches, use a mid-iron at most—5-iron or 6-iron. The n
 
 ### 2. Ball Position
 
-Move the ball 1-2 inches back of center in your stance. This creates forward shaft lean at address, which automatically de-lofts the club before you even start your swing.
+Move the ball 1-2 inches back of center in your stance. This creates forward shaft lean at address, which automatically de-lofts the club before you even start your swing. For a complete breakdown of ball position for every club, see our [ball position guide](/blog/2026-01-30-golf-ball-position-guide).
 
 The back ball position also encourages a descending strike. You want to trap the ball against the turf and punch it forward rather than sweep it into the air.
 
 ### 3. Weight Forward
 
-Instead of balanced 50/50 weight distribution, put 60-65% of your weight on your lead foot at address. Keep it there throughout the swing.
+Instead of balanced 50/50 weight distribution, put 60-65% of your weight on your lead foot at address. Keep it there throughout the swing. Understanding [proper weight transfer](/blog/2026-01-16-golf-weight-transfer) helps you control this positioning naturally.
 
 This forward weight:
 - Encourages a downward strike
@@ -169,7 +169,7 @@ This is useful for curving around obstacles on your path back to the fairway.
 
 ### The Wind Knockdown
 
-Same technique, but used off the tee or from the fairway in windy conditions. It keeps the ball under the wind for a more penetrating ball flight with less distance loss.
+Same technique, but used off the tee or from the fairway in windy conditions. It keeps the ball under the wind for a more penetrating ball flight with less distance loss. For comprehensive wind strategies beyond the punch shot, check out our guide on [how to play golf in the wind](/blog/2026-01-31-how-to-play-golf-in-wind).
 
 ## Practice Drills
 
