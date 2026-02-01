@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Best Golf Swing Analyzer Apps for iPhone 2026 [Tested & Ranked]"
-description: "Looking for the best golf swing analyzer app for your iPhone? We tested 8 top-rated apps and ranked them by features, accuracy, and value. Find your perfect match."
+title: Best Golf Swing Analyzer Apps for iPhone 2026 [Tested & Ranked]
+description: Looking for the best golf swing analyzer app for your iPhone? We tested
+  8 top-rated apps and ranked them by features, accuracy, and value. Find your perfect
+  match.
 date: 2026-01-30
-categories: [golf-technology, reviews]
-tags: [swing-analyzer, iphone-apps, golf-apps, app-reviews]
+categories:
+- golf-technology
+- reviews
+tags:
+- swing-analyzer
+- iphone-apps
+- golf-apps
+- app-reviews
 image: /assets/images/golf-swing-analyzer-iphone-apps.jpg
+seo:
+  title: Best Golf Swing Analyzer Apps for iPhone 2026 [Tested & Ranked]
+  description: Looking for the best golf swing analyzer app for your iPhone? We tested
+    8 top-rated apps and ranked them by features, accuracy, and value. Find your perfect
+    match.
 ---
 
 Your iPhone is already the best golf swing analyzer you own. You just need the right app to unlock it.

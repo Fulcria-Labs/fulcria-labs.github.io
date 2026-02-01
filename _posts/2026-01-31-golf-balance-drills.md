@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Golf Balance Drills: How to Stay Balanced for Consistent Ball Striking"
-description: "Master golf balance with these 7 proven drills. Learn why balance is the foundation of consistent contact and discover exercises used by tour pros."
+title: 'Golf Balance Drills: How to Stay Balanced for Consistent Ball Striking'
+description: Master golf balance with these 7 proven drills. Learn why balance is
+  the foundation of consistent contact and discover exercises used by tour pros.
 date: 2026-01-31
 image: /assets/images/golf-balance-drills.webp
-categories: [fundamentals, drills]
-keywords: golf balance, balance drills golf, feet together drill, stability golf swing, consistent golf contact, golf swing fundamentals
+categories:
+- fundamentals
+- drills
+keywords: golf balance, balance drills golf, feet together drill, stability golf swing,
+  consistent golf contact, golf swing fundamentals
+seo:
+  title: 'Golf Balance Drills: How to Stay Balanced for Consistent Ball Striking'
+  description: Master golf balance with these 7 proven drills. Learn why balance is
+    the foundation of consistent contact and discover exercises used by tour pros.
 ---
 
 # Golf Balance Drills: How to Stay Balanced for Consistent Ball Striking

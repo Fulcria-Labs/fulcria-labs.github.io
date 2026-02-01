@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "The Psychology of Golf Practice: Why Fun Beats Grinding"
+title: 'The Psychology of Golf Practice: Why Fun Beats Grinding'
 date: 2026-01-28
-description: "Science shows that enjoyable practice produces better results than grinding. Learn why gamification and fun accelerate golf improvement."
-keywords: "golf practice psychology, golf improvement, golf practice tips, fun golf practice, golf motivation"
+description: Science shows that enjoyable practice produces better results than grinding.
+  Learn why gamification and fun accelerate golf improvement.
+keywords: golf practice psychology, golf improvement, golf practice tips, fun golf
+  practice, golf motivation
 image: /assets/images/psychology-golf-practice.png
+seo:
+  title: 'The Psychology of Golf Practice: Why Fun Beats Grinding'
+  description: Science shows that enjoyable practice produces better results than
+    grinding. Learn why gamification and fun accelerate golf improvement.
 ---
 
 Everyone knows you need to practice to improve at golf. But here's what most golfers get wrong: how you practice matters more than how much you practice.

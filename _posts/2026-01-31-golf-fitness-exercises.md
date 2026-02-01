@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "10 Best Golf Fitness Exercises to Improve Your Game"
-description: "Improve your golf swing with these 10 essential fitness exercises. Build rotational power, hip mobility, and core strength for more distance and consistency."
+title: 10 Best Golf Fitness Exercises to Improve Your Game
+description: Improve your golf swing with these 10 essential fitness exercises. Build
+  rotational power, hip mobility, and core strength for more distance and consistency.
 date: 2026-01-31
-author: "SwingAnalyzer Team"
-categories: [golf-instruction, fitness]
+author: SwingAnalyzer Team
+categories:
+- golf-instruction
+- fitness
 image: /assets/images/golf-fitness-exercises.png
-tags: [golf fitness, golf exercises, golf workout, rotational power, hip mobility, golf strength training]
+tags:
+- golf fitness
+- golf exercises
+- golf workout
+- rotational power
+- hip mobility
+- golf strength training
+seo:
+  title: 10 Best Golf Fitness Exercises to Improve Your Game
+  description: Improve your golf swing with these 10 essential fitness exercises.
+    Build rotational power, hip mobility, and core strength for more distance and
+    consistency.
 ---
 
 Your swing is only as good as your body allows. You can have perfect technique, but if your hips are tight, your core is weak, or your shoulders lack stability, your swing will hit a ceiling.

@@ -1,12 +1,25 @@
 ---
 layout: post
-title: "Golf Stance Width: The Complete Guide for Every Club"
+title: 'Golf Stance Width: The Complete Guide for Every Club'
 date: 2026-01-31
-categories: [instruction, fundamentals]
-description: "Learn the optimal stance width for driver, irons, and wedges. Includes a simple test to find your ideal width and drills to build consistent setup."
+categories:
+- instruction
+- fundamentals
+description: Learn the optimal stance width for driver, irons, and wedges. Includes
+  a simple test to find your ideal width and drills to build consistent setup.
 author: Swing Analyzer Team
 image: /assets/images/golf-stance-width.png
-tags: [stance, setup, fundamentals, driver, irons, wedges]
+tags:
+- stance
+- setup
+- fundamentals
+- driver
+- irons
+- wedges
+seo:
+  title: 'Golf Stance Width: The Complete Guide for Every Club'
+  description: Learn the optimal stance width for driver, irons, and wedges. Includes
+    a simple test to find your ideal width and drills to build consistent setup.
 ---
 
 Your stance width affects everything in your golf swing—balance, rotation, power, and consistency. Too wide and you'll restrict your turn. Too narrow and you'll lose stability. Yet most golfers never give their stance width a second thought.

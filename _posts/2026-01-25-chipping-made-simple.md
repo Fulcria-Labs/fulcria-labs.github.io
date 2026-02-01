@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Chipping Made Simple: Stop Wasting Strokes Around the Green"
-description: "Most golfers overcomplicate chipping. Learn the fundamentals, choose the right technique for each situation, and start getting up-and-down consistently."
+title: 'Chipping Made Simple: Stop Wasting Strokes Around the Green'
+description: Most golfers overcomplicate chipping. Learn the fundamentals, choose
+  the right technique for each situation, and start getting up-and-down consistently.
 date: 2026-01-25
-categories: [short-game, chipping]
-tags: [chipping, short game, bump and run, wedge play, distance control, scoring]
+categories:
+- short-game
+- chipping
+tags:
+- chipping
+- short game
+- bump and run
+- wedge play
+- distance control
+- scoring
 image: /assets/images/chipping-made-simple.png
+seo:
+  title: 'Chipping Made Simple: Stop Wasting Strokes Around the Green'
+  description: Most golfers overcomplicate chipping. Learn the fundamentals, choose
+    the right technique for each situation, and start getting up-and-down consistently.
 ---
 
 You hit 14 greens? Great. Hit 4 greens but got up-and-down from the fringe, rough, and tight lies? That's better scoring.

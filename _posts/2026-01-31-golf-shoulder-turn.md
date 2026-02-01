@@ -1,24 +1,32 @@
 ---
 layout: post
-title: "Golf Shoulder Turn: The Complete Guide to Rotation"
+title: 'Golf Shoulder Turn: The Complete Guide to Rotation'
 date: 2026-01-31
-categories: [golf-tips, swing-mechanics]
-description: "Master your golf shoulder turn with this complete guide. Learn the 90-degree benchmark, X-factor mechanics, drills, and how to work within flexibility limits."
+categories:
+- golf-tips
+- swing-mechanics
+description: Master your golf shoulder turn with this complete guide. Learn the 90-degree
+  benchmark, X-factor mechanics, drills, and how to work within flexibility limits.
 author: Swing Analyzer Team
 image: /assets/images/golf-shoulder-turn.png
 tags:
-  - shoulder turn
-  - backswing
-  - rotation
-  - X-factor
-  - power
+- shoulder turn
+- backswing
+- rotation
+- X-factor
+- power
 keywords:
-  - golf shoulder turn
-  - shoulder rotation golf
-  - golf backswing turn
-  - X-factor golf swing
-  - 90 degree shoulder turn
+- golf shoulder turn
+- shoulder rotation golf
+- golf backswing turn
+- X-factor golf swing
+- 90 degree shoulder turn
 slug: golf-shoulder-turn
+seo:
+  title: 'Golf Shoulder Turn: The Complete Guide to Rotation'
+  description: Master your golf shoulder turn with this complete guide. Learn the
+    90-degree benchmark, X-factor mechanics, drills, and how to work within flexibility
+    limits.
 ---
 
 The shoulder turn is the engine of your golf swing. Turn too little and you leave power on the table. Turn too much and you lose control. Get it right and you create the coil that generates effortless distance.

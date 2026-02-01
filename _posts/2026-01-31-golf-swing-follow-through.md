@@ -1,11 +1,25 @@
 ---
 layout: post
-title: "Golf Swing Follow Through: Complete Your Swing for Consistency"
-description: "Master the golf swing follow through with proper body position, weight shift, and balance. Learn drills to build a consistent finish that improves accuracy and distance."
+title: 'Golf Swing Follow Through: Complete Your Swing for Consistency'
+description: Master the golf swing follow through with proper body position, weight
+  shift, and balance. Learn drills to build a consistent finish that improves accuracy
+  and distance.
 date: 2026-01-31
-categories: [golf instruction, swing mechanics]
-tags: [follow through, finish position, balance, swing sequence, golf drills]
+categories:
+- golf instruction
+- swing mechanics
+tags:
+- follow through
+- finish position
+- balance
+- swing sequence
+- golf drills
 image: /assets/images/golf-follow-through.png
+seo:
+  title: 'Golf Swing Follow Through: Complete Your Swing for Consistency'
+  description: Master the golf swing follow through with proper body position, weight
+    shift, and balance. Learn drills to build a consistent finish that improves accuracy
+    and distance.
 ---
 
 The follow through is where your golf swing ends—but it's also a window into everything that happened before. A balanced, complete finish tells the story of a good swing. An awkward, off-balance follow through reveals problems that started at setup.

@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Golf Driver Tips: 7 Keys to Longer, Straighter Drives"
+title: 'Golf Driver Tips: 7 Keys to Longer, Straighter Drives'
 date: 2026-01-29
-categories: [instruction, fundamentals]
-description: "Master your driver with these proven tips for more distance and accuracy. Learn the setup, swing, and mental keys that lead to consistent tee shots."
-keywords: ["golf driver tips", "how to hit driver", "golf driving tips", "driver swing tips", "hit driver straighter", "driver distance tips"]
+categories:
+- instruction
+- fundamentals
+description: Master your driver with these proven tips for more distance and accuracy.
+  Learn the setup, swing, and mental keys that lead to consistent tee shots.
+keywords:
+- golf driver tips
+- how to hit driver
+- golf driving tips
+- driver swing tips
+- hit driver straighter
+- driver distance tips
 image: /assets/images/golf-driver-tips.png
+seo:
+  title: 'Golf Driver Tips: 7 Keys to Longer, Straighter Drives'
+  description: Master your driver with these proven tips for more distance and accuracy.
+    Learn the setup, swing, and mental keys that lead to consistent tee shots.
 ---
 
 ![Golf Driver Tips](/assets/images/golf-driver-tips.png)

@@ -1,11 +1,26 @@
 ---
 layout: post
-title: "How to Hit Pitch Shots in Golf: Complete Guide for Better Scoring"
-description: "Master the golf pitch shot with expert setup, swing technique, and distance control. Learn when to pitch vs chip, club selection, and drills to improve your short game."
+title: 'How to Hit Pitch Shots in Golf: Complete Guide for Better Scoring'
+description: Master the golf pitch shot with expert setup, swing technique, and distance
+  control. Learn when to pitch vs chip, club selection, and drills to improve your
+  short game.
 date: 2026-01-31
-categories: [short-game, instruction]
-tags: [pitch shot, pitching, wedge play, short game, scoring, distance control]
+categories:
+- short-game
+- instruction
+tags:
+- pitch shot
+- pitching
+- wedge play
+- short game
+- scoring
+- distance control
 image: /assets/images/how-to-hit-pitch-shots-golf.png
+seo:
+  title: 'How to Hit Pitch Shots in Golf: Complete Guide for Better Scoring'
+  description: Master the golf pitch shot with expert setup, swing technique, and
+    distance control. Learn when to pitch vs chip, club selection, and drills to improve
+    your short game.
 ---
 
 The pitch shot sits in that critical zone between a full wedge and a simple chip. It's the shot you face 10-15 times per round, typically from 20-80 yards. Get good at it, and your scoring improves immediately. Struggle with it, and you'll waste strokes on holes where par should be routine.

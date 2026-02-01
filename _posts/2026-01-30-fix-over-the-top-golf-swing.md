@@ -1,12 +1,22 @@
 ---
 layout: post
-title: "How to Fix an Over-the-Top Golf Swing: Causes and Drills That Work"
+title: 'How to Fix an Over-the-Top Golf Swing: Causes and Drills That Work'
 date: 2026-01-30
 author: Swing Analyzer Team
-description: "Stop slicing and pulling shots with this complete guide to fixing your over-the-top golf swing. Learn the root causes and 7 proven drills to get your club on the right path."
-keywords: "over the top golf swing, fix over the top, golf swing path, stop slicing, coming over the top, golf downswing drills"
-categories: [instruction, swing-fixes]
+description: Stop slicing and pulling shots with this complete guide to fixing your
+  over-the-top golf swing. Learn the root causes and 7 proven drills to get your club
+  on the right path.
+keywords: over the top golf swing, fix over the top, golf swing path, stop slicing,
+  coming over the top, golf downswing drills
+categories:
+- instruction
+- swing-fixes
 image: /assets/images/fix-over-the-top-golf-swing.png
+seo:
+  title: 'How to Fix an Over-the-Top Golf Swing: Causes and Drills That Work'
+  description: Stop slicing and pulling shots with this complete guide to fixing your
+    over-the-top golf swing. Learn the root causes and 7 proven drills to get your
+    club on the right path.
 ---
 
 The over-the-top move is the #1 swing flaw among amateur golfers. It causes slices, pulls, weak contact, and endless frustration. But here's the good news: it's fixable with the right understanding and drills.

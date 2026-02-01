@@ -1,11 +1,25 @@
 ---
 layout: post
-title: "Golf Course Management: The Smart Strategy Guide to Lower Scores"
-description: "Learn golf course management strategies that pros use. Master club selection, target picking, risk-reward decisions, and mental tactics to shoot lower scores without changing your swing."
+title: 'Golf Course Management: The Smart Strategy Guide to Lower Scores'
+description: Learn golf course management strategies that pros use. Master club selection,
+  target picking, risk-reward decisions, and mental tactics to shoot lower scores
+  without changing your swing.
 date: 2026-01-30
-categories: [instruction, strategy]
-tags: [course management, strategy, scoring, mental game, shot selection]
+categories:
+- instruction
+- strategy
+tags:
+- course management
+- strategy
+- scoring
+- mental game
+- shot selection
 image: /assets/images/golf-course-management-strategy.png
+seo:
+  title: 'Golf Course Management: The Smart Strategy Guide to Lower Scores'
+  description: Learn golf course management strategies that pros use. Master club
+    selection, target picking, risk-reward decisions, and mental tactics to shoot
+    lower scores without changing your swing.
 ---
 
 Here's a humbling statistic: according to Shot Scope data, average recreational golfers miss greens short 54% of the time. Not left. Not right. Not long. Short.

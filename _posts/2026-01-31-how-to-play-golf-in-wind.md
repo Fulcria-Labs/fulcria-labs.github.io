@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "How to Play Golf in the Wind: Complete Strategy Guide"
+title: 'How to Play Golf in the Wind: Complete Strategy Guide'
 date: 2026-01-31
 author: Swing Analyzer Team
-description: "Master windy conditions with these proven strategies for club selection, shot shaping, and mental approach. Learn to use the wind to your advantage."
-keywords: golf wind tips, playing golf in wind, windy golf course strategy, golf wind club selection, knockdown shot golf
+description: Master windy conditions with these proven strategies for club selection,
+  shot shaping, and mental approach. Learn to use the wind to your advantage.
+keywords: golf wind tips, playing golf in wind, windy golf course strategy, golf wind
+  club selection, knockdown shot golf
 image: /assets/images/golf-wind-play.jpg
+seo:
+  title: 'How to Play Golf in the Wind: Complete Strategy Guide'
+  description: Master windy conditions with these proven strategies for club selection,
+    shot shaping, and mental approach. Learn to use the wind to your advantage.
 ---
 
 Wind transforms golf into a different game. The same course you've played a hundred times becomes an entirely new challenge when the breeze picks up. While many golfers dread windy days, learning to play in the wind can actually become a competitive advantage—because most of your playing partners never will.

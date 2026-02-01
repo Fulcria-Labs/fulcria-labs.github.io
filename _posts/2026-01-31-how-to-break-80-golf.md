@@ -1,17 +1,30 @@
 ---
 layout: post
-title: "How to Break 80 in Golf: The Complete Strategy Guide"
-description: "Break 80 with proven strategies for course management, short game precision, and the mental shifts that separate 70s shooters from the rest."
+title: 'How to Break 80 in Golf: The Complete Strategy Guide'
+description: Break 80 with proven strategies for course management, short game precision,
+  and the mental shifts that separate 70s shooters from the rest.
 date: 2026-01-31
-categories: [golf-tips, scoring]
-tags: [break 80, single digit handicap, scoring, course management, mental game, golf strategy]
+categories:
+- golf-tips
+- scoring
+tags:
+- break 80
+- single digit handicap
+- scoring
+- course management
+- mental game
+- golf strategy
 image: /assets/images/break-80-guide.png
 keywords:
-  - how to break 80 in golf
-  - break 80 golf tips
-  - shooting in the 70s golf
-  - single digit handicap
+- how to break 80 in golf
+- break 80 golf tips
+- shooting in the 70s golf
+- single digit handicap
 slug: how-to-break-80-golf
+seo:
+  title: 'How to Break 80 in Golf: The Complete Strategy Guide'
+  description: Break 80 with proven strategies for course management, short game precision,
+    and the mental shifts that separate 70s shooters from the rest.
 ---
 
 Breaking 80 is the dividing line. Less than 10% of all golfers ever do it. If you have already conquered the 90s and find yourself stuck at 82-85, you are closer than you think, but the final steps require a different approach than what got you here.

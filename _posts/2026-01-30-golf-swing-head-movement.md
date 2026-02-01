@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "Golf Swing Head Movement: The Truth About Keeping Your Head Still"
-description: "Discover what really happens with your head during the golf swing. Learn why 'keep your head still' is misleading and how proper head position leads to better contact."
+title: 'Golf Swing Head Movement: The Truth About Keeping Your Head Still'
+description: Discover what really happens with your head during the golf swing. Learn
+  why 'keep your head still' is misleading and how proper head position leads to better
+  contact.
 date: 2026-01-30
-author: "Swing Analyzer Team"
-categories: [instruction, fundamentals]
-tags: [golf swing, head movement, balance, contact, fundamentals]
+author: Swing Analyzer Team
+categories:
+- instruction
+- fundamentals
+tags:
+- golf swing
+- head movement
+- balance
+- contact
+- fundamentals
 image: /assets/images/golf-head-movement.png
+seo:
+  title: 'Golf Swing Head Movement: The Truth About Keeping Your Head Still'
+  description: Discover what really happens with your head during the golf swing.
+    Learn why 'keep your head still' is misleading and how proper head position leads
+    to better contact.
 ---
 
 "Keep your head still!" It's the most common advice in golf. And it's also one of the most misunderstood.

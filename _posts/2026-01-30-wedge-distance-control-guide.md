@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Wedge Distance Control: The Complete Guide to Dialing In Your Scoring Clubs"
-description: "Master wedge distance control with proven systems and drills. Learn the clock method, feel-based approach, and practice routines used by tour pros."
+title: 'Wedge Distance Control: The Complete Guide to Dialing In Your Scoring Clubs'
+description: Master wedge distance control with proven systems and drills. Learn the
+  clock method, feel-based approach, and practice routines used by tour pros.
 date: 2026-01-30
-categories: [instruction, short-game]
-tags: [wedges, distance control, scoring, short game, practice drills]
+categories:
+- instruction
+- short-game
+tags:
+- wedges
+- distance control
+- scoring
+- short game
+- practice drills
 image: /assets/images/wedge-distance-control.png
+seo:
+  title: 'Wedge Distance Control: The Complete Guide to Dialing In Your Scoring Clubs'
+  description: Master wedge distance control with proven systems and drills. Learn
+    the clock method, feel-based approach, and practice routines used by tour pros.
 ---
 
 Inside 100 yards, distance control separates the golfers who scramble for par from those who convert birdie opportunities. Yet most amateurs treat their wedges like full-swing clubs, hoping for the best rather than knowing exactly where the ball will land.

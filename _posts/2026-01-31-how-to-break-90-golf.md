@@ -1,17 +1,32 @@
 ---
 layout: post
-title: "How to Break 90 in Golf: The Complete Strategy Guide"
-description: "Ready to crack the 90 barrier? These proven strategies combine smarter course management, improved ball striking, and short game mastery to get you shooting in the 80s."
+title: 'How to Break 90 in Golf: The Complete Strategy Guide'
+description: Ready to crack the 90 barrier? These proven strategies combine smarter
+  course management, improved ball striking, and short game mastery to get you shooting
+  in the 80s.
 date: 2026-01-31
-categories: [instruction, scoring]
-tags: [break 90, scoring, course management, short game, golf strategy, intermediate golf]
+categories:
+- instruction
+- scoring
+tags:
+- break 90
+- scoring
+- course management
+- short game
+- golf strategy
+- intermediate golf
 image: /assets/images/how-to-break-90-golf.png
 keywords:
-  - how to break 90 in golf
-  - break 90 golf tips
-  - shooting under 90 golf
-  - 80s golf scores
+- how to break 90 in golf
+- break 90 golf tips
+- shooting under 90 golf
+- 80s golf scores
 slug: how-to-break-90-golf
+seo:
+  title: 'How to Break 90 in Golf: The Complete Strategy Guide'
+  description: Ready to crack the 90 barrier? These proven strategies combine smarter
+    course management, improved ball striking, and short game mastery to get you shooting
+    in the 80s.
 ---
 
 Breaking 90 is where recreational golfers separate from beginners. Only about 26% of all golfers consistently shoot under 90, according to the USGA. That means cracking this barrier puts you ahead of three-quarters of everyone who plays.

@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "How to Fix a Golf Hook: 7 Proven Drills and Fixes"
-description: "Stop hooking the ball with these 7 proven fixes. Learn why you hook, common causes, and drills that work for snap hooks and draws that won't stop curving."
+title: 'How to Fix a Golf Hook: 7 Proven Drills and Fixes'
+description: Stop hooking the ball with these 7 proven fixes. Learn why you hook,
+  common causes, and drills that work for snap hooks and draws that won't stop curving.
 date: 2026-01-30 15:00:00 -0500
 categories: instruction
 featured_image: /assets/images/fix-golf-hook.png
+seo:
+  title: 'How to Fix a Golf Hook: 7 Proven Drills and Fixes'
+  description: Stop hooking the ball with these 7 proven fixes. Learn why you hook,
+    common causes, and drills that work for snap hooks and draws that won't stop curving.
+image: /assets/images/fix-golf-hook.png
 ---
 
 # How to Fix a Golf Hook: 7 Proven Drills and Fixes

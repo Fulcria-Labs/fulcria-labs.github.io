@@ -1,11 +1,26 @@
 ---
 layout: post
-title: "Putting Fundamentals: Lower Your Scores on the Green"
-description: "Putting accounts for 40% of your strokes but gets 10% of your practice time. Master these fundamentals and drills to transform your putting and lower your scores."
+title: 'Putting Fundamentals: Lower Your Scores on the Green'
+description: Putting accounts for 40% of your strokes but gets 10% of your practice
+  time. Master these fundamentals and drills to transform your putting and lower your
+  scores.
 date: 2026-01-24
-categories: [short-game, putting]
-tags: [putting, green reading, distance control, putting drills, fundamentals, scoring]
+categories:
+- short-game
+- putting
+tags:
+- putting
+- green reading
+- distance control
+- putting drills
+- fundamentals
+- scoring
 image: /assets/images/putting-fundamentals.png
+seo:
+  title: 'Putting Fundamentals: Lower Your Scores on the Green'
+  description: Putting accounts for 40% of your strokes but gets 10% of your practice
+    time. Master these fundamentals and drills to transform your putting and lower
+    your scores.
 ---
 
 Here's a simple truth: if you're taking more than 36 putts per round, you're leaving strokes on the course. Many recreational golfers average 40+ putts—that's 4+ unnecessary strokes every round.

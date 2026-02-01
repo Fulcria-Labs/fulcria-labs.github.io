@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Golf Iron Tips: How to Hit Your Irons Pure Every Time"
+title: 'Golf Iron Tips: How to Hit Your Irons Pure Every Time'
 date: 2026-01-30
-categories: [instruction, ball-striking]
-description: "Master your irons with these proven tips. Learn ball position, proper setup, common mistakes to avoid, and drills to compress the ball like a pro."
+categories:
+- instruction
+- ball-striking
+description: Master your irons with these proven tips. Learn ball position, proper
+  setup, common mistakes to avoid, and drills to compress the ball like a pro.
 author: Swing Analyzer Team
 image: /assets/images/golf-iron-tips.png
 tags:
@@ -13,6 +16,10 @@ tags:
 - irons
 - compression
 - divots
+seo:
+  title: 'Golf Iron Tips: How to Hit Your Irons Pure Every Time'
+  description: Master your irons with these proven tips. Learn ball position, proper
+    setup, common mistakes to avoid, and drills to compress the ball like a pro.
 ---
 
 Irons are the scoring clubs. You can recover from a wayward drive, but inconsistent iron play bleeds strokes all day long. The difference between a 90s golfer and an 80s golfer often comes down to one thing: how well they strike their irons.

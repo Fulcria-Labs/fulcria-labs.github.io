@@ -1,12 +1,27 @@
 ---
 layout: post
-title: "How to Get More Spin on Wedge Shots: The Complete Guide"
+title: 'How to Get More Spin on Wedge Shots: The Complete Guide'
 date: 2026-01-30
 author: Swing Analyzer Team
-description: "Learn how to generate professional-level spin on your wedge shots with these proven techniques. Master the fundamentals of spin loft, clean contact, and acceleration for check and release on command."
-categories: [short-game, technique]
-tags: [wedge play, spin, backspin, short game, scoring, golf technique]
+description: Learn how to generate professional-level spin on your wedge shots with
+  these proven techniques. Master the fundamentals of spin loft, clean contact, and
+  acceleration for check and release on command.
+categories:
+- short-game
+- technique
+tags:
+- wedge play
+- spin
+- backspin
+- short game
+- scoring
+- golf technique
 image: /assets/images/how-to-spin-wedge-shots-golf.png
+seo:
+  title: 'How to Get More Spin on Wedge Shots: The Complete Guide'
+  description: Learn how to generate professional-level spin on your wedge shots with
+    these proven techniques. Master the fundamentals of spin loft, clean contact,
+    and acceleration for check and release on command.
 ---
 
 # How to Get More Spin on Wedge Shots: The Complete Guide

@@ -1,11 +1,26 @@
 ---
 layout: post
-title: "How to Hit More Fairways: Complete Guide to Driver Accuracy"
+title: 'How to Hit More Fairways: Complete Guide to Driver Accuracy'
 date: 2026-01-31
-categories: [instruction, strategy]
-description: "Master driver accuracy with proven strategies for hitting more fairways. Learn tee box tactics, setup adjustments, swing thoughts, and mental approaches that add consistency to your drives."
-keywords: ["how to hit more fairways", "driver accuracy", "fairway percentage", "golf tee box strategy", "driver consistency", "golf accuracy tips"]
+categories:
+- instruction
+- strategy
+description: Master driver accuracy with proven strategies for hitting more fairways.
+  Learn tee box tactics, setup adjustments, swing thoughts, and mental approaches
+  that add consistency to your drives.
+keywords:
+- how to hit more fairways
+- driver accuracy
+- fairway percentage
+- golf tee box strategy
+- driver consistency
+- golf accuracy tips
 image: /assets/images/how-to-hit-more-fairways.png
+seo:
+  title: 'How to Hit More Fairways: Complete Guide to Driver Accuracy'
+  description: Master driver accuracy with proven strategies for hitting more fairways.
+    Learn tee box tactics, setup adjustments, swing thoughts, and mental approaches
+    that add consistency to your drives.
 ---
 
 Every golfer knows the feeling: standing on the tee watching your drive sail into the trees while your playing partner pipes one down the middle. Again.

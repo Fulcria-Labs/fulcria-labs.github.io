@@ -1,12 +1,28 @@
 ---
 layout: post
-title: "How to Hit Irons Pure: The Complete Guide to Better Ball Striking"
+title: 'How to Hit Irons Pure: The Complete Guide to Better Ball Striking'
 date: 2026-01-31
 author: Swing Analyzer Team
-categories: [instruction, irons, ball-striking]
-tags: [irons, ball striking, contact, compression, iron tips, impact, golf instruction]
-description: "Master pure iron contact with this comprehensive guide. Learn the key fundamentals, common mistakes, and proven drills to hit your irons solid every time."
+categories:
+- instruction
+- irons
+- ball-striking
+tags:
+- irons
+- ball striking
+- contact
+- compression
+- iron tips
+- impact
+- golf instruction
+description: Master pure iron contact with this comprehensive guide. Learn the key
+  fundamentals, common mistakes, and proven drills to hit your irons solid every time.
 image: /assets/images/how-to-hit-irons-pure.png
+seo:
+  title: 'How to Hit Irons Pure: The Complete Guide to Better Ball Striking'
+  description: Master pure iron contact with this comprehensive guide. Learn the key
+    fundamentals, common mistakes, and proven drills to hit your irons solid every
+    time.
 ---
 
 There's nothing quite like the feeling of hitting an iron pure—that crisp, solid contact where the ball explodes off the clubface exactly as intended. Yet for most golfers, this sensation is more accident than intention.

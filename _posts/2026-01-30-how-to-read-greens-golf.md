@@ -1,11 +1,27 @@
 ---
 layout: post
-title: "How to Read Greens: The Complete Guide to Putting Accuracy"
-description: "Learn how to read greens like a pro with techniques for slope reading, AimPoint basics, grain awareness, and green speed assessment. Master the skill that separates good putters from great ones."
+title: 'How to Read Greens: The Complete Guide to Putting Accuracy'
+description: Learn how to read greens like a pro with techniques for slope reading,
+  AimPoint basics, grain awareness, and green speed assessment. Master the skill that
+  separates good putters from great ones.
 date: 2026-01-30
-categories: [short-game, putting]
-tags: [green reading, putting, aimpoint, slope, grain, putting tips, golf strategy]
+categories:
+- short-game
+- putting
+tags:
+- green reading
+- putting
+- aimpoint
+- slope
+- grain
+- putting tips
+- golf strategy
 image: /assets/images/how-to-read-greens.png
+seo:
+  title: 'How to Read Greens: The Complete Guide to Putting Accuracy'
+  description: Learn how to read greens like a pro with techniques for slope reading,
+    AimPoint basics, grain awareness, and green speed assessment. Master the skill
+    that separates good putters from great ones.
 ---
 
 You can have a perfect putting stroke and still miss—because you read the green wrong.

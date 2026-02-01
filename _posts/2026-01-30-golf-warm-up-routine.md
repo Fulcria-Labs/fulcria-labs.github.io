@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "Golf Warm-Up Routine: The 15-Minute Pre-Round Routine That Saves Strokes"
+title: 'Golf Warm-Up Routine: The 15-Minute Pre-Round Routine That Saves Strokes'
 date: 2026-01-30
-author: "Swing Analyzer Team"
-categories: [practice, fitness]
-tags: [golf warm-up, pre-round routine, golf stretches, golf fitness, injury prevention]
-description: "A complete golf warm-up routine with dynamic stretches and exercises to play better from the first tee. Research shows proper warm-up saves 1.5 strokes per round."
+author: Swing Analyzer Team
+categories:
+- practice
+- fitness
+tags:
+- golf warm-up
+- pre-round routine
+- golf stretches
+- golf fitness
+- injury prevention
+description: A complete golf warm-up routine with dynamic stretches and exercises
+  to play better from the first tee. Research shows proper warm-up saves 1.5 strokes
+  per round.
 image: /assets/images/golf-warm-up-routine.png
+seo:
+  title: 'Golf Warm-Up Routine: The 15-Minute Pre-Round Routine That Saves Strokes'
+  description: A complete golf warm-up routine with dynamic stretches and exercises
+    to play better from the first tee. Research shows proper warm-up saves 1.5 strokes
+    per round.
 ---
 
 Skip the warm-up, pay on the scorecard. It's a pattern we've all experienced: sluggish on the first few holes, finally finding your swing around the 5th or 6th hole, wondering how many strokes you threw away getting there.

@@ -1,12 +1,29 @@
 ---
 layout: post
-title: "How to Hit a Stinger Golf Shot: Master Tiger's Low Bullet"
+title: 'How to Hit a Stinger Golf Shot: Master Tiger''s Low Bullet'
 date: 2026-01-31
 author: Swing Analyzer Team
-categories: [instruction, shot-shaping, specialty-shots]
-tags: [stinger, low shot, punch shot, wind play, tiger woods, shot shaping, golf instruction]
-description: "Learn how to hit the stinger - the low, penetrating shot that slices through wind. Complete guide covering setup, swing technique, and when to use this powerful weapon."
+categories:
+- instruction
+- shot-shaping
+- specialty-shots
+tags:
+- stinger
+- low shot
+- punch shot
+- wind play
+- tiger woods
+- shot shaping
+- golf instruction
+description: Learn how to hit the stinger - the low, penetrating shot that slices
+  through wind. Complete guide covering setup, swing technique, and when to use this
+  powerful weapon.
 image: /assets/images/how-to-hit-stinger-golf-shot.png
+seo:
+  title: 'How to Hit a Stinger Golf Shot: Master Tiger''s Low Bullet'
+  description: Learn how to hit the stinger - the low, penetrating shot that slices
+    through wind. Complete guide covering setup, swing technique, and when to use
+    this powerful weapon.
 ---
 
 Few shots in golf are as iconic—or as intimidating—as the stinger. Popularized by Tiger Woods, this low, boring trajectory cuts through wind and rolls out for extra distance. It's part utility shot, part statement.

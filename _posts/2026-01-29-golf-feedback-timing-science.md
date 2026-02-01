@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "The Science of Feedback Timing: Why 90 Seconds Matters for Your Golf Swing"
+title: 'The Science of Feedback Timing: Why 90 Seconds Matters for Your Golf Swing'
 date: 2026-01-29
-description: "Motor learning research reveals the optimal timing for swing feedback. Learn why immediate analysis beats delayed coaching for golf improvement."
-keywords: "golf swing feedback, motor learning golf, golf improvement science, swing analysis timing, golf practice feedback"
+description: Motor learning research reveals the optimal timing for swing feedback.
+  Learn why immediate analysis beats delayed coaching for golf improvement.
+keywords: golf swing feedback, motor learning golf, golf improvement science, swing
+  analysis timing, golf practice feedback
 image: /assets/images/golf-feedback-timing.png
+seo:
+  title: 'The Science of Feedback Timing: Why 90 Seconds Matters for Your Golf Swing'
+  description: Motor learning research reveals the optimal timing for swing feedback.
+    Learn why immediate analysis beats delayed coaching for golf improvement.
 ---
 
 When should you look at your swing analysis? Immediately after your shot? At the end of your session? That night at home?

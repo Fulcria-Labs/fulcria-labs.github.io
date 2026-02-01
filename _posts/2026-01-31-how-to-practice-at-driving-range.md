@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "How to Practice at the Driving Range: A Guide to Productive Sessions"
-description: "Transform your driving range visits from ball-beating sessions into focused practice. Learn the structure, drills, and mindset that actually improve your game."
+title: 'How to Practice at the Driving Range: A Guide to Productive Sessions'
+description: Transform your driving range visits from ball-beating sessions into focused
+  practice. Learn the structure, drills, and mindset that actually improve your game.
 date: 2026-01-31
-author: "Swing Analyzer Team"
-categories: [practice, improvement, training]
-tags: [driving range, practice routine, golf improvement, deliberate practice, ball striking]
+author: Swing Analyzer Team
+categories:
+- practice
+- improvement
+- training
+tags:
+- driving range
+- practice routine
+- golf improvement
+- deliberate practice
+- ball striking
 image: /assets/images/how-to-practice-at-driving-range.png
+seo:
+  title: 'How to Practice at the Driving Range: A Guide to Productive Sessions'
+  description: Transform your driving range visits from ball-beating sessions into
+    focused practice. Learn the structure, drills, and mindset that actually improve
+    your game.
 ---
 
 Most golfers leave the driving range having accomplished nothing more than a mild cardio workout. They've hit 100 balls in 45 minutes, cycling through clubs with no particular purpose, reinforcing whatever swing flaws they brought with them.

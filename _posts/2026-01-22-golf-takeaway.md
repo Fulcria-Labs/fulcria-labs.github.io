@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "Golf Takeaway: The First Move That Makes or Breaks Your Swing"
+title: 'Golf Takeaway: The First Move That Makes or Breaks Your Swing'
 date: 2026-01-22
-description: "Master the golf takeaway with this complete guide. Learn the correct first move, common mistakes to avoid, and drills to practice at home. Fix your swing from the start."
-keywords: golf takeaway, golf swing takeaway, first move golf swing, how to start backswing, golf takeaway drill
+description: Master the golf takeaway with this complete guide. Learn the correct
+  first move, common mistakes to avoid, and drills to practice at home. Fix your swing
+  from the start.
+keywords: golf takeaway, golf swing takeaway, first move golf swing, how to start
+  backswing, golf takeaway drill
 image: /assets/images/golf-takeaway.png
+seo:
+  title: 'Golf Takeaway: The First Move That Makes or Breaks Your Swing'
+  description: Master the golf takeaway with this complete guide. Learn the correct
+    first move, common mistakes to avoid, and drills to practice at home. Fix your
+    swing from the start.
 ---
 
 The takeaway is the first 12-18 inches of your golf swing—and according to top instructors, it's the number one issue they see in beginning golfers. Get it wrong, and you're fighting your swing the rest of the way. Get it right, and everything else becomes easier.

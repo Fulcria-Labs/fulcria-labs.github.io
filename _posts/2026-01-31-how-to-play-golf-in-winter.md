@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "How to Play Golf in Winter: Cold Weather Tips for Better Performance"
-description: "Master winter golf with practical tips on equipment, layering, swing adjustments, and course management. Stay warm and shoot lower scores in cold weather."
+title: 'How to Play Golf in Winter: Cold Weather Tips for Better Performance'
+description: Master winter golf with practical tips on equipment, layering, swing
+  adjustments, and course management. Stay warm and shoot lower scores in cold weather.
 date: 2026-01-31
-categories: [golf, instruction]
-tags: [winter golf, cold weather golf, golf tips, equipment, course management, layering, mental game]
+categories:
+- golf
+- instruction
+tags:
+- winter golf
+- cold weather golf
+- golf tips
+- equipment
+- course management
+- layering
+- mental game
 image: /assets/images/how-to-play-golf-in-winter.png
 author: Swing Analyzer Team
+seo:
+  title: 'How to Play Golf in Winter: Cold Weather Tips for Better Performance'
+  description: Master winter golf with practical tips on equipment, layering, swing
+    adjustments, and course management. Stay warm and shoot lower scores in cold weather.
 ---
 
 The golf season does not have to end when the temperature drops. While your buddies hibernate until spring, you can be out there improving your game, enjoying uncrowded courses, and building a competitive advantage for when the weather warms up.

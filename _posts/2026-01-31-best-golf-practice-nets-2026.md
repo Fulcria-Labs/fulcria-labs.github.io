@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Best Golf Practice Nets 2026: Complete Buying Guide"
+title: 'Best Golf Practice Nets 2026: Complete Buying Guide'
 date: 2026-01-31
-categories: [gear, equipment, buying-guide]
-description: "Find the best golf practice net for your home setup. Compare Spornia, Net Return, Rukket and more with our 2026 buying guide covering indoor and outdoor options."
-keywords: "best golf practice nets 2026, golf hitting net, Spornia SPG-7, Net Return Pro Series, home golf practice, indoor golf net"
+categories:
+- gear
+- equipment
+- buying-guide
+description: Find the best golf practice net for your home setup. Compare Spornia,
+  Net Return, Rukket and more with our 2026 buying guide covering indoor and outdoor
+  options.
+keywords: best golf practice nets 2026, golf hitting net, Spornia SPG-7, Net Return
+  Pro Series, home golf practice, indoor golf net
 image: /assets/images/best-golf-practice-nets-2026.png
+seo:
+  title: 'Best Golf Practice Nets 2026: Complete Buying Guide'
+  description: Find the best golf practice net for your home setup. Compare Spornia,
+    Net Return, Rukket and more with our 2026 buying guide covering indoor and outdoor
+    options.
 ---
 
 # Best Golf Practice Nets 2026: Complete Buying Guide

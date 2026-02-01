@@ -1,12 +1,24 @@
 ---
 layout: post
-title: "Best Golf Push Carts 2026: Complete Buying Guide"
+title: 'Best Golf Push Carts 2026: Complete Buying Guide'
 date: 2026-01-31
-categories: [Equipment, Buying Guides]
+categories:
+- Equipment
+- Buying Guides
 image: /assets/images/best-golf-push-carts-2026.png
-description: "Find the best golf push cart for your game. Compare Clicgear, Bag Boy, Sun Mountain, and CaddyTek models with expert reviews and buying advice."
+description: Find the best golf push cart for your game. Compare Clicgear, Bag Boy,
+  Sun Mountain, and CaddyTek models with expert reviews and buying advice.
 author: Swing Analyzer Team
-tags: [push carts, golf equipment, buying guide, walking golf, golf accessories]
+tags:
+- push carts
+- golf equipment
+- buying guide
+- walking golf
+- golf accessories
+seo:
+  title: 'Best Golf Push Carts 2026: Complete Buying Guide'
+  description: Find the best golf push cart for your game. Compare Clicgear, Bag Boy,
+    Sun Mountain, and CaddyTek models with expert reviews and buying advice.
 ---
 
 Walking the course is one of golf's great pleasures. You stay loose between shots, read the terrain better, and burn a few hundred extra calories. But lugging a 30-pound bag for 18 holes? That gets old fast.

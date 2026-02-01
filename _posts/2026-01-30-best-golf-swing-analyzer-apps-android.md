@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Best Golf Swing Analyzer Apps for Android 2026 [Tested & Ranked]"
-description: "Looking for the best golf swing analyzer app for your Android phone? We tested 7 top-rated apps and ranked them by features, accuracy, and value. Find your perfect match."
+title: Best Golf Swing Analyzer Apps for Android 2026 [Tested & Ranked]
+description: Looking for the best golf swing analyzer app for your Android phone?
+  We tested 7 top-rated apps and ranked them by features, accuracy, and value. Find
+  your perfect match.
 date: 2026-01-30
-categories: [golf-technology, reviews]
-tags: [swing-analyzer, android-apps, golf-apps, app-reviews]
+categories:
+- golf-technology
+- reviews
+tags:
+- swing-analyzer
+- android-apps
+- golf-apps
+- app-reviews
 image: /assets/images/best-golf-swing-analyzer-apps-android.png
+seo:
+  title: Best Golf Swing Analyzer Apps for Android 2026 [Tested & Ranked]
+  description: Looking for the best golf swing analyzer app for your Android phone?
+    We tested 7 top-rated apps and ranked them by features, accuracy, and value. Find
+    your perfect match.
 ---
 
 Android users have excellent options for golf swing analysis - you just need to know which apps actually work on your device.

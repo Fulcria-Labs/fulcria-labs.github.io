@@ -1,11 +1,26 @@
 ---
 layout: post
-title: "Greenside Bunker Basics: Escape the Sand Every Time"
-description: "Most golfers fear bunker shots, but they're actually one of the most forgiving shots in golf. Learn the proper technique to escape greenside bunkers consistently."
+title: 'Greenside Bunker Basics: Escape the Sand Every Time'
+description: Most golfers fear bunker shots, but they're actually one of the most
+  forgiving shots in golf. Learn the proper technique to escape greenside bunkers
+  consistently.
 date: 2026-01-24
-categories: [short-game, bunkers]
-tags: [bunker shots, sand shots, greenside bunkers, short game, technique, beginners]
+categories:
+- short-game
+- bunkers
+tags:
+- bunker shots
+- sand shots
+- greenside bunkers
+- short game
+- technique
+- beginners
 image: /assets/images/greenside-bunker-basics.png
+seo:
+  title: 'Greenside Bunker Basics: Escape the Sand Every Time'
+  description: Most golfers fear bunker shots, but they're actually one of the most
+    forgiving shots in golf. Learn the proper technique to escape greenside bunkers
+    consistently.
 ---
 
 Bunker shots terrify most recreational golfers. Yet tour pros often *prefer* the sand to a tight lie in the rough. The difference isn't talent—it's technique and understanding.

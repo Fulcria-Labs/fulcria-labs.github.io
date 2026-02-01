@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "Golf Swing Rhythm vs Tempo: What Every Golfer Gets Wrong"
-description: "Discover the difference between golf swing rhythm and tempo, why the 3:1 ratio matters, and drills to find your natural rhythm for consistent ball striking."
+title: 'Golf Swing Rhythm vs Tempo: What Every Golfer Gets Wrong'
+description: Discover the difference between golf swing rhythm and tempo, why the
+  3:1 ratio matters, and drills to find your natural rhythm for consistent ball striking.
 date: 2026-01-31
-author: "Swing Analyzer Team"
-categories: [instruction, full-swing]
-tags: [rhythm, tempo, timing, consistency, fundamentals, swing mechanics]
+author: Swing Analyzer Team
+categories:
+- instruction
+- full-swing
+tags:
+- rhythm
+- tempo
+- timing
+- consistency
+- fundamentals
+- swing mechanics
 image: /assets/images/golf-swing-rhythm.png
+seo:
+  title: 'Golf Swing Rhythm vs Tempo: What Every Golfer Gets Wrong'
+  description: Discover the difference between golf swing rhythm and tempo, why the
+    3:1 ratio matters, and drills to find your natural rhythm for consistent ball
+    striking.
 ---
 
 # Golf Swing Rhythm vs Tempo: What Every Golfer Gets Wrong

@@ -1,11 +1,27 @@
 ---
 layout: post
-title: "How to Hit a Flop Shot: The Complete Guide to Golf's Showstopper"
-description: "Master the golf flop shot with Phil Mickelson's technique. Learn setup, swing mechanics, common mistakes, and practice drills for this high-risk, high-reward shot."
+title: 'How to Hit a Flop Shot: The Complete Guide to Golf''s Showstopper'
+description: Master the golf flop shot with Phil Mickelson's technique. Learn setup,
+  swing mechanics, common mistakes, and practice drills for this high-risk, high-reward
+  shot.
 date: 2026-01-31
-categories: [short-game, technique]
-tags: [flop shot, golf flop shot, Phil Mickelson, lob shot golf, wedge play, short game, scoring]
+categories:
+- short-game
+- technique
+tags:
+- flop shot
+- golf flop shot
+- Phil Mickelson
+- lob shot golf
+- wedge play
+- short game
+- scoring
 image: /assets/images/how-to-hit-flop-shot-golf.png
+seo:
+  title: 'How to Hit a Flop Shot: The Complete Guide to Golf''s Showstopper'
+  description: Master the golf flop shot with Phil Mickelson's technique. Learn setup,
+    swing mechanics, common mistakes, and practice drills for this high-risk, high-reward
+    shot.
 ---
 
 The flop shot is the showstopper of golf's short game. When executed properly, the ball launches nearly vertical, floats through the air like a butterfly, and lands soft enough to stick on the dance floor. It's the shot that makes playing partners gasp and strangers stop to watch.

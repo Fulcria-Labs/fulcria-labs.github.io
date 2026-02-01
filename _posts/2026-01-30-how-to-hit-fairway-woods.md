@@ -1,12 +1,25 @@
 ---
 layout: post
-title: "How to Hit Fairway Woods Off the Ground: 7 Keys to Pure Contact"
+title: 'How to Hit Fairway Woods Off the Ground: 7 Keys to Pure Contact'
 date: 2026-01-30
-author: "Swing Analyzer Team"
-description: "Learn how to hit fairway woods off the deck with confidence. Setup tips, downswing keys, and drills to stop topping your 3-wood and start finding more greens."
-categories: [instruction, fairway-woods]
-tags: [fairway woods, 3-wood, ball striking, setup, contact]
+author: Swing Analyzer Team
+description: Learn how to hit fairway woods off the deck with confidence. Setup tips,
+  downswing keys, and drills to stop topping your 3-wood and start finding more greens.
+categories:
+- instruction
+- fairway-woods
+tags:
+- fairway woods
+- 3-wood
+- ball striking
+- setup
+- contact
 image: /assets/images/how-to-hit-fairway-woods.png
+seo:
+  title: 'How to Hit Fairway Woods Off the Ground: 7 Keys to Pure Contact'
+  description: Learn how to hit fairway woods off the deck with confidence. Setup
+    tips, downswing keys, and drills to stop topping your 3-wood and start finding
+    more greens.
 ---
 
 Fairway woods off the deck might be the most intimidating shots in golf. That long shaft, shallow face, and tiny ball sitting on tight turf—it's a recipe for skulled shots and wounded pride.

@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "How to Fix Early Extension in Your Golf Swing: 6 Proven Drills"
-description: "Early extension is destroying your consistency. Learn what causes this common swing flaw, why it leads to blocks and hooks, and 6 proven drills to fix it for good."
+title: 'How to Fix Early Extension in Your Golf Swing: 6 Proven Drills'
+description: Early extension is destroying your consistency. Learn what causes this
+  common swing flaw, why it leads to blocks and hooks, and 6 proven drills to fix
+  it for good.
 date: 2026-01-30
-author: "Swing Analyzer Team"
-categories: [golf-instruction, swing-fixes]
-tags: [early-extension, golf-swing, posture, drills, consistency]
+author: Swing Analyzer Team
+categories:
+- golf-instruction
+- swing-fixes
+tags:
+- early-extension
+- golf-swing
+- posture
+- drills
+- consistency
 image: /assets/images/early-extension-golf-swing.png
+seo:
+  title: 'How to Fix Early Extension in Your Golf Swing: 6 Proven Drills'
+  description: Early extension is destroying your consistency. Learn what causes this
+    common swing flaw, why it leads to blocks and hooks, and 6 proven drills to fix
+    it for good.
 ---
 
 Early extension is one of the most common and destructive swing flaws in golf. If you've ever hit a block to the right followed by a hook to the left, early extension might be the culprit. The good news? It's fixable with the right understanding and drills.

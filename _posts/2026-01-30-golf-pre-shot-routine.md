@@ -1,12 +1,28 @@
 ---
 layout: post
-title: "Build a Pre-Shot Routine That Actually Works: The Mental Key to Consistent Golf"
-description: "Learn how to create an effective pre-shot routine that builds confidence, eliminates doubt, and helps you play consistent golf under pressure. Step-by-step guide with drills."
+title: 'Build a Pre-Shot Routine That Actually Works: The Mental Key to Consistent
+  Golf'
+description: Learn how to create an effective pre-shot routine that builds confidence,
+  eliminates doubt, and helps you play consistent golf under pressure. Step-by-step
+  guide with drills.
 date: 2026-01-30
-author: "Swing Analyzer Team"
-categories: [instruction, mental-game]
-tags: [pre-shot routine, mental game, golf psychology, confidence, consistency]
+author: Swing Analyzer Team
+categories:
+- instruction
+- mental-game
+tags:
+- pre-shot routine
+- mental game
+- golf psychology
+- confidence
+- consistency
 image: /assets/images/golf-pre-shot-routine.png
+seo:
+  title: 'Build a Pre-Shot Routine That Actually Works: The Mental Key to Consistent
+    Golf'
+  description: Learn how to create an effective pre-shot routine that builds confidence,
+    eliminates doubt, and helps you play consistent golf under pressure. Step-by-step
+    guide with drills.
 ---
 
 The difference between a 90-shooter and a scratch golfer often isn't their swing mechanics—it's what happens in the 30 seconds before they swing.

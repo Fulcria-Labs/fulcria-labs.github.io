@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Golf Club Selection Guide: How to Choose the Right Club for Every Shot"
+title: 'Golf Club Selection Guide: How to Choose the Right Club for Every Shot'
 date: 2026-01-31
 author: Swing Analyzer Team
-description: "Master golf club selection with this comprehensive guide covering distance charts, approach shot strategy, and smart decision-making for lower scores."
-keywords: golf club selection, club distance chart, approach shot strategy, golf club choice, when to use each club
+description: Master golf club selection with this comprehensive guide covering distance
+  charts, approach shot strategy, and smart decision-making for lower scores.
+keywords: golf club selection, club distance chart, approach shot strategy, golf club
+  choice, when to use each club
 image: /assets/images/golf-club-selection.jpg
+seo:
+  title: 'Golf Club Selection Guide: How to Choose the Right Club for Every Shot'
+  description: Master golf club selection with this comprehensive guide covering distance
+    charts, approach shot strategy, and smart decision-making for lower scores.
 ---
 
 # Golf Club Selection Guide: How to Choose the Right Club for Every Shot

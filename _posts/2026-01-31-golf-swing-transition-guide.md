@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "Golf Swing Transition: Master the Move That Transforms Your Game"
-description: "Learn how to master the golf swing transition - the critical moment between backswing and downswing that separates tour pros from amateurs. Includes drills and common fixes."
+title: 'Golf Swing Transition: Master the Move That Transforms Your Game'
+description: Learn how to master the golf swing transition - the critical moment between
+  backswing and downswing that separates tour pros from amateurs. Includes drills
+  and common fixes.
 date: 2026-01-31
-author: "Swing Analyzer Team"
-categories: [instruction, full-swing]
-tags: [transition, swing sequence, power, timing, downswing]
+author: Swing Analyzer Team
+categories:
+- instruction
+- full-swing
+tags:
+- transition
+- swing sequence
+- power
+- timing
+- downswing
 image: /assets/images/golf-swing-transition-guide.png
+seo:
+  title: 'Golf Swing Transition: Master the Move That Transforms Your Game'
+  description: Learn how to master the golf swing transition - the critical moment
+    between backswing and downswing that separates tour pros from amateurs. Includes
+    drills and common fixes.
 ---
 
 # Golf Swing Transition: Master the Move That Transforms Your Game

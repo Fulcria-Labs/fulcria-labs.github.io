@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Golf Ball Position Guide: Where to Place the Ball for Every Club"
+title: 'Golf Ball Position Guide: Where to Place the Ball for Every Club'
 date: 2026-01-30
-categories: [instruction, fundamentals]
-description: "Learn the correct golf ball position for driver, irons, and wedges. Master ball placement to improve contact, trajectory, and distance on every shot."
+categories:
+- instruction
+- fundamentals
+description: Learn the correct golf ball position for driver, irons, and wedges. Master
+  ball placement to improve contact, trajectory, and distance on every shot.
 author: Swing Analyzer Team
 image: /assets/images/golf-ball-position-guide.png
 tags:
@@ -13,6 +16,10 @@ tags:
 - irons
 - driver
 - wedges
+seo:
+  title: 'Golf Ball Position Guide: Where to Place the Ball for Every Club'
+  description: Learn the correct golf ball position for driver, irons, and wedges.
+    Master ball placement to improve contact, trajectory, and distance on every shot.
 ---
 
 Ball position might be the most overlooked fundamental in golf. You spend hours perfecting your swing, but if the ball is in the wrong spot at address, you are fighting a losing battle before the club even moves.

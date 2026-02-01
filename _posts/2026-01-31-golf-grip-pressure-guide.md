@@ -1,12 +1,27 @@
 ---
 layout: post
-title: "Golf Grip Pressure Guide: How Tight Should You Hold the Club?"
-description: "Learn the ideal golf grip pressure on a 1-10 scale. Discover why pros grip at 5-6, how pressure affects your swing, and 3 drills to find your perfect hold."
+title: 'Golf Grip Pressure Guide: How Tight Should You Hold the Club?'
+description: Learn the ideal golf grip pressure on a 1-10 scale. Discover why pros
+  grip at 5-6, how pressure affects your swing, and 3 drills to find your perfect
+  hold.
 date: 2026-01-31
-categories: [golf, instruction]
-tags: [grip pressure, grip, fundamentals, swing speed, tension, drills]
+categories:
+- golf
+- instruction
+tags:
+- grip pressure
+- grip
+- fundamentals
+- swing speed
+- tension
+- drills
 image: /assets/images/_posts/2026-01-31-golf-grip-pressure-guide.md.png
 author: Swing Analyzer Team
+seo:
+  title: 'Golf Grip Pressure Guide: How Tight Should You Hold the Club?'
+  description: Learn the ideal golf grip pressure on a 1-10 scale. Discover why pros
+    grip at 5-6, how pressure affects your swing, and 3 drills to find your perfect
+    hold.
 ---
 
 You have heard the advice a thousand times: "Hold the club like you are holding a baby bird." Or maybe it was "grip it like a tube of toothpaste." These well-meaning tips have confused golfers for decades.

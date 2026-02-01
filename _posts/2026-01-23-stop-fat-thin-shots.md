@@ -1,11 +1,26 @@
 ---
 layout: post
-title: "Stop Hitting Fat and Thin Shots: Fix Your Ball Striking For Good"
-description: "Fat and thin shots share the same root cause. Learn to control your low point, fix the real problem, and start making clean contact consistently."
+title: 'Stop Hitting Fat and Thin Shots: Fix Your Ball Striking For Good'
+description: Fat and thin shots share the same root cause. Learn to control your low
+  point, fix the real problem, and start making clean contact consistently.
 date: 2026-01-23
-categories: [technique, ball-striking]
-tags: [fat shots, thin shots, ball striking, low point, iron play, contact, beginners, intermediate]
+categories:
+- technique
+- ball-striking
+tags:
+- fat shots
+- thin shots
+- ball striking
+- low point
+- iron play
+- contact
+- beginners
+- intermediate
 image: /assets/images/stop-fat-thin-shots.png
+seo:
+  title: 'Stop Hitting Fat and Thin Shots: Fix Your Ball Striking For Good'
+  description: Fat and thin shots share the same root cause. Learn to control your
+    low point, fix the real problem, and start making clean contact consistently.
 ---
 
 Nothing kills momentum like chunking one fat into the ground, then skulling the next one over the green. These shots feel completely different—but they share the same root cause.

@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Golf Alignment and Aim: The Setup Fundamental You're Getting Wrong"
-description: "Most golfers unknowingly aim 20-40 yards off target. Learn the intermediate target technique and step-by-step alignment routine to hit your target consistently."
+title: 'Golf Alignment and Aim: The Setup Fundamental You''re Getting Wrong'
+description: Most golfers unknowingly aim 20-40 yards off target. Learn the intermediate
+  target technique and step-by-step alignment routine to hit your target consistently.
 date: 2026-01-23
-categories: [fundamentals, setup]
-tags: [alignment, aim, setup, target, intermediate target, beginners]
+categories:
+- fundamentals
+- setup
+tags:
+- alignment
+- aim
+- setup
+- target
+- intermediate target
+- beginners
 image: /assets/images/golf-alignment-aim.png
+seo:
+  title: 'Golf Alignment and Aim: The Setup Fundamental You''re Getting Wrong'
+  description: Most golfers unknowingly aim 20-40 yards off target. Learn the intermediate
+    target technique and step-by-step alignment routine to hit your target consistently.
 ---
 
 You've grooved a good swing, picked the perfect club, and visualized the shot. Then you pull it 30 yards left. What happened? Probably nothing wrong with your swing—you were just aimed there.

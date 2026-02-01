@@ -1,11 +1,25 @@
 ---
 layout: post
-title: "How to Hit a Hybrid Golf Club: Complete Guide for Consistent Contact"
-description: "Master your hybrid with proven setup, swing, and technique tips. Stop struggling with this versatile club and start hitting it like the game-changer it was designed to be."
+title: 'How to Hit a Hybrid Golf Club: Complete Guide for Consistent Contact'
+description: Master your hybrid with proven setup, swing, and technique tips. Stop
+  struggling with this versatile club and start hitting it like the game-changer it
+  was designed to be.
 date: 2026-01-30
-categories: [instruction, long-game]
-tags: [hybrid, long-game, setup, swing-technique, ball-striking]
+categories:
+- instruction
+- long-game
+tags:
+- hybrid
+- long-game
+- setup
+- swing-technique
+- ball-striking
 image: /assets/images/how-to-hit-hybrid-golf-club.png
+seo:
+  title: 'How to Hit a Hybrid Golf Club: Complete Guide for Consistent Contact'
+  description: Master your hybrid with proven setup, swing, and technique tips. Stop
+    struggling with this versatile club and start hitting it like the game-changer
+    it was designed to be.
 ---
 
 Hybrids are the most versatile clubs in your bag—designed to give you the best of both irons and fairway woods. Yet many golfers struggle to hit them consistently, often because they don't know whether to swing it like a wood or strike it like an iron.

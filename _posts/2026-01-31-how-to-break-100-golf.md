@@ -1,16 +1,29 @@
 ---
 layout: post
-title: "How to Break 100 in Golf: 7 Strategies That Actually Work"
-description: "Ready to break 100? These proven strategies focus on avoiding big numbers, smart course management, and short game basics to get you under triple digits."
+title: 'How to Break 100 in Golf: 7 Strategies That Actually Work'
+description: Ready to break 100? These proven strategies focus on avoiding big numbers,
+  smart course management, and short game basics to get you under triple digits.
 date: 2026-01-31
-categories: [instruction, scoring]
-tags: [break 100, beginner golf, scoring, course management, short game, golf tips]
+categories:
+- instruction
+- scoring
+tags:
+- break 100
+- beginner golf
+- scoring
+- course management
+- short game
+- golf tips
 image: /assets/images/how-to-break-100-golf.png
 keywords:
-  - how to break 100 in golf
-  - break 100 golf tips
-  - shooting under 100 golf
+- how to break 100 in golf
+- break 100 golf tips
+- shooting under 100 golf
 slug: how-to-break-100-golf
+seo:
+  title: 'How to Break 100 in Golf: 7 Strategies That Actually Work'
+  description: Ready to break 100? These proven strategies focus on avoiding big numbers,
+    smart course management, and short game basics to get you under triple digits.
 ---
 
 Breaking 100 feels like climbing Everest when you are stuck at 105 or 110. But here is something that might surprise you: **you do not need a single par to break 100.**

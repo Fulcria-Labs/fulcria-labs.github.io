@@ -1,12 +1,25 @@
 ---
 layout: post
-title: "Why You Miss Greens Short: The Club Selection Secret Pros Know"
-description: "Shot Scope data shows 54% of amateur misses are short. Learn the club selection secrets and simple fixes to finally hit more greens in regulation."
+title: 'Why You Miss Greens Short: The Club Selection Secret Pros Know'
+description: Shot Scope data shows 54% of amateur misses are short. Learn the club
+  selection secrets and simple fixes to finally hit more greens in regulation.
 date: 2026-01-31
 author: Swing Analyzer Team
-categories: [instruction, strategy]
-tags: [club selection, course management, iron play, scoring, distance control, greens in regulation]
+categories:
+- instruction
+- strategy
+tags:
+- club selection
+- course management
+- iron play
+- scoring
+- distance control
+- greens in regulation
 image: /assets/images/miss-greens-short.png
+seo:
+  title: 'Why You Miss Greens Short: The Club Selection Secret Pros Know'
+  description: Shot Scope data shows 54% of amateur misses are short. Learn the club
+    selection secrets and simple fixes to finally hit more greens in regulation.
 ---
 
 You stripe a 7-iron from 155 yards. It feels pure. You watch it climb, certain it is going to be close. Then it lands in the front bunker, a full 15 yards short of the flag.

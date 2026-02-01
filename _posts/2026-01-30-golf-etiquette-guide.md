@@ -1,12 +1,26 @@
 ---
 layout: post
-title: "Golf Etiquette Guide: 15 Rules Every Golfer Should Know"
+title: 'Golf Etiquette Guide: 15 Rules Every Golfer Should Know'
 date: 2026-01-30
 author: Swing Analyzer Team
-categories: [Golf Basics, Beginner Guide]
-tags: [golf etiquette, golf rules, beginner golf, golf course behavior, golf manners]
-description: "Master essential golf etiquette with our comprehensive guide. Learn the unwritten rules of pace of play, course care, and on-course behavior that every golfer needs to know."
+categories:
+- Golf Basics
+- Beginner Guide
+tags:
+- golf etiquette
+- golf rules
+- beginner golf
+- golf course behavior
+- golf manners
+description: Master essential golf etiquette with our comprehensive guide. Learn the
+  unwritten rules of pace of play, course care, and on-course behavior that every
+  golfer needs to know.
 image: /assets/images/golf-etiquette-guide.png
+seo:
+  title: 'Golf Etiquette Guide: 15 Rules Every Golfer Should Know'
+  description: Master essential golf etiquette with our comprehensive guide. Learn
+    the unwritten rules of pace of play, course care, and on-course behavior that
+    every golfer needs to know.
 ---
 
 Golf etiquette might seem intimidating when you're new to the game, but these unwritten rules exist for good reason. They ensure everyone enjoys their round, the course stays in great condition, and play moves efficiently. Master these guidelines and you'll feel confident stepping onto any course.

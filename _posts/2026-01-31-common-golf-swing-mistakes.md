@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "10 Most Common Golf Swing Mistakes (And How to Fix Them)"
+title: 10 Most Common Golf Swing Mistakes (And How to Fix Them)
 date: 2026-01-31
-categories: [instruction, fundamentals]
-tags: [swing mistakes, golf tips, beginner golf, fix golf swing, common errors]
-description: "Discover the 10 most common golf swing mistakes that plague amateurs and learn proven fixes for each one. From coming over the top to grip pressure issues."
+categories:
+- instruction
+- fundamentals
+tags:
+- swing mistakes
+- golf tips
+- beginner golf
+- fix golf swing
+- common errors
+description: Discover the 10 most common golf swing mistakes that plague amateurs
+  and learn proven fixes for each one. From coming over the top to grip pressure issues.
 image: /assets/images/common-golf-swing-mistakes.png
+seo:
+  title: 10 Most Common Golf Swing Mistakes (And How to Fix Them)
+  description: Discover the 10 most common golf swing mistakes that plague amateurs
+    and learn proven fixes for each one. From coming over the top to grip pressure
+    issues.
 ---
 
 Every golfer makes mistakes. Even Tour pros hit bad shots. But the difference between players who improve and those who stay stuck? Identifying and fixing the mistakes that hurt them most.

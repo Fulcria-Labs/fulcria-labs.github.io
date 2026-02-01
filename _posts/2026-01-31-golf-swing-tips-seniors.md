@@ -1,23 +1,30 @@
 ---
 layout: post
-title: "Golf Swing Tips for Seniors: A Complete Guide"
+title: 'Golf Swing Tips for Seniors: A Complete Guide'
 date: 2026-01-31
-categories: [golf, instruction]
-description: "Master the senior golf swing with proven tips for flexibility, power, and consistency. Equipment advice, drills, and modifications that work."
+categories:
+- golf
+- instruction
+description: Master the senior golf swing with proven tips for flexibility, power,
+  and consistency. Equipment advice, drills, and modifications that work.
 author: Swing Analyzer Team
 image: /assets/images/golf-swing-tips-seniors.webp
 tags:
-  - senior golf
-  - golf swing tips
-  - golf for seniors
-  - senior golf swing
-  - golf flexibility
+- senior golf
+- golf swing tips
+- golf for seniors
+- senior golf swing
+- golf flexibility
 keywords:
-  - golf swing tips for seniors
-  - senior golf swing modifications
-  - golf tips for older players
-  - golf swing for 60+
-  - senior golf equipment
+- golf swing tips for seniors
+- senior golf swing modifications
+- golf tips for older players
+- golf swing for 60+
+- senior golf equipment
+seo:
+  title: 'Golf Swing Tips for Seniors: A Complete Guide'
+  description: Master the senior golf swing with proven tips for flexibility, power,
+    and consistency. Equipment advice, drills, and modifications that work.
 ---
 
 # Golf Swing Tips for Seniors: A Complete Guide

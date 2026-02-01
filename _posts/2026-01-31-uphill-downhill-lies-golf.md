@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "How to Hit Uphill and Downhill Lies in Golf: Setup and Swing Guide"
+title: 'How to Hit Uphill and Downhill Lies in Golf: Setup and Swing Guide'
 date: 2026-01-31
-categories: [instruction, fundamentals]
-description: "Master uphill and downhill lies with proven setup adjustments, club selection tips, and swing techniques. Includes sidehill lies for complete uneven lie coverage."
+categories:
+- instruction
+- fundamentals
+description: Master uphill and downhill lies with proven setup adjustments, club selection
+  tips, and swing techniques. Includes sidehill lies for complete uneven lie coverage.
 author: Swing Analyzer Team
 image: /assets/images/uphill-downhill-lies-golf.png
 tags:
@@ -14,6 +17,11 @@ tags:
 - ball position
 - course management
 - fundamentals
+seo:
+  title: 'How to Hit Uphill and Downhill Lies in Golf: Setup and Swing Guide'
+  description: Master uphill and downhill lies with proven setup adjustments, club
+    selection tips, and swing techniques. Includes sidehill lies for complete uneven
+    lie coverage.
 ---
 
 Golf courses are not flat. Yet most golfers only practice on perfectly level mats at the driving range, then wonder why they struggle when the ball sits above or below their feet on the course.

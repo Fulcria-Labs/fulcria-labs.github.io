@@ -1,11 +1,27 @@
 ---
 layout: post
-title: "How to Fix the Golf Chicken Wing: 5 Drills to Stop Left Arm Collapse"
-description: "Learn to fix the chicken wing golf swing with 5 proven drills. Understand why your left arm collapses at impact and how to build proper extension for more power and consistency."
+title: 'How to Fix the Golf Chicken Wing: 5 Drills to Stop Left Arm Collapse'
+description: Learn to fix the chicken wing golf swing with 5 proven drills. Understand
+  why your left arm collapses at impact and how to build proper extension for more
+  power and consistency.
 date: 2026-01-31
-categories: [swing-faults, technique]
-tags: [chicken wing, golf swing fix, arm extension, swing fault, impact position, golf drills, arm connection]
+categories:
+- swing-faults
+- technique
+tags:
+- chicken wing
+- golf swing fix
+- arm extension
+- swing fault
+- impact position
+- golf drills
+- arm connection
 image: /assets/images/fix-chicken-wing-golf-swing.png
+seo:
+  title: 'How to Fix the Golf Chicken Wing: 5 Drills to Stop Left Arm Collapse'
+  description: Learn to fix the chicken wing golf swing with 5 proven drills. Understand
+    why your left arm collapses at impact and how to build proper extension for more
+    power and consistency.
 ---
 
 The chicken wing is one of golf's most visible swing faults. At impact, your lead arm collapses, bending at the elbow and pointing outward like a bird's wing. It looks awkward, and worse, it costs you distance and consistency.

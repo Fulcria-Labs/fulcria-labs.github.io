@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "How to Hit a Draw and Fade: Master Shot Shaping in Golf"
+title: 'How to Hit a Draw and Fade: Master Shot Shaping in Golf'
 date: 2026-01-30
 author: Swing Analyzer Team
-description: "Learn to shape your shots like a pro. This complete guide covers how to hit a draw and fade with simple setup changes, drills, and the key swing mechanics."
-keywords: "how to hit a draw, how to hit a fade, shot shaping golf, draw vs fade, curve golf ball, golf ball flight control"
-categories: [instruction, swing-tips]
+description: Learn to shape your shots like a pro. This complete guide covers how
+  to hit a draw and fade with simple setup changes, drills, and the key swing mechanics.
+keywords: how to hit a draw, how to hit a fade, shot shaping golf, draw vs fade, curve
+  golf ball, golf ball flight control
+categories:
+- instruction
+- swing-tips
 image: /assets/images/how-to-hit-draw-fade-golf.png
+seo:
+  title: 'How to Hit a Draw and Fade: Master Shot Shaping in Golf'
+  description: Learn to shape your shots like a pro. This complete guide covers how
+    to hit a draw and fade with simple setup changes, drills, and the key swing mechanics.
 ---
 
 Watch any PGA Tour broadcast and you'll notice something: the pros rarely hit straight shots. They work the ball left or right to fit the hole, avoid trouble, and attack pins. That's shot shaping, and it's more accessible than you think.

@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "Golf Practice Plan for 2026: A Realistic Approach to Actually Improving"
+title: 'Golf Practice Plan for 2026: A Realistic Approach to Actually Improving'
 date: 2026-01-29
-description: "Skip the vague resolutions. Here's a structured, science-backed practice plan to actually improve your golf game in 2026 - with specific drills, realistic time commitments, and ways to track progress."
-keywords: golf practice plan 2026, how to improve at golf, golf improvement plan, golf practice schedule, get better at golf 2026
+description: Skip the vague resolutions. Here's a structured, science-backed practice
+  plan to actually improve your golf game in 2026 - with specific drills, realistic
+  time commitments, and ways to track progress.
+keywords: golf practice plan 2026, how to improve at golf, golf improvement plan,
+  golf practice schedule, get better at golf 2026
 image: /assets/images/golf-practice-plan-2026.png
+seo:
+  title: 'Golf Practice Plan for 2026: A Realistic Approach to Actually Improving'
+  description: Skip the vague resolutions. Here's a structured, science-backed practice
+    plan to actually improve your golf game in 2026 - with specific drills, realistic
+    time commitments, and ways to track progress.
 ---
 
 Another year, another resolution to "get better at golf." But this time, let's do it differently.

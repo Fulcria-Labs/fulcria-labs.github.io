@@ -1,12 +1,25 @@
 ---
 layout: post
-title: "How to Hit a Golf Punch Shot: The Essential Recovery Shot"
-description: "Master the punch shot to escape trouble and save strokes. Learn setup adjustments, swing technique, and strategy for hitting low under trees."
+title: 'How to Hit a Golf Punch Shot: The Essential Recovery Shot'
+description: Master the punch shot to escape trouble and save strokes. Learn setup
+  adjustments, swing technique, and strategy for hitting low under trees.
 date: 2026-01-31
-author: "SwingAnalyzer Team"
-categories: [golf-instruction, shot-making]
+author: SwingAnalyzer Team
+categories:
+- golf-instruction
+- shot-making
 image: /assets/images/golf-punch-shot-guide.png
-tags: [punch shot, trouble shots, recovery shots, golf tips, shot making, under trees]
+tags:
+- punch shot
+- trouble shots
+- recovery shots
+- golf tips
+- shot making
+- under trees
+seo:
+  title: 'How to Hit a Golf Punch Shot: The Essential Recovery Shot'
+  description: Master the punch shot to escape trouble and save strokes. Learn setup
+    adjustments, swing technique, and strategy for hitting low under trees.
 ---
 
 You will find yourself in trouble. Every golfer does. The question is not whether you will hit it into the trees—it is how you escape.

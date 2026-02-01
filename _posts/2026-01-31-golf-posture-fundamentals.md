@@ -1,24 +1,31 @@
 ---
 layout: post
-title: "Golf Posture Fundamentals: Setup for a Better Swing"
+title: 'Golf Posture Fundamentals: Setup for a Better Swing'
 date: 2026-01-31
-categories: [golf-tips, fundamentals]
-description: "Master golf posture with this complete guide to spine angle, hip hinge, knee flex, and arm hang. Build a setup that unlocks power and consistency."
+categories:
+- golf-tips
+- fundamentals
+description: Master golf posture with this complete guide to spine angle, hip hinge,
+  knee flex, and arm hang. Build a setup that unlocks power and consistency.
 author: Swing Analyzer Team
 image: /assets/images/golf-posture-guide.png
 tags:
-  - posture
-  - setup
-  - fundamentals
-  - spine angle
-  - address position
+- posture
+- setup
+- fundamentals
+- spine angle
+- address position
 keywords:
-  - golf posture
-  - golf stance fundamentals
-  - golf setup position
-  - spine angle golf
-  - hip hinge golf
+- golf posture
+- golf stance fundamentals
+- golf setup position
+- spine angle golf
+- hip hinge golf
 slug: golf-posture-fundamentals
+seo:
+  title: 'Golf Posture Fundamentals: Setup for a Better Swing'
+  description: Master golf posture with this complete guide to spine angle, hip hinge,
+    knee flex, and arm hang. Build a setup that unlocks power and consistency.
 ---
 
 Your golf posture is the foundation of everything that follows. Get it right and your body can move freely through the swing. Get it wrong and you are fighting compensations before the club even moves.

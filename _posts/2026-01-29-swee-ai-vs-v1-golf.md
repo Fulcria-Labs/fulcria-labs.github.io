@@ -1,9 +1,16 @@
 ---
 layout: post
-title: "SWEE AI vs V1 Golf: Which Golf Swing Analyzer Is Right for You?"
+title: 'SWEE AI vs V1 Golf: Which Golf Swing Analyzer Is Right for You?'
 date: 2026-01-29
-description: "Detailed comparison of SWEE AI and V1 Golf swing analyzer apps. Compare pricing, features, AI technology, and find which app suits your game."
-keywords: "SWEE AI vs V1 Golf, golf swing analyzer comparison, best golf app, AI golf coaching"
+description: Detailed comparison of SWEE AI and V1 Golf swing analyzer apps. Compare
+  pricing, features, AI technology, and find which app suits your game.
+keywords: SWEE AI vs V1 Golf, golf swing analyzer comparison, best golf app, AI golf
+  coaching
+seo:
+  title: 'SWEE AI vs V1 Golf: Which Golf Swing Analyzer Is Right for You?'
+  description: Detailed comparison of SWEE AI and V1 Golf swing analyzer apps. Compare
+    pricing, features, AI technology, and find which app suits your game.
+image: /assets/images/swee-ai-vs-v1-golf.png
 ---
 
 ![SWEE AI vs V1 Golf comparison](/assets/images/swee-ai-vs-v1-golf.png)
