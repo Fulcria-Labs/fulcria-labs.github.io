@@ -192,6 +192,12 @@ The follow through is the final piece of the [full swing sequence](/blog/golf-do
 
 Each phase flows into the next. A good follow through is the natural result of everything that came before—but it's also a checkpoint that confirms you did the earlier phases correctly.
 
+## Watch: The Finish Position Test
+
+<div style="max-width: 350px; margin: 1.5em auto;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/5GzWSnG2y7o" title="The Finish Position Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## The Bottom Line
 
 Your follow through reveals the truth about your swing. A balanced, complete finish position indicates proper weight transfer, full rotation, and good tempo. An awkward finish reveals problems that need attention.

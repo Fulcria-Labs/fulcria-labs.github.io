@@ -62,6 +62,12 @@ Hit 10 balls with this adjustment. Your shots might start left initially - that'
 
 {% include cta-box.html %}
 
+## Watch: The Slice Fix Nobody Tells You
+
+<div style="max-width: 350px; margin: 1.5em auto;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/6Gj2-PN8iCY" title="The Slice Fix Nobody Tells You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## How to Know If It's Working
 
 The best way to track your progress is video. Film your swing from behind (down the target line) and check:

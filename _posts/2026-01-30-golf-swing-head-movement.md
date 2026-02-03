@@ -145,6 +145,12 @@ Focus on the fundamentals:
 
 Stop trying to freeze your head. Start building a swing where proper movement happens automatically.
 
+## Watch: Stop Keeping Your Head Down
+
+<div style="max-width: 350px; margin: 1.5em auto;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/3aLH2tyXY6w" title="Stop Keeping Your Head Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Track Your Progress

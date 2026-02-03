@@ -187,6 +187,12 @@ Rhythm is not talent. It is a skill you can develop through deliberate practice.
 
 Your best swings probably already have good rhythm. Now you can make it consistent.
 
+## Watch: The One-Minute Tempo Fix
+
+<div style="max-width: 350px; margin: 1.5em auto;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/e0Ojlu6isbM" title="The One-Minute Tempo Fix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 *Want to know your actual swing tempo? [Swing Analyzer](https://swing.fulcria.com) breaks down your timing in 90 seconds and shows exactly how your ratio compares to tour averages. Upload a swing and find out.*

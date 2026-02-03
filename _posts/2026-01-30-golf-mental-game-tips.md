@@ -152,6 +152,12 @@ Start with one or two of these tips. Maybe build a [consistent pre-shot routine]
 
 Your swing might only improve marginally as you get older. But your mental game can keep getting better forever. That's where the low scores live.
 
+## Watch: The Yips Aren't Mental (Usually)
+
+<div style="max-width: 350px; margin: 1.5em auto;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/YYVBpqpJ4VQ" title="The Yips Aren't Mental (Usually)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 *Working on both the mental and physical sides of your game? The [Swing Analyzer](https://swing.fulcria.com) provides [instant feedback](/blog/golf-feedback-timing-science/) so you can focus on execution rather than wondering what your swing looks like.*

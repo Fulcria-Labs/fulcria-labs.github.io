@@ -199,6 +199,12 @@ Don't give up in Week 1. Almost everyone who abandons a grip change does so too 
 | [Fat shots](/blog/stop-fat-thin-shots/) | Check grip pressure—often too tight |
 | Lack of distance | Check for palm grip, ensure wrist hinge not restricted |
 
+## Watch: The Grip Mistake Everyone Makes
+
+<div style="max-width: 350px; margin: 1.5em auto;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/XMQDXAgEo6w" title="The Grip Mistake Everyone Makes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 **Related:** [Grip pressure complete guide](/blog/golf-grip-pressure/) | [Fix your slice](/blog/fix-golf-slice/)

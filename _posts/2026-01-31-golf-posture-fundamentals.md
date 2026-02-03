@@ -305,6 +305,12 @@ Here is how to improve your golf posture this week:
 
 Posture is not glamorous. You will not find viral videos about spine angle or hip hinge. But the golfers who master these fundamentals have an advantage over those who skip straight to swing tips. Build the foundation correctly and everything built on top of it becomes easier.
 
+## Watch: Fix Your Posture in 10 Seconds
+
+<div style="max-width: 350px; margin: 1.5em auto;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/qGiAxhplIxI" title="Fix Your Posture in 10 Seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 *Want to see exactly what your posture looks like at address? [Try Swing Analyzer](https://swing.fulcria.com) for AI-powered video analysis that measures your setup position, spine angle, and posture through impact. Get actionable feedback in 90 seconds with no equipment required.*
