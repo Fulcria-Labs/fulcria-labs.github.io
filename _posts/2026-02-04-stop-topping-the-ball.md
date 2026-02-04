@@ -3,8 +3,8 @@ layout: post
 title: 'How to Stop Topping the Ball in Golf: 7 Causes and Fixes'
 date: 2026-02-04
 categories:
-- technique
-- ball-striking
+- golf
+- instruction
 description: Tired of topped shots rolling along the ground? Learn the 7 most common
   causes of topping the golf ball and get actionable drills to fix each one for good.
 author: Swing Analyzer Team
