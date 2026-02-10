@@ -1,10 +1,24 @@
 ---
 layout: post
-title: "Golf Warm-Up Routine: 10 Minutes to Better Shots"
-description: "Skip the driving range disaster. This 10-minute golf warm-up routine prepares your body for your best round. Dynamic stretches, practice swings, and putting drills included."
-date: 2026-02-21
-categories: [golf, warm-up]
-tags: [warm-up, stretching, pre-round, flexibility, injury prevention]
+title: 'Golf Warm-Up Routine: 10 Minutes to Better Shots'
+date: '2026-02-21'
+categories:
+- golf
+- swing-tips
+description: Skip the driving range disaster. This 10-minute golf warm-up routine
+  prepares your body for your best round. Dynamic stretches, practice swings, and
+  putting drills included.
+author: Swing Analyzer Team
+tags:
+- warm-up
+- stretching
+- pre-round
+- flexibility
+- injury prevention
+seo:
+  title: 'Golf Warm-Up Routine: 10-Minute Pre-Round Guide'
+  description: The complete golf warm-up routine used by pros. Dynamic stretches,
+    practice swing sequence, and putting prep to start your round strong.
 ---
 
 # Golf Warm-Up Routine: 10 Minutes to Better Shots
