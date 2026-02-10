@@ -4,8 +4,9 @@ title: 'Putting Improvement: The Complete Guide to Lower Scores'
 date: '2026-02-11'
 categories:
 - golf
-- short-game
-description: Master your putting with proven drills, technique tips, and practice routines. Learn how to read greens, control speed, and make more putts.
+- swing-tips
+description: Master your putting with proven drills, technique tips, and practice
+  routines. Learn how to read greens, control speed, and make more putts.
 author: Swing Analyzer Team
 ---
 

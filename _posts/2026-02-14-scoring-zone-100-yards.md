@@ -4,8 +4,9 @@ title: 'Master the Scoring Zone: How to Attack from 100 Yards and In'
 date: '2026-02-14'
 categories:
 - golf
-- short-game
-description: Drop strokes by mastering shots inside 100 yards. Learn distance control, wedge selection, and practice drills for the scoring zone.
+- swing-tips
+description: Drop strokes by mastering shots inside 100 yards. Learn distance control,
+  wedge selection, and practice drills for the scoring zone.
 author: Swing Analyzer Team
 ---
 
