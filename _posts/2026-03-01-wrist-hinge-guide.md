@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Golf Wrist Hinge: The Key to Generating Effortless Power"
-description: "Master the golf wrist hinge to unlock power and consistency. Learn proper timing, mechanics, and proven drills to improve your swing."
-date: 2026-03-01
-author: "Swing Analyzer Team"
-categories: [technique, power, backswing]
-tags: [wrist hinge, wrist cock, power, mechanics, backswing]
+title: 'Golf Wrist Hinge: The Key to Generating Effortless Power'
+date: '2026-03-01'
+categories:
+- golf
+- swing-tips
+description: Master the golf wrist hinge to unlock power and consistency. Learn proper
+  timing, mechanics, and proven drills to improve your swing.
+author: Swing Analyzer Team
+tags:
+- wrist hinge
+- wrist cock
+- power
+- mechanics
+- backswing
 ---
 
 # Golf Wrist Hinge: The Key to Generating Effortless Power
@@ -111,7 +119,7 @@ Hinging your wrists is half the battle. Releasing them at the right time is the 
 
 Here's the key insight: don't think about releasing your wrists. Think about proper sequencing instead.
 
-When your lower body leads the downswing, your upper body follows, and your arms drop naturally. That arm drop creates the wrist release without you manipulating it.
+When your lower body leads the downswing (as discussed in [The Golf Swing Transition]()), your upper body follows, and your arms drop naturally. That arm drop creates the wrist release without you manipulating it.
 
 The release is a byproduct of sequence, not something you force.
 
