@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "Golf Tempo: The Secret to Consistent Ball Striking"
-excerpt: "Learn what golf tempo is, why it matters more than swing speed, and how to develop a smooth, repeatable rhythm that produces better shots."
-date: 2026-02-27
-categories: [instruction]
-tags: [tempo, timing, consistency, rhythm, swing mechanics]
+title: 'Golf Tempo: The Secret to Consistent Ball Striking'
+date: '2026-02-27'
+categories:
+- golf
+- swing-tips
+description: ''
+author: Swing Analyzer Team
+tags:
+- tempo
+- timing
+- consistency
+- rhythm
+- swing mechanics
 ---
 
 Every golfer has hit shots that felt effortless yet flew perfectly. And every golfer has hit shots that felt powerful but went nowhere. The difference is often tempo.
@@ -74,6 +82,7 @@ Pick a three-syllable word and say it through your swing:
 ### Music Method
 Find a song with the right tempo and swing to it. Many tour players use music to groove their tempo:
 - Walking pace songs (100-120 BPM) work well
+- Think "Stayin' Alive" by the Bee Gees
 
 ## Tempo Drills That Work
 

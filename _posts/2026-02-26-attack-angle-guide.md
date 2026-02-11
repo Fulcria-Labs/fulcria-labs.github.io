@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "Attack Angle Explained: The Key to Hitting Driver Further and Irons Better"
-excerpt: "Learn what attack angle is, how it affects your ball flight, and how to optimize it for every club in your bag."
-date: 2026-02-26
-categories: [instruction]
-tags: [attack-angle, ball-striking, driver, irons, launch-conditions]
+title: 'Attack Angle Explained: The Key to Hitting Driver Further and Irons Better'
+date: '2026-02-26'
+categories:
+- golf
+- swing-tips
+description: ''
+author: Swing Analyzer Team
+tags:
+- attack angle
+- ball striking
+- driver
+- irons
+- launch conditions
 ---
 
 Attack angle is one of the most important—yet least understood—numbers in golf. It's the difference between crushing your driver and hitting weak pop-ups. It's why some players stripe their irons while others hit every shot thin.

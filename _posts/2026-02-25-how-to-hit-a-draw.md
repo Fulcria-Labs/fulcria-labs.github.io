@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "How to Hit a Draw: The Complete Guide to Curving the Ball Right-to-Left"
-description: "Learn how to hit a draw in golf with step-by-step instructions covering grip, stance, swing path, and the physics behind this powerful shot shape."
-date: 2026-02-25
-author: "Swing Analyzer Team"
-tags: ["draw", "shot shaping", "swing path", "face angle", "ball flight"]
+title: 'How to Hit a Draw: The Complete Guide to Curving the Ball Right-to-Left'
+date: '2026-02-25'
+categories:
+- golf
+- swing-tips
+description: Learn how to hit a draw in golf with step-by-step instructions covering
+  grip, stance, swing path, and the physics behind this powerful shot shape.
+author: Swing Analyzer Team
+tags:
+- draw
+- shot shaping
+- swing path
+- face angle
+- ball flight
 ---
+
+# How to Hit a Draw: The Complete Guide to Curving the Ball Right-to-Left
 
 A draw is one of the most sought-after shots in golf. It curves gently from right to left (for right-handed golfers), typically travels farther than a fade, and gives you that satisfying feeling of controlling your ball flight. Here's how to hit one consistently.
 
